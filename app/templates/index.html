@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/styles.css">
+    <!-- <link rel="stylesheet" href="{{ url_source('static', filename='styles.css') }}" -->
+    <script src="../scripts/index.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="left-nav-bar">
+                <li><a href=""><img src="../img/devil-fruit.png" class="op-logo"></a></li>
+            </div>
+            <div class="right-nav-bar">
+                <li><a href="https://api-onepiece.com/en/documentation/2-fruit" target="_blank" class="api-anchor">API</a></li>
+                <li><a href="" class="about-anchor">About</a></li>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <img class="op-title" src="../img/op-logo-netflix.png">
+        <search>
+            <form class="search-bar" action="WHERE THE DATA IS SENT TO" method="get">
+                <label for="search"></label>
+                <input id="search" class="search-field" type="search" name="df-search" placeholder="Find a devil fruit..." />
+                <button class="search-icon-button" type="submit">Q</button>
+            </form>
+        </search>
+        <fieldset class="df-type-filter">
+            <input type="radio" name="type" id="paramecia" value="paramecia">
+            <label for="paramecia">PARAMECIA</label>
+            
+            <input type="radio" name="type" id="zoan" value="zoan">
+            <label for="zoan">ZOAN</label>
+            
+            <input type="radio" name="type" id="logia" value="logia">
+            <label for="logia">LOGIA</label>
+        </fieldset>
+        <fieldset class="view-type">
+            <input type="radio" name="view" id="default" value="default" checked>
+            <label for="default">DEFAULT VIEW</label>
+
+            <input type="radio" name="view" id="compact" value="compact">
+            <label for="compact">COMPACT VIEW</label>
+        </fieldset>
+        <article class="df-container">
+            <figure class="df-modal">ASDADAS</figure>
+            <figure class="df-modal">ASDADAS</figure>
+            <figure class="df-modal">ASDADAS</figure>
+        </article>
+    </main>
+</body>
+</html>

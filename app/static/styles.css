@@ -1,0 +1,249 @@
+/* Setup */
+:root {
+  --primary-color: #025697;
+  --white: #ffffff;
+  --font-main: 'Roboto', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--white);
+  user-select: none; /* disables user text selection (blinking straight line) */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-family: var(--font-main);
+}
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
+
+
+/* Navigation Bar */
+.nav-bar {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  margin: 1rem 1rem;
+}
+
+
+.nav-bar .op-logo {
+  width: 3.2rem;
+  margin-left: 3rem;
+  margin-top: 0.5rem;
+  transition: transform 0.3s ease;
+  transform-origin: bottom center;
+}
+
+.nav-bar .op-logo:hover {
+  animation: op-logo-in 0.75s ease-in-out both;
+}
+
+@keyframes op-logo-in {
+  0% { transform: skewX(0deg); }
+  16.65% { transform: skewX(-12deg); }
+  33.3% { transform: skewX(10deg); }
+  49.95% { transform: skewX(-6deg); }
+  66.6% { transform: skewX(4deg); }
+  83.25% { transform: skewX(-2deg); }
+  100% { transform: skewX(0deg); }
+}
+
+.nav-bar li a:focus-visible {
+  outline: 0.1rem solid var(--primary-color);
+  outline-offset: 0.1rem;
+}
+
+.right-nav-bar {
+  display: flex;
+  margin-top: 1.6rem;
+  margin-right: 3rem;
+  gap: 5rem;
+  font-size: 1.3rem;
+}
+
+.about-anchor, .api-anchor {
+  background-color: var(--white);
+  border: 0.20rem solid var(--primary-color);
+  color: var(--primary-color);
+  font-size: 1.1rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.about-anchor:hover, .api-anchor:hover {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
+
+
+/* Title */
+.op-title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+  width: 35rem;
+  transform: scale(1);
+  transition: transform 0.4s ease-in-out;
+}
+
+.op-title:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+
+/* Search Bar */
+search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  position: relative;
+  width: 33.5rem;
+  background: var(--primary-color);
+  border-radius: 0.7rem;
+}
+
+.search-field, .search-icon-button {
+  height: 4.2rem;
+  border: 0;
+  color: #2f2f2f;
+  font-size: 1.8rem;
+}
+
+input[type="search"] {
+  outline-color: #f1f1f17a; 
+  width: 100%;
+  background: var(--white);
+  padding: 0 1.6rem;
+  border-radius: 0.3rem;
+  appearance: none;
+  transition: all 0.3s ease-in-out;
+  transition-property: width, border-radius;
+  z-index: 1;
+  position: relative;
+}
+
+.search-icon-button {
+  display: none;
+  color: var(--white);
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 6rem;
+  font-weight: bold;
+  background: var(--primary-color);
+  border-radius: 0 0.7rem 0.7rem 0;
+  cursor: pointer;
+}
+
+.search-field:not(:placeholder-shown) {
+  border-radius: 0.7rem 0 0 0.7rem;
+  width: calc(100% - 6rem);
+}
+
+.search-field:not(:placeholder-shown) + .search-icon-button {
+  display: block;
+}
+
+
+/* Devil Fruit Type Filters */
+.df-type-filter {
+  text-align: center;
+  border: 0;
+}
+
+.df-type-filter input {
+  display: none;
+  position: absolute;
+  caret-color: transparent;
+}
+
+.df-type-filter input + label {
+  display: inline-block;
+  padding: 2rem 4rem;
+  margin: 4rem 1.5rem 1.5rem 1.5rem;
+  color: var(--primary-color);
+  border: 0.2rem solid var(--primary-color);
+  border-radius: 0.3rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.df-type-filter input:checked + label {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
+
+.df-type-filter input:focus-visible + label {
+  outline: 0.1rem solid var(--primary-color);
+  outline-offset: 0.1rem;
+}
+
+
+/* Viewing Mode */
+.view-type {
+  text-align: center;
+  border: 0;
+  margin-top: 1.5rem;
+}
+
+.view-type input {
+  display: inline-block;
+  appearance: none;
+  position: absolute;
+}
+
+.view-type input + label {
+  padding: 0.15rem 0.3rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  margin: 0.2rem 0.3rem 1rem 0.3rem;
+  border: 0.15rem solid var(--primary-color);
+  border-radius: 0.3rem;
+  color: var(--primary-color);
+  transition: background-color 0.3s ease;
+}
+
+.view-type input:checked + label {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
+
+.view-type input:focus-visible + label {
+  outline: 0.1rem solid var(--primary-color);
+  outline-offset: 0.1rem;
+}
+
+
+/* Devil Fruit Modals */
+.df-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+
+.df-container .df-modal {
+  padding: 10rem 5rem;
+  border: 0.2rem solid var(--primary-color);
+  border-radius: 0.3rem;
+}
