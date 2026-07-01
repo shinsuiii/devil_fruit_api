@@ -9,27 +9,60 @@ from selenium.webdriver.chrome.options import Options
 
 
 def main():
-    url = "https://onepiece.fandom.com/wiki/Paramecia"
-    response = requests.get()
+    driver = webdriver.Chrome()
+    urls = get_links("https://onepiece.fandom.com/wiki/Paramecia", driver)
+    print(urls)
 
-    options = Options()
-    options.add_argument("--headless")
+
+
+
+
+def get_links(root_url, driver):
+    driver.get(root_url)
+    table_row = WebDriverWait(driver, 10).until(
+        EC.presence_of_all_elements_located(By.CSS_SELECTOR, ".sortable.jquery-tablesorter")
+    )
+
+    urls = []
+
+    for table in table_row:
+        urls.append(table.css_first("tbody tr td a").attributes.get("href"))
+
+    driver.quit()
+    return urls
+    ...
+
+
+def scrape():
+
+    ...
+
+
+
+
+
+
+
+
+def test_1():
+    url = "https://onepiece.fandom.com/wiki/Paramecia"
     
-    driver = webdriver.Chrome(options=options)
+    driver = webdriver.Chrome()
     driver.get(url)
 
-    WebDriverWait(driver, 10).until(
+    cards = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located(By.CSS_SELECTOR, "")
     )
 
-    html = driver.page_source
+    for card in cards:
+        data = {
+
+        }
+
     driver.quit()
 
-    tree = LexborHTMLParser(html)
 
-
-
-def test():
+def test_2():
     url = "https://onepiece.fandom.com/wiki/Paramecia"
 
     driver = webdriver.Chrome()
@@ -37,7 +70,7 @@ def test():
 
     tables = driver.find_elements(By.CSS_SELECTOR, "")
 
-    # Searches only what is inside the container inside "tables"
+    # Searches only what is inside the container inside "tables" (tables == WebElement)
     for table in tables:
         name = table.find_element(By.CSS_SELECTOR, "")
 
@@ -63,5 +96,4 @@ def get_img_src():
 
 
 if __name__ == "__main__":
-    test()
-    #main()
+    main()
