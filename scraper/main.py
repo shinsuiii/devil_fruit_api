@@ -5,69 +5,78 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.options import Options
 
 
 
 def main():
-    driver = webdriver.Chrome()
-
     root_url = "https://onepiece.fandom.com/wiki/Paramecia"
-    root_table = WebDriverWait(driver, 10).until(
-        EC.visibility_of_element_located((By.CSS_SELECTOR, ".sortable.jquery-tablesorter"))
-    )
+    expanded_data = []
+    id_counter = 0
 
-    urls = get_links(driver, root_url, root_table)
-    
-    data_list = []
+    driver = webdriver.Chrome()
 
     try:
         driver.get(root_url)
+        root_table = WebDriverWait(driver, 10).until(
+            EC.visibility_of_all_elements_located((By.CSS_SELECTOR, ".sortable.jquery-tablesorter"))
+        )
 
+        for table in root_table:
+            target_row = table.find_elements(By.CSS_SELECTOR, "tbody")
 
-        main_table = root_table.find_elements(By.CSS_SELECTOR, "tbody tr")
+            for row in target_row:
+                id_counter += 1
 
-        for table in main_table:
-            data = {
-                "name": table.find_element(By.XPATH, ".//td[1]/a").text,
-                "user": table.find_element(By.XPATH, ".//td[2]/a").text,
-                "description": table.find_element(By.XPATH, ".//td[3]").text,
-            }
+                try:
+                    fruit_user = row.find_element(By.XPATH, ".//td[2]")
+                    span_indicator = fruit_user.find_element(By.CSS_SELECTOR, ".nomobile")
+                    # Checks the existence of a previous user.
+                    if span_indicator:
+                        previous_user = fruit_user.find_element(By.XPATH, ".//a[1]").text
+                        current_user = fruit_user.find_element(By.XPATH, ".//a[2]").text
+                    else:
+                        current_user = fruit_user.find_element(By.XPATH, ".//a[1]").text
+                except NoSuchElementException:
+                    pass
 
-            data_list.append(data)
-            time.sleep(0.2)
+                data = {
+                    "id": id_counter,
+                    "name": row.find_element(By.XPATH, ".//td[1]/a").text,
+                    "type": root_url.replace("https://onepiece.fandom.com/wiki/", ""),
+                    "current_user": current_user,
+                    **({"previous_user": previous_user}),
+                    "description": row.find_element(By.XPATH, ".//td[3]").text,
+                }
 
+                expanded_data.append(data)
+                time.sleep(0.1)
+            
+            id_counter = 0 # resets counter to zero after iterating through a tabl
+            time.sleep(0.1)
+        
+        with open("expanded_data.json", "w") as file:
+            json.dump(expanded_data, file, indent=2)
+    
     except TimeoutException:
         driver.quit()
-    
-    with open("data.json", "w") as file:
-        json.dump(data_list, file, indent=2)
 
     driver.quit()
 
 
+def test():
+    root_url = "https://onepiece.fandom.com/wiki/Paramecia"
+    driver = webdriver.Chrome()
 
-def get_links(driver, root_url, root_table):
-    try:
-        driver.get(root_url)
+    driver.get(root_url)
+    table_list = WebDriverWait(driver, 10).until(
+        EC.visibility_of_all_elements_located((By.CSS_SELECTOR, ".sortable.jquery-tablesorter"))
+    )
 
-        
+    print(len(table_list))
 
-        
-
-
-
-
-    except TimeoutException:
-        driver.quit()
-
-
-
-
-
-
-
+    driver.quit()
 
 
 

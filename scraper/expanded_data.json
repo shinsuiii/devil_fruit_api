@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Gomu Gomu no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Makes the user a Rubber Human whose body is permanently elastic: able to stretch, contort, inflate, and bounce like rubber, near-impervious to all blunt/crushing forces, and immune to electricity.\nNOTE: The fruit was originally called \"Hito Hito no Mi, Model: Nika\" and classified as a Mythical Zoan before being renamed by the World Government.[10] Only through its awakening is the fruit's true \"Sun God\" Nika transformation unlocked."
+  },
+  {
+    "id": 1,
+    "name": "Hiso Hiso no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Allows the user to communicate with animals."
+  },
+  {
+    "id": 1,
+    "name": "Moa Moa no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Allows the user to multiply the size and speed of any object they touch by up to a factor of 100."
+  },
+  {
+    "id": 1,
+    "name": "Goe Goe no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Allows the user to release powerful sound waves by screaming, which resemble giant energy beams."
+  },
+  {
+    "id": 1,
+    "name": "Dero Dero no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Makes the user a Dissolving Human who can dissolve anything into a liquid, including themself."
+  },
+  {
+    "id": 1,
+    "name": "Kopi Kopi no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Allows the user to copy the abilities of another Devil Fruit user."
+  },
+  {
+    "id": 1,
+    "name": "Nemu Nemu no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Allows the user to induce sleepiness in others, steal their sleeping victims' memories, and use them to become bigger and stronger."
+  },
+  {
+    "id": 1,
+    "name": "Mini Mini no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Allows the user to shrink themself down to 5 mm in height without reducing their strength. They can also return to their full size at will, as well as change to any size in-between."
+  },
+  {
+    "id": 1,
+    "name": "Peke Peke no Mi",
+    "type": "Paramecia",
+    "current_user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
+    "description": "Allows the user to transform other people into clones of Peketan."
+  }
+]
