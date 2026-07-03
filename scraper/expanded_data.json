@@ -1,74 +1,582 @@
 [
   {
-    "id": 1,
-    "name": "Gomu Gomu no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Makes the user a Rubber Human whose body is permanently elastic: able to stretch, contort, inflate, and bounce like rubber, near-impervious to all blunt/crushing forces, and immune to electricity.\nNOTE: The fruit was originally called \"Hito Hito no Mi, Model: Nika\" and classified as a Mythical Zoan before being renamed by the World Government.[10] Only through its awakening is the fruit's true \"Sun God\" Nika transformation unlocked."
+    "id": "1",
+    "name": "Gomu Gomu no Mi"
   },
   {
-    "id": 1,
-    "name": "Hiso Hiso no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Allows the user to communicate with animals."
+    "id": "2",
+    "name": "Bara Bara no Mi"
   },
   {
-    "id": 1,
-    "name": "Moa Moa no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Allows the user to multiply the size and speed of any object they touch by up to a factor of 100."
+    "id": "3",
+    "name": "Sube Sube no Mi"
   },
   {
-    "id": 1,
-    "name": "Goe Goe no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Allows the user to release powerful sound waves by screaming, which resemble giant energy beams."
+    "id": "4",
+    "name": "Bomu Bomu no Mi"
   },
   {
-    "id": 1,
-    "name": "Dero Dero no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Makes the user a Dissolving Human who can dissolve anything into a liquid, including themself."
+    "id": "5",
+    "name": "Kiro Kiro no Mi"
   },
   {
-    "id": 1,
-    "name": "Kopi Kopi no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Allows the user to copy the abilities of another Devil Fruit user."
+    "id": "6",
+    "name": "Hana Hana no Mi"
   },
   {
-    "id": 1,
-    "name": "Nemu Nemu no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Allows the user to induce sleepiness in others, steal their sleeping victims' memories, and use them to become bigger and stronger."
+    "id": "7",
+    "name": "Doru Doru no Mi"
   },
   {
-    "id": 1,
-    "name": "Mini Mini no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Allows the user to shrink themself down to 5 mm in height without reducing their strength. They can also return to their full size at will, as well as change to any size in-between."
+    "id": "8",
+    "name": "Baku Baku no Mi"
   },
   {
-    "id": 1,
-    "name": "Peke Peke no Mi",
-    "type": "Paramecia",
-    "current_user": "Monkey D. Luffy",
-    "previous_user": "Joy Boy",
-    "description": "Allows the user to transform other people into clones of Peketan."
+    "id": "9",
+    "name": "Mane Mane no Mi"
+  },
+  {
+    "id": "10",
+    "name": "Supa Supa no Mi"
+  },
+  {
+    "id": "11",
+    "name": "Toge Toge no Mi"
+  },
+  {
+    "id": "12",
+    "name": "Ori Ori no Mi"
+  },
+  {
+    "id": "13",
+    "name": "Bane Bane no Mi"
+  },
+  {
+    "id": "14",
+    "name": "Ito Ito no Mi"
+  },
+  {
+    "id": "15",
+    "name": "Noro Noro no Mi"
+  },
+  {
+    "id": "16",
+    "name": "Doa Doa no Mi"
+  },
+  {
+    "id": "17",
+    "name": "Awa Awa no Mi"
+  },
+  {
+    "id": "18",
+    "name": "Beri Beri no Mi"
+  },
+  {
+    "id": "19",
+    "name": "Sabi Sabi no Mi"
+  },
+  {
+    "id": "20",
+    "name": "Shari Shari no Mi"
+  },
+  {
+    "id": "21",
+    "name": "Horo Horo no Mi"
+  },
+  {
+    "id": "22",
+    "name": "Yomi Yomi no Mi"
+  },
+  {
+    "id": "23",
+    "name": "Kage Kage no Mi"
+  },
+  {
+    "id": "24",
+    "name": "Suke Suke no Mi"
+  },
+  {
+    "id": "25",
+    "name": "Nikyu Nikyu no Mi"
+  },
+  {
+    "id": "26",
+    "name": "Toshi Toshi no Mi"
+  },
+  {
+    "id": "27",
+    "name": "Jiki Jiki no Mi"
+  },
+  {
+    "id": "28",
+    "name": "Ope Ope no Mi"
+  },
+  {
+    "id": "29",
+    "name": "Shiro Shiro no Mi"
+  },
+  {
+    "id": "30",
+    "name": "Wara Wara no Mi"
+  },
+  {
+    "id": "31",
+    "name": "Oto Oto no Mi"
+  },
+  {
+    "id": "32",
+    "name": "Mero Mero no Mi"
+  },
+  {
+    "id": "33",
+    "name": "Doku Doku no Mi"
+  },
+  {
+    "id": "34",
+    "name": "Horu Horu no Mi"
+  },
+  {
+    "id": "35",
+    "name": "Choki Choki no Mi"
+  },
+  {
+    "id": "36",
+    "name": "Gura Gura no Mi"
+  },
+  {
+    "id": "37",
+    "name": "Kira Kira no Mi"
+  },
+  {
+    "id": "38",
+    "name": "Poke Poke no Mi"
+  },
+  {
+    "id": "39",
+    "name": "Woshu Woshu no Mi"
+  },
+  {
+    "id": "40",
+    "name": "Fuwa Fuwa no Mi"
+  },
+  {
+    "id": "41",
+    "name": "Deka Deka no Mi"
+  },
+  {
+    "id": "42",
+    "name": "Mato Mato no Mi"
+  },
+  {
+    "id": "43",
+    "name": "Fuku Fuku no Mi"
+  },
+  {
+    "id": "44",
+    "name": "Hobi Hobi no Mi"
+  },
+  {
+    "id": "45",
+    "name": "Buki Buki no Mi"
+  },
+  {
+    "id": "46",
+    "name": "Guru Guru no Mi"
+  },
+  {
+    "id": "47",
+    "name": "Beta Beta no Mi"
+  },
+  {
+    "id": "48",
+    "name": "Zushi Zushi no Mi"
+  },
+  {
+    "id": "49",
+    "name": "Bari Bari no Mi"
+  },
+  {
+    "id": "50",
+    "name": "Nui Nui no Mi"
+  },
+  {
+    "id": "51",
+    "name": "Giro Giro no Mi"
+  },
+  {
+    "id": "52",
+    "name": "Ato Ato no Mi"
+  },
+  {
+    "id": "53",
+    "name": "Jake Jake no Mi"
+  },
+  {
+    "id": "54",
+    "name": "Pamu Pamu no Mi"
+  },
+  {
+    "id": "55",
+    "name": "Sui Sui no Mi"
+  },
+  {
+    "id": "56",
+    "name": "Ton Ton no Mi"
+  },
+  {
+    "id": "57",
+    "name": "Hira Hira no Mi"
+  },
+  {
+    "id": "58",
+    "name": "Ishi Ishi no Mi"
+  },
+  {
+    "id": "59",
+    "name": "Fude Fude no Mi"
+  },
+  {
+    "id": "60",
+    "name": "Nagi Nagi no Mi"
+  },
+  {
+    "id": "61",
+    "name": "Chiyu Chiyu no Mi"
+  },
+  {
+    "id": "62",
+    "name": "Maki Maki no Mi"
+  },
+  {
+    "id": "63",
+    "name": "Soru Soru no Mi"
+  },
+  {
+    "id": "64",
+    "name": "Mira Mira no Mi"
+  },
+  {
+    "id": "65",
+    "name": "Pero Pero no Mi"
+  },
+  {
+    "id": "66",
+    "name": "Bisu Bisu no Mi"
+  },
+  {
+    "id": "67",
+    "name": "Bata Bata no Mi"
+  },
+  {
+    "id": "68",
+    "name": "Buku Buku no Mi"
+  },
+  {
+    "id": "69",
+    "name": "Kuri Kuri no Mi"
+  },
+  {
+    "id": "70",
+    "name": "Shibo Shibo no Mi"
+  },
+  {
+    "id": "71",
+    "name": "Memo Memo no Mi"
+  },
+  {
+    "id": "72",
+    "name": "Mochi Mochi no Mi"
+  },
+  {
+    "id": "73",
+    "name": "Hoya Hoya no Mi"
+  },
+  {
+    "id": "74",
+    "name": "Netsu Netsu no Mi"
+  },
+  {
+    "id": "75",
+    "name": "Kuku Kuku no Mi"
+  },
+  {
+    "id": "76",
+    "name": "Gocha Gocha no Mi"
+  },
+  {
+    "id": "77",
+    "name": "Oshi Oshi no Mi"
+  },
+  {
+    "id": "78",
+    "name": "Kobu Kobu no Mi"
+  },
+  {
+    "id": "79",
+    "name": "Kibi Kibi no Mi"
+  },
+  {
+    "id": "80",
+    "name": "Toki Toki no Mi"
+  },
+  {
+    "id": "81",
+    "name": "Juku Juku no Mi"
+  },
+  {
+    "id": "82",
+    "name": "Shiku Shiku no Mi"
+  },
+  {
+    "id": "83",
+    "name": "Wapu Wapu no Mi"
+  },
+  {
+    "id": "84",
+    "name": "Riki Riki no Mi"
+  },
+  {
+    "id": "85",
+    "name": "Nomi Nomi no Mi"
+  },
+  {
+    "id": "86",
+    "name": "Shima Shima no Mi"
+  },
+  {
+    "id": "87",
+    "name": "Gabu Gabu no Mi"
+  },
+  {
+    "id": "88",
+    "name": "Muchi Muchi no Mi"
+  },
+  {
+    "id": "89",
+    "name": "Nori Nori no Mi"
+  },
+  {
+    "id": "90",
+    "name": "Tsutsu Tsutsu no Mi"
+  },
+  {
+    "id": "91",
+    "name": "Iku Iku no Mi"
+  },
+  {
+    "id": "92",
+    "name": "Aro Aro no Mi"
+  },
+  {
+    "id": "93",
+    "name": "Iba Iba no Mi"
+  },
+  {
+    "id": "94",
+    "name": "Hiso Hiso no Mi"
+  },
+  {
+    "id": "95",
+    "name": "Kama Kama no Mi"
+  },
+  {
+    "id": "96",
+    "name": "Atsu Atsu no Mi"
+  },
+  {
+    "id": "97",
+    "name": "Ami Ami no Mi"
+  },
+  {
+    "id": "98",
+    "name": "Peto Peto no Mi"
+  },
+  {
+    "id": "99",
+    "name": "Koro Koro no Mi"
+  },
+  {
+    "id": "100",
+    "name": "Moa Moa no Mi"
+  },
+  {
+    "id": "101",
+    "name": "Kyubu Kyubu no Mi"
+  },
+  {
+    "id": "102",
+    "name": "Jara Jara no Mi"
+  },
+  {
+    "id": "103",
+    "name": "Iro Iro no Mi"
+  },
+  {
+    "id": "104",
+    "name": "Goe Goe no Mi"
+  },
+  {
+    "id": "105",
+    "name": "Kachi Kachi no Mi"
+  },
+  {
+    "id": "106",
+    "name": "Noko Noko no Mi"
+  },
+  {
+    "id": "107",
+    "name": "Modo Modo no Mi"
+  },
+  {
+    "id": "108",
+    "name": "Mosa Mosa no Mi"
+  },
+  {
+    "id": "109",
+    "name": "Nuke Nuke no Mi"
+  },
+  {
+    "id": "110",
+    "name": "Goru Goru no Mi"
+  },
+  {
+    "id": "111",
+    "name": "Raki Raki no Mi"
+  },
+  {
+    "id": "112",
+    "name": "Bijo Bijo no Mi"
+  },
+  {
+    "id": "113",
+    "name": "Gasha Gasha no Mi"
+  },
+  {
+    "id": "114",
+    "name": "Uta Uta no Mi"
+  },
+  {
+    "id": "115",
+    "name": "Dero Dero no Mi"
+  },
+  {
+    "id": "116",
+    "name": "Kopi Kopi no Mi"
+  },
+  {
+    "id": "117",
+    "name": "Kone Kone no Mi"
+  },
+  {
+    "id": "118",
+    "name": "Maji Maji no Mi"
+  },
+  {
+    "id": "119",
+    "name": "Nito Nito no Mi"
+  },
+  {
+    "id": "120",
+    "name": "Hore Hore no Mi"
+  },
+  {
+    "id": "121",
+    "name": "Nepa Nepa no Mi"
+  },
+  {
+    "id": "122",
+    "name": "Mono Mono no Mi"
+  },
+  {
+    "id": "123",
+    "name": "Ute Ute no Mi"
+  },
+  {
+    "id": "124",
+    "name": "Pocha Pocha no Mi"
+  },
+  {
+    "id": "125",
+    "name": "Bana Bana no Mi"
+  },
+  {
+    "id": "126",
+    "name": "Deri Deri no Mi"
+  },
+  {
+    "id": "127",
+    "name": "Basu Basu no Mi"
+  },
+  {
+    "id": "128",
+    "name": "Nibi Nibi no Mi"
+  },
+  {
+    "id": "129",
+    "name": "Nori Nori no Mi"
+  },
+  {
+    "id": "130",
+    "name": "Chuni Chuni no Mi"
+  },
+  {
+    "id": "131",
+    "name": "Mari Mari no Mi"
+  },
+  {
+    "id": "132",
+    "name": "Shuku Shuku no Mi"
+  },
+  {
+    "id": "133",
+    "name": "Homi Homi no Mi"
+  },
+  {
+    "id": "134",
+    "name": "Mabo Mabo no Mi"
+  },
+  {
+    "id": "135",
+    "name": "Kado Kado no Mi"
+  },
+  {
+    "id": "136",
+    "name": "Riba Riba no Mi"
+  },
+  {
+    "id": "137",
+    "name": "Nemu Nemu no Mi"
+  },
+  {
+    "id": "138",
+    "name": "Kote Kote no Mi"
+  },
+  {
+    "id": "139",
+    "name": "Mini Mini no Mi"
+  },
+  {
+    "id": "140",
+    "name": "Lily Enstomach"
+  },
+  {
+    "id": "141",
+    "name": "Gutsu Gutsu no Mi"
+  },
+  {
+    "id": "142",
+    "name": "Bill"
+  },
+  {
+    "id": "143",
+    "name": "Peke Peke no Mi"
+  },
+  {
+    "id": "144",
+    "name": "Gemu Gemu no Mi"
+  },
+  {
+    "id": "145",
+    "name": "Kyara Kyara no Mi"
   }
 ]

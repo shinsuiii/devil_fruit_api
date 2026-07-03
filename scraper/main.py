@@ -24,7 +24,7 @@ def main():
         )
 
         for table in root_table:
-            target_row = table.find_elements(By.CSS_SELECTOR, "tbody")
+            target_row = table.find_elements(By.TAG_NAME, "tbody")
 
             for row in target_row:
                 id_counter += 1
@@ -68,19 +68,45 @@ def main():
 def test():
     root_url = "https://onepiece.fandom.com/wiki/Paramecia"
     driver = webdriver.Chrome()
+    data_storage = []
+    id_counter = 0
 
-    driver.get(root_url)
-    table_list = WebDriverWait(driver, 10).until(
-        EC.visibility_of_all_elements_located((By.CSS_SELECTOR, ".sortable.jquery-tablesorter"))
-    )
+    try:
+        driver.get(root_url)
+        table_list = WebDriverWait(driver, 10).until(
+            EC.visibility_of_all_elements_located((By.CSS_SELECTOR, ".sortable.jquery-tablesorter"))
+        )
+        
+        for table in table_list:
+            # Gets all tbody (9)
+            target_row = table.find_elements(By.TAG_NAME, "tbody")
+            
+            for row in target_row:
+                # Gets all tr inside a tbody
+                tr = row.find_elements(By.TAG_NAME, "tr")
 
-    print(len(table_list))
+                for td in tr:
+                    id_counter += 1
+                    data = {
+                        "id": f"{id_counter}",
+                        "name": td.find_element(By.XPATH, ".//td[1]/a").text
+                    }
+
+                    data_storage.append(data)
+                    time.sleep(0.1)
+
+            time.sleep(0.1)
+
+    except TimeoutException:
+        driver.quit()
+
+    with open("expanded_data.json", "w") as file:
+        json.dump(data_storage, file, indent=2)
 
     driver.quit()
 
 
 
-
-
 if __name__ == "__main__":
-    main()
+    # main()
+    test()
