@@ -11,16 +11,18 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 def main():
+    df_links = get_links()
+    img_srcs = get_img_src(df_links)
+
     root_url = "https://onepiece.fandom.com/wiki/Paramecia"
     options = Options()
     options.page_load_strategy = "eager"
     options.add_argument("--disable-notifications")
     options.add_argument("--disable-popup-blocking")
-
     driver = webdriver.Chrome(options=options)
-    driver.set_page_load_timeout(60)  # fail fast instead of hanging 120s
+    driver.set_page_load_timeout(60)  # Fail fast instead of hanging 120s
     
-    data_storage = []
+    text_data = []
     id_counter = 0
 
     try:
@@ -29,8 +31,7 @@ def main():
             EC.visibility_of_all_elements_located((By.CSS_SELECTOR, ".sortable.jquery-tablesorter"))
         )
         
-        # Determines if a df is canon or non-canon
-        reference_table = tables[0]
+        reference_table = tables[0] # Determines if a df is canon or non-canon
         before_ref = reference_table.find_element(By.XPATH, "./preceding-sibling::h3[1]/span[1]").text
         after_ref = reference_table.find_element(By.XPATH, "./following-sibling::h3[1]/span[1]").text
 
@@ -69,13 +70,96 @@ def main():
                     "canon_status": before_ref if table == reference_table else after_ref,
                     "description": td[2].text if len(td) > 2 else "",
                 }
-                data_storage.append(data)
+                text_data.append(data)
                 time.sleep(0.2)
 
     finally:
         driver.quit()
-        with open("expanded_data.json", "w") as file:
+        # Combines the text data with the images src link extracted
+        data_storage = [text_data | img_srcs for text_data, img_srcs in zip(text_data, img_srcs)]
+        with open("data.json", "w") as file:
             json.dump(data_storage, file, indent=2)
+
+
+def get_links():
+    root_url = "https://onepiece.fandom.com/wiki/Paramecia"
+    options = Options()
+    options.page_load_strategy = "normal"
+    options.add_argument("--disable-notifications")
+    options.add_argument("--disable-popup-blocking")
+    options.add_argument("--blink-settings=imagesEnabled=false")
+    prefs = {"profile.managed_default_content_settings.images": 2}
+    options.add_experimental_option("prefs", prefs)
+    driver = webdriver.Chrome(options=options)
+    driver.set_page_load_timeout(90)
+    driver.set_script_timeout(90)
+
+    df_links = []
+
+    try:
+        driver.get(root_url)
+        time.sleep(2)
+        tables = WebDriverWait(driver, 10).until(
+            EC.visibility_of_all_elements_located((By.CSS_SELECTOR, ".sortable.jquery-tablesorter"))
+        )
+
+        for table in tables:
+            tr_list = table.find_elements(By.CSS_SELECTOR, "tbody tr")
+
+            for tr in tr_list:
+                td = tr.find_elements(By.TAG_NAME, "td")
+
+                try:
+                    link = td[0].find_element(By.TAG_NAME, "a").get_attribute("href")
+                except NoSuchElementException:
+                    print("No link...")
+
+                data = {"fruit_link": link,}
+                df_links.append(data)
+                time.sleep(0.2)
+
+    finally:
+        driver.quit()
+        print("Links successfully extracted.")
+
+    return df_links
+
+
+def get_img_src(df_links):
+    options = Options()
+    options.page_load_strategy = "eager"
+    options.add_argument("--disable-notifications")
+    options.add_argument("--disable-popup-blocking")
+    options.add_argument("--blink-settings=imagesEnabled=false")
+    prefs = {"profile.managed_default_content_settings.images": 2}
+    options.add_experimental_option("prefs", prefs)
+    driver = webdriver.Chrome(options=options)
+    driver.set_page_load_timeout(90)
+    driver.set_script_timeout(90)
+
+    img_srcs = []
+
+    try:
+        for link in df_links:
+                driver.get(link["fruit_link"])
+                figure_element = WebDriverWait(driver, 10).until(
+                    EC.visibility_of_all_elements_located((By.CSS_SELECTOR, ".pi-item.pi-image"))
+                )
+
+                for figure in figure_element:
+                    try:
+                        img = figure.find_element(By.CSS_SELECTOR, ".image.image-thumbnail img").get_attribute("src")
+                        data = {"img_src": img,}
+                        img_srcs.append(data)
+
+                    except TimeoutException:
+                        print(f"No image found for {link['fruit_link']}")
+                        img_srcs.append({"img_src": None})
+    finally:
+        driver.quit()
+
+    print("Image sources extracted successfully.")
+    return img_srcs
 
 
 
