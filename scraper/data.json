@@ -2,1170 +2,2287 @@
   {
     "id": "1",
     "name": "Gomu Gomu no Mi",
+    "en_name": "Gum-Gum Fruit",
+    "type": "Paramecia",
     "user": "Monkey D. Luffy",
     "previous_user": "Joy Boy",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Makes the user a Rubber Human whose body is permanently elastic: able to stretch, contort, inflate, and bounce like rubber, near-impervious to all blunt/crushing forces, and immune to electricity.\nNOTE: The fruit was originally called \"Hito Hito no Mi, Model: Nika\" and classified as a Mythical Zoan before being renamed by the World Government.[10] Only through its awakening is the fruit's true \"Sun God\" Nika transformation unlocked."
+    "description": "Makes the user a Rubber Human whose body is permanently elastic: able to stretch, contort, inflate, and bounce like rubber, near-impervious to all blunt crushing forces, and immune to electricity.NOTE: The fruit was originally called \"Hito Hito no Mi, Model: Nika\" and classified as a Mythical Zoan before being renamed by the World Government.[10] Only through its awakening is the fruit's true \"Sun God\" Nika transformation unlocked.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/12/Gomu_Gomu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20221108072550"
   },
   {
     "id": "2",
     "name": "Bara Bara no Mi",
-    "user": "Buggy",
+    "en_name": "Chop-Chop Fruit",
     "type": "Paramecia",
+    "user": "Buggy",
     "canon_status": "Canon",
-    "description": "Makes the user a Splitting Human who can split apart their body at will, then control and levitate the separate pieces. The user also gains passive immunity to being slashed, simply separating when struck by blades or cutting forces."
+    "description": "Makes the user a Splitting Human who can split apart their body at will, then control and levitate the separate pieces. The user also gains passive immunity to being slashed, simply separating when struck by blades or cutting forces.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Bara_Bara_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240421082610"
   },
   {
     "id": "3",
     "name": "Sube Sube no Mi",
-    "user": "Alvida",
+    "en_name": "Slip-Slip Fruit; Smooth-Smooth Fruit",
     "type": "Paramecia",
+    "user": "Alvida",
     "canon_status": "Canon",
-    "description": "Makes the user's skin extremely smooth and slippery, causing attacks, objects, and even excess body fat to harmlessly slide off them due to lack of friction."
+    "description": "Makes the user's skin extremely smooth and slippery, causing attacks, objects, and even excess body fat to harmlessly slide off them due to lack of friction.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sube_Sube_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250826143841"
   },
   {
     "id": "4",
     "name": "Bomu Bomu no Mi",
+    "en_name": "Bomb-Bomb Fruit; Boom-Boom Fruit",
+    "type": "Paramecia",
     "user": "Gem",
     "previous_user": "Ganzui",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Makes the user a Bomb Human who can detonate any part of their body (as well as bodily emissions/secretions) to unleash heat-based explosions, while also becoming immune to explosions."
+    "description": "Makes the user a Bomb Human who can detonate any part of their body (as well as bodily emissions secretions) to unleash heat-based explosions, while also becoming immune to explosions.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/1a/Bomu_Bomu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20210204030003"
   },
   {
     "id": "5",
     "name": "Kiro Kiro no Mi",
-    "user": "Mikita",
+    "en_name": "Kilo-Kilo Fruit",
     "type": "Paramecia",
+    "user": "Mikita",
     "canon_status": "Canon",
-    "description": "Allows the user to increase or decrease their body weight at will, from anywhere between 1 to 10,000 kilograms."
+    "description": "Allows the user to increase or decrease their body weight at will, from anywhere between 1 to 10,000 kilograms.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/89/Kiro_Kiro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210204030042"
   },
   {
     "id": "6",
     "name": "Hana Hana no Mi",
-    "user": "Nico Robin",
+    "en_name": "Flower-Flower Fruit",
     "type": "Paramecia",
+    "user": "Nico Robin",
     "canon_status": "Canon",
-    "description": "Allows the user to grow duplicates of their body parts from nearby surfaces as if sprouting flowers, whether it be individual limbs or their entire body; the user maintains full control over said duplicates."
+    "description": "Allows the user to grow duplicates of their body parts from nearby surfaces as if sprouting flowers, whether it be individual limbs or their entire body; the user maintains full control over said duplicates.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/21/Hana_Hana_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20191228120242"
   },
   {
     "id": "7",
     "name": "Doru Doru no Mi",
-    "user": "Galdino",
+    "en_name": "Wax-Wax Fruit",
     "type": "Paramecia",
+    "user": "Galdino",
     "canon_status": "Canon",
-    "description": "Makes the user a Candle Human who can create and control candle wax."
+    "description": "Makes the user a Candle Human who can create and control candle wax.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Doru_Doru_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20250826143904"
   },
   {
     "id": "8",
     "name": "Baku Baku no Mi",
-    "user": "Wapol",
+    "en_name": "Munch-Munch Fruit",
     "type": "Paramecia",
+    "user": "Wapol",
     "canon_status": "Canon",
-    "description": "Allows the user to expand their mouth and eat anything, as well transform their body to replicate the characteristics and function of anything they have eaten in the past 24 hours."
+    "description": "Allows the user to expand their mouth and eat anything, as well transform their body to replicate the characteristics and function of anything they have eaten in the past 24 hours.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Baku_Baku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250826143858"
   },
   {
     "id": "9",
     "name": "Mane Mane no Mi",
+    "en_name": "Clone-Clone Fruit",
+    "type": "Paramecia",
     "user": "Bentham",
     "previous_user": "Kurozumi Higurashi",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Makes the user an Imitating Human, capable of transforming into a perfect physical lookalike (sans clothing) of anyone whose face they have touched before."
+    "description": "Makes the user an Imitating Human, capable of transforming into a perfect physical lookalike (sans clothing) of anyone whose face they have touched before.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/12/Mane_Mane_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240605221030"
   },
   {
     "id": "10",
     "name": "Supa Supa no Mi",
-    "user": "Daz Bones",
+    "en_name": "Dice-Dice Fruit",
     "type": "Paramecia",
+    "user": "Daz Bones",
     "canon_status": "Canon",
-    "description": "Makes the user a Full-Body Bladed Human who can transform any part of their body into a steel blade, thus gaining slashing abilities similar to a swordsman's and bodily toughness equal to steel."
+    "description": "Makes the user a Full-Body Bladed Human who can transform any part of their body into a steel blade, thus gaining slashing abilities similar to a swordsman's and bodily toughness equal to steel.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Supa_Supa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20240605221022"
   },
   {
     "id": "11",
     "name": "Toge Toge no Mi",
-    "user": "Zala",
+    "en_name": "Spike-Spike Fruit",
     "type": "Paramecia",
+    "user": "Zala",
     "canon_status": "Canon",
-    "description": "Makes the user a Spike Human who can grow long, pointy spikes from any part of their body."
+    "description": "Makes the user a Spike Human who can grow long, pointy spikes from any part of their body.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Toge_Toge_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230120173638"
   },
   {
     "id": "12",
     "name": "Ori Ori no Mi",
-    "user": "Hina",
+    "en_name": "Cage-Cage Fruit; Bind-Bind Fruit",
     "type": "Paramecia",
+    "user": "Hina",
     "canon_status": "Canon",
-    "description": "Allows the user to create iron bindings (cuffs, cage bars, etc.) from their body to restrain enemies."
+    "description": "Allows the user to create iron bindings (cuffs, cage bars, etc.) from their body to restrain enemies.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Ori_Ori_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20231125033554"
   },
   {
     "id": "13",
     "name": "Bane Bane no Mi",
-    "user": "Bellamy",
+    "en_name": "Spring-Spring Fruit; Boing-Boing Fruit",
     "type": "Paramecia",
+    "user": "Bellamy",
     "canon_status": "Canon",
-    "description": "Makes the user a Spring Human who can turn parts of their body, especially their limbs, into springs that gather great force when compressed and can be used to spring-hop between surfaces."
+    "description": "Makes the user a Spring Human who can turn parts of their body, especially their limbs, into springs that gather great force when compressed and can be used to spring-hop between surfaces.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/1d/Bane_Bane_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20160913222919"
   },
   {
     "id": "14",
     "name": "Ito Ito no Mi",
-    "user": "Donquixote Doflamingo",
+    "en_name": "String-String Fruit",
     "type": "Paramecia",
+    "user": "Donquixote Doflamingo",
     "canon_status": "Canon",
-    "description": "Makes the user a String Human who can create and control strings, capable of cutting through solid matter and, when attached to people's bodies, controlling them like puppets, among other things."
+    "description": "Makes the user a String Human who can create and control strings, capable of cutting through solid matter and, when attached to people's bodies, controlling them like puppets, among other things.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Ito_Ito_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20151220070449"
   },
   {
     "id": "15",
     "name": "Noro Noro no Mi",
-    "user": "Foxy",
+    "en_name": "Slow-Slow Fruit",
     "type": "Paramecia",
+    "user": "Foxy",
     "canon_status": "Canon",
-    "description": "Makes the user a \"Noroma\" (Slowpoke) Human who, by emitting special \"Noroma\" photon beams, can trap anything or anyone hit by said beams in a state of slow motion for 30 seconds."
+    "description": "Makes the user a \"Noroma\" (Slowpoke) Human who, by emitting special \"Noroma\" photon beams, can trap anything or anyone hit by said beams in a state of slow motion for 30 seconds.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Noro_Noro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230516224102"
   },
   {
     "id": "16",
     "name": "Doa Doa no Mi",
-    "user": "Blueno",
+    "en_name": "Door-Door Fruit",
     "type": "Paramecia",
+    "user": "Blueno",
     "canon_status": "Canon",
-    "description": "Makes the user a Door Human who can manifest doors through anything, be it walls, living beings, or the air itself."
+    "description": "Makes the user a Door Human who can manifest doors through anything, be it walls, living beings, or the air itself.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/04/Doa_Doa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230117020238"
   },
   {
     "id": "17",
     "name": "Awa Awa no Mi",
-    "user": "Kalifa",
+    "en_name": "Bubble-Bubble Fruit",
     "type": "Paramecia",
+    "user": "Kalifa",
     "canon_status": "Canon",
-    "description": "Makes the user a Soap Human who can create and control soap bubbles capable of cleaning anything, even cleaning an opponent's \"strength\" off their body."
+    "description": "Makes the user a Soap Human who can create and control soap bubbles capable of cleaning anything, even cleaning an opponent's \"strength\" off their body.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/51/Awa_Awa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240612220456"
   },
   {
     "id": "18",
     "name": "Beri Beri no Mi",
-    "user": "Very Good",
+    "en_name": "Berry-Berry Fruit",
     "type": "Paramecia",
+    "user": "Very Good",
     "canon_status": "Canon",
-    "description": "Makes the user a Grape Human who can split their body into a multitude of berry-like spheres."
+    "description": "Makes the user a Grape Human who can split their body into a multitude of berry-like spheres.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/27/Beri_Beri_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250204204055"
   },
   {
     "id": "19",
     "name": "Sabi Sabi no Mi",
-    "user": "Shu",
+    "en_name": "Rust-Rust Fruit",
     "type": "Paramecia",
+    "user": "Shu",
     "canon_status": "Canon",
-    "description": "Makes the user a Rust Human who can rapidly rust and corrode metallic substances upon touch."
+    "description": "Makes the user a Rust Human who can rapidly rust and corrode metallic substances upon touch.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Sabi_Sabi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160708014101"
   },
   {
     "id": "20",
     "name": "Shari Shari no Mi",
-    "user": "Sharinguru",
+    "en_name": "Wheel-Wheel Fruit",
     "type": "Paramecia",
+    "user": "Sharinguru",
     "canon_status": "Canon",
-    "description": "Makes the user a Wheel Human who can transform their limbs into wheels."
+    "description": "Makes the user a Wheel Human who can transform their limbs into wheels.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Sharinguru_Manga_Infobox.png/revision/latest?cb=20220723150343"
   },
   {
     "id": "21",
     "name": "Horo Horo no Mi",
+    "en_name": "Hollow-Hollow Fruit",
+    "type": "Paramecia",
     "user": "Perona",
     "previous_user": "Gill Bastar",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Makes the user a Ghost Human who can conjure intangible ghosts (\"hollows\") with explosive and despair-inducing properties, as well astrally project their own spirit."
+    "description": "Makes the user a Ghost Human who can conjure intangible ghosts (\"hollows\") with explosive and despair-inducing properties, as well astrally project their own spirit.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/14/Horo_Horo_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250826143910"
   },
   {
     "id": "22",
     "name": "Yomi Yomi no Mi",
-    "user": "Brook",
+    "en_name": "Revive-Revive Fruit",
     "type": "Paramecia",
+    "user": "Brook",
     "canon_status": "Canon",
-    "description": "Makes the user a Reviving Human whose soul, after death, may return from the afterlife a single time to reanimate their body, no matter its condition. Once back alive, the user gains the power to channel various soul-based abilities, e.g. astral projection or summoning the \"chill\" of the underworld to freeze enemies."
+    "description": "Makes the user a Reviving Human whose soul, after death, may return from the afterlife a single time to reanimate their body, no matter its condition. Once back alive, the user gains the power to channel various soul-based abilities, e.g. astral projection or summoning the \"chill\" of the underworld to freeze enemies.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Yomi_Yomi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20201116170233"
   },
   {
     "id": "23",
     "name": "Kage Kage no Mi",
-    "user": "Gecko Moria",
+    "en_name": "Shadow-Shadow Fruit",
     "type": "Paramecia",
+    "user": "Gecko Moria",
     "canon_status": "Canon",
-    "description": "Makes the user a Ruler of Shadows: they can animate and freely manipulate their own shadow, as well as manifest, steal, and absorb other people's shadows to make themself bigger and stronger. Alternatively, stolen shadows can be implanted into corpses to reanimate them into zombies."
+    "description": "Makes the user a Ruler of Shadows: they can animate and freely manipulate their own shadow, as well as manifest, steal, and absorb other people's shadows to make themself bigger and stronger. Alternatively, stolen shadows can be implanted into corpses to reanimate them into zombies.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Kage_Kage_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240628055643"
   },
   {
     "id": "24",
     "name": "Suke Suke no Mi",
+    "en_name": "Clear-Clear Fruit",
+    "type": "Paramecia",
     "user": "Shiryu",
     "previous_user": "Absalom",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Makes the user a Clear Human who can turn themself and whatever they touch (living or non-living) invisible."
+    "description": "Makes the user a Clear Human who can turn themself and whatever they touch (living or non-living) invisible.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Suke_Suke_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20200112035251"
   },
   {
     "id": "25",
     "name": "Nikyu Nikyu no Mi",
-    "user": "Bartholomew Kuma",
+    "en_name": "Paw-Paw Fruit",
     "type": "Paramecia",
+    "user": "Bartholomew Kuma",
     "canon_status": "Canon",
-    "description": "Makes the user a Paw Human with paw pads permanently manifested on their palms: anything touched by these paws can be \"sent flying\" with incredible force, from tangible objects or living people to intangible things like air, to abstract things like pain and memories, which can be pushed out of people's bodies into paw-shaped bubbles."
+    "description": "Makes the user a Paw Human with paw pads permanently manifested on their palms: anything touched by these paws can be \"sent flying\" with incredible force, from tangible objects or living people to intangible things like air, to abstract things like pain and memories, which can be pushed out of people's bodies into paw-shaped bubbles.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e4/Nikyu_Nikyu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250525161631"
   },
   {
     "id": "26",
     "name": "Toshi Toshi no Mi",
-    "user": "Jewelry Bonney",
+    "en_name": "Age-Age Fruit",
     "type": "Paramecia",
+    "user": "Jewelry Bonney",
     "canon_status": "Canon",
-    "description": "Makes the user an Age Manipulation Human who can temporarily alter the age of any person (including their own) or object, either raising or lowering it. When aging themself or others into the future, the user can choose between alternate futures based on their ability to imagine what is possible."
+    "description": "Makes the user an Age Manipulation Human who can temporarily alter the age of any person (including their own) or object, either raising or lowering it. When aging themself or others into the future, the user can choose between alternate futures based on their ability to imagine what is possible.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Toshi_Toshi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250427155237"
   },
   {
     "id": "27",
     "name": "Jiki Jiki no Mi",
+    "en_name": "Magnet-Magnet Fruit",
+    "type": "Paramecia",
     "user": "Eustass Kid",
     "previous_user": "John",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Allows the user to create magnetic forces and, with them, control metal."
+    "description": "Allows the user to create magnetic forces and, with them, control metal.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/13/Jiki_Jiki_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260316222052"
   },
   {
     "id": "28",
     "name": "Ope Ope no Mi",
-    "previous_user": "Trafalgar D. Water Law",
+    "en_name": "Op-Op Fruit",
     "type": "Paramecia",
+    "previous_user": "Trafalgar D. Water Law",
     "canon_status": "Canon",
-    "description": "Makes the user a Free Modification Human: by summoning a spherical force-field, the user can telekinetically control, take apart, reconstruct, and otherwise \"surgically\" modify anyone and anything inside that space (their \"operating room\") without causing direct harm.\nThe Ope Ope no Mi is legendary and much vaunted for its ability to confer eternal life upon someone, which is why it is reputed as the \"Ultimate Devil Fruit\".[11]"
+    "description": "Makes the user a Free Modification Human: by summoning a spherical force-field, the user can telekinetically control, take apart, reconstruct, and otherwise \"surgically\" modify anyone and anything inside that space (their \"operating room\") without causing direct harm.The Ope Ope no Mi is legendary and much vaunted for its ability to confer eternal life upon someone, which is why it is reputed as the \"Ultimate Devil Fruit\".[11]",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Ope_Ope_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210409181034"
   },
   {
     "id": "29",
     "name": "Shiro Shiro no Mi",
-    "user": "Capone Bege",
+    "en_name": "Castle-Castle Fruit",
     "type": "Paramecia",
+    "user": "Capone Bege",
     "canon_status": "Canon",
-    "description": "Makes the user a Castle Human: their body becomes a miniature living fortress equipped with cannons and other such fortifications; anyone or anything entering their castle body is shrunk to fit inside, and whatever leaves its perimeter automatically reverts to normal size."
+    "description": "Makes the user a Castle Human: their body becomes a miniature living fortress equipped with cannons and other such fortifications; anyone or anything entering their castle body is shrunk to fit inside, and whatever leaves its perimeter automatically reverts to normal size.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Shiro_Shiro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160115065100"
   },
   {
     "id": "30",
     "name": "Wara Wara no Mi",
-    "user": "Basil Hawkins",
+    "en_name": "Straw-Straw Fruit",
     "type": "Paramecia",
+    "user": "Basil Hawkins",
     "canon_status": "Canon",
-    "description": "Allows the user to create and control straw: they can house voodoo-like straw dolls inside their body to redirect all damage they receive to whoever has been linked to said dolls, as well as summon (or transform into) a giant straw monster."
+    "description": "Allows the user to create and control straw: they can house voodoo-like straw dolls inside their body to redirect all damage they receive to whoever has been linked to said dolls, as well as summon (or transform into) a giant straw monster.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Wara_Wara_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20180803070246"
   },
   {
     "id": "31",
     "name": "Oto Oto no Mi",
-    "user": "Scratchmen Apoo",
+    "en_name": "Tone-Tone Fruit",
     "type": "Paramecia",
+    "user": "Scratchmen Apoo",
     "canon_status": "Canon",
-    "description": "Allows the user to morph their body parts into musical instruments and weaponize the sound waves they create."
+    "description": "Allows the user to morph their body parts into musical instruments and weaponize the sound waves they create.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/16/Oto_Oto_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230625231507"
   },
   {
     "id": "32",
     "name": "Mero Mero no Mi",
-    "user": "Boa Hancock",
+    "en_name": "Love-Love Fruit",
     "type": "Paramecia",
+    "user": "Boa Hancock",
     "canon_status": "Canon",
-    "description": "Allows the user to turn anyone who feels attraction, lust, or simply adoration towards them into stone."
+    "description": "Allows the user to turn anyone who feels attraction, lust, or simply adoration towards them into stone.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/98/Mero_Mero_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230306202058"
   },
   {
     "id": "33",
     "name": "Doku Doku no Mi",
-    "user": "Magellan",
+    "en_name": "Venom-Venom Fruit",
     "type": "Paramecia",
+    "user": "Magellan",
     "canon_status": "Canon",
-    "description": "Makes the user a Poison Human who can create and control poisons, while gaining poison immunity."
+    "description": "Makes the user a Poison Human who can create and control poisons, while gaining poison immunity.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/21/Doku_Doku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160129102538"
   },
   {
     "id": "34",
     "name": "Horu Horu no Mi",
-    "user": "Emporio Ivankov",
+    "en_name": "Horm-Horm Fruit",
     "type": "Paramecia",
+    "user": "Emporio Ivankov",
     "canon_status": "Canon",
-    "description": "Makes the user a Hormone-Controlling Human who, by turning their fingers into syringes, can inject themself or others with mystic hormones to affect and alter their physiology in a miscellany of ways."
+    "description": "Makes the user a Hormone-Controlling Human who, by turning their fingers into syringes, can inject themself or others with mystic hormones to affect and alter their physiology in a miscellany of ways.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/53/Horu_Horu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20231111060110"
   },
   {
     "id": "35",
     "name": "Choki Choki no Mi",
-    "user": "Inazuma",
+    "en_name": "Snip-Snip Fruit",
     "type": "Paramecia",
+    "user": "Inazuma",
     "canon_status": "Canon",
-    "description": "Makes the user a Scissors Human who can transform parts of their body into scissors; any solid substance cut by these scissors briefly behaves as if it were paper."
+    "description": "Makes the user a Scissors Human who can transform parts of their body into scissors; any solid substance cut by these scissors briefly behaves as if it were paper.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/0f/Choki_Choki_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250705131414"
   },
   {
     "id": "36",
     "name": "Gura Gura no Mi",
+    "en_name": "Tremor-Tremor Fruit",
+    "type": "Paramecia",
     "user": "Marshall D. Teach",
     "previous_user": "Edward Newgate",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Makes the user a Tremor Human who can generate \"quake\" shockwaves (vibrations) that can travel through any medium, triggering massive earthquakes or seaquakes.\nThis fruit is considered the strongest Paramecia,[12] said to hold the power to destroy the world.[13]"
+    "description": "Makes the user a Tremor Human who can generate \"quake\" shockwaves (vibrations) that can travel through any medium, triggering massive earthquakes or seaquakes.This fruit is considered the strongest Paramecia,[12] said to hold the power to destroy the world.[13]",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Gura_Gura_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20251002184350"
   },
   {
     "id": "37",
     "name": "Kira Kira no Mi",
-    "user": "Jozu",
+    "en_name": "Twinkle-Twinkle Fruit",
     "type": "Paramecia",
+    "user": "Jozu",
     "canon_status": "Canon",
-    "description": "Allows the user to transform into diamond."
+    "description": "Allows the user to transform into diamond.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kira_Kira_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240320175137"
   },
   {
     "id": "38",
     "name": "Poke Poke no Mi",
-    "user": "Blamenco",
+    "en_name": "Pocket-Pocket Fruit",
     "type": "Paramecia",
+    "user": "Blamenco",
     "canon_status": "Canon",
-    "description": "Allows the user to create pockets on their body within which they can store objects, including ones far bigger than the pocket holes themselves, and pull these stored objects back out at will."
+    "description": "Allows the user to create pockets on their body within which they can store objects, including ones far bigger than the pocket holes themselves, and pull these stored objects back out at will.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/26/Poke_Poke_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220426093454"
   },
   {
     "id": "39",
     "name": "Woshu Woshu no Mi",
-    "user": "Tsuru",
+    "en_name": "Wash-Wash Fruit",
     "type": "Paramecia",
+    "user": "Tsuru",
     "canon_status": "Canon",
-    "description": "Makes the user a Laundry Human who can literally \"wash and hang out to dry\" people and objects alike, as if they were wet clothes."
+    "description": "Makes the user a Laundry Human who can literally \"wash and hang out to dry\" people and objects alike, as if they were wet clothes.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Woshu_Woshu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220818020619"
   },
   {
     "id": "40",
     "name": "Fuwa Fuwa no Mi",
-    "user": "Shiki",
+    "en_name": "Float-Float Fruit",
     "type": "Paramecia",
+    "user": "Shiki",
     "canon_status": "Canon",
-    "description": "Allows the user to fly and make any non-living object or substance that they have previously touched levitate, subsequently maintaining control over it akin to telekinesis."
+    "description": "Allows the user to fly and make any non-living object or substance that they have previously touched levitate, subsequently maintaining control over it akin to telekinesis.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/df/Fuwa_Fuwa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130323001748"
   },
   {
     "id": "41",
     "name": "Deka Deka no Mi",
-    "user": "Sanjuan Wolf",
+    "en_name": "Huge-Huge Fruit",
     "type": "Paramecia",
+    "user": "Sanjuan Wolf",
     "canon_status": "Canon",
-    "description": "Makes the user a Gigantification Human who can drastically increase their own body size."
+    "description": "Makes the user a Gigantification Human who can drastically increase their own body size.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Deka_Deka_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20241006041532"
   },
   {
     "id": "42",
     "name": "Mato Mato no Mi",
-    "user": "Vander Decken IX",
+    "en_name": "Mark-Mark Fruit",
     "type": "Paramecia",
+    "user": "Vander Decken IX",
     "canon_status": "Canon",
-    "description": "Allows the user to \"mark\" a person as their target by touching them, such that any weapon thrown with that same hand will chase after the marked target as a homing projectile."
+    "description": "Allows the user to \"mark\" a person as their target by touching them, such that any weapon thrown with that same hand will chase after the marked target as a homing projectile.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Mato_Mato_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220920042704"
   },
   {
     "id": "43",
     "name": "Fuku Fuku no Mi",
-    "user": "Kin'emon",
+    "en_name": "Garb-Garb Fruit",
     "type": "Paramecia",
+    "user": "Kin'emon",
     "canon_status": "Canon",
-    "description": "Allows the user to summon articles of clothing."
+    "description": "Allows the user to summon articles of clothing.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Fuku_Fuku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20181020010802"
   },
   {
     "id": "44",
     "name": "Hobi Hobi no Mi",
-    "user": "Sugar",
+    "en_name": "Hobby-Hobby Fruit",
     "type": "Paramecia",
+    "user": "Sugar",
     "canon_status": "Canon",
-    "description": "Allows the user to turn people and animals alike into subservient living toys, simultaneously erasing any memory of the victims from the minds of others. A secondary side-effect of the fruit is that the eater gains eternal youth."
+    "description": "Allows the user to turn people and animals alike into subservient living toys, simultaneously erasing any memory of the victims from the minds of others. A secondary side-effect of the fruit is that the eater gains eternal youth.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Hobi_Hobi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20241129153900"
   },
   {
     "id": "45",
     "name": "Buki Buki no Mi",
-    "user": "Baby 5",
+    "en_name": "Arms-Arms Fruit",
     "type": "Paramecia",
+    "user": "Baby 5",
     "canon_status": "Canon",
-    "description": "Makes the user a Full-Body Weapon Human who can transform parts of or their whole body into any kind of weapon."
+    "description": "Makes the user a Full-Body Weapon Human who can transform parts of or their whole body into any kind of weapon.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Buki_Buki_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240706141021"
   },
   {
     "id": "46",
     "name": "Guru Guru no Mi",
-    "user": "Buffalo",
+    "en_name": "Spin-Spin Fruit",
     "type": "Paramecia",
+    "user": "Buffalo",
     "canon_status": "Canon",
-    "description": "Makes the user a Rotation Human who can make any part of their body spin like a propeller."
+    "description": "Makes the user a Rotation Human who can make any part of their body spin like a propeller.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Guru_Guru_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230825080411"
   },
   {
     "id": "47",
     "name": "Beta Beta no Mi",
-    "user": "Trebol",
+    "en_name": "Stick-Stick Fruit; Sticky-Sticky Fruit",
     "type": "Paramecia",
+    "user": "Trebol",
     "canon_status": "Canon",
-    "description": "Makes the user a Mucus Human who can create and control extremely sticky, flammable mucus."
+    "description": "Makes the user a Mucus Human who can create and control extremely sticky, flammable mucus.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Beta_Beta_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20231017083240"
   },
   {
     "id": "48",
     "name": "Zushi Zushi no Mi",
-    "user": "Issho",
+    "en_name": "Press-Press Fruit",
     "type": "Paramecia",
+    "user": "Issho",
     "canon_status": "Canon",
-    "description": "Allows the user to manipulate gravity."
+    "description": "Allows the user to manipulate gravity.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Zushi_Zushi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230320032400"
   },
   {
     "id": "49",
     "name": "Bari Bari no Mi",
+    "en_name": "Barrier-Barrier Fruit",
+    "type": "Paramecia",
     "user": "Bartolomeo",
     "previous_user": "Kurozumi Semimaru",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Makes the user a Barrier Human who, by crossing their fingers, can summon indestructible barriers. These barriers can be reshaped and resized freely, but only one barrier can be maintained at a time."
+    "description": "Makes the user a Barrier Human who, by crossing their fingers, can summon indestructible barriers. These barriers can be reshaped and resized freely, but only one barrier can be maintained at a time.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/de/Bari_Bari_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160212174221"
   },
   {
     "id": "50",
     "name": "Nui Nui no Mi",
-    "user": "Leo",
+    "en_name": "Stitch-Stitch Power; Sew-Sew Fruit",
     "type": "Paramecia",
+    "user": "Leo",
     "canon_status": "Canon",
-    "description": "Allows the user to stitch together both living and non-living targets, and to un-stitch them just as easily."
+    "description": "Allows the user to stitch together both living and non-living targets, and to un-stitch them just as easily.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/00/Nui_Nui_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20241129154842"
   },
   {
     "id": "51",
     "name": "Giro Giro no Mi",
-    "user": "Viola",
+    "en_name": "Glare-Glare Fruit",
     "type": "Paramecia",
+    "user": "Viola",
     "canon_status": "Canon",
-    "description": "Makes the user an Insight Human who, by forming finger circles in front of their eyes, can see through solid objects and over vast distances, as well as read people's minds and memories."
+    "description": "Makes the user an Insight Human who, by forming finger circles in front of their eyes, can see through solid objects and over vast distances, as well as read people's minds and memories.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/23/Giro_Giro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20201101164342"
   },
   {
     "id": "52",
     "name": "Ato Ato no Mi",
-    "user": "Giolla",
+    "en_name": "Art-Art Fruit",
     "type": "Paramecia",
+    "user": "Giolla",
     "canon_status": "Canon",
-    "description": "Makes the user an Art Human who can transform people and objects into abstract art, rendering them unable to function."
+    "description": "Makes the user an Art Human who can transform people and objects into abstract art, rendering them unable to function.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/0f/Ato_Ato_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240312130350"
   },
   {
     "id": "53",
     "name": "Jake Jake no Mi",
-    "user": "Kelly Funk",
+    "en_name": "Jacket-Jacket Fruit",
     "type": "Paramecia",
+    "user": "Kelly Funk",
     "canon_status": "Canon",
-    "description": "Makes the user a Jacket Human, able to transform into a full-body jacket and take over the body of anyone wearing them, at the same time gaining access to the wearer's physical abilities."
+    "description": "Makes the user a Jacket Human, able to transform into a full-body jacket and take over the body of anyone wearing them, at the same time gaining access to the wearer's physical abilities.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Jake_Jake_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20170607182134"
   },
   {
     "id": "54",
     "name": "Pamu Pamu no Mi",
-    "user": "Gladius",
+    "en_name": "Pop-Pop Fruit",
     "type": "Paramecia",
+    "user": "Gladius",
     "canon_status": "Canon",
-    "description": "Makes the user a Puncture Human who can cause their body or anything inorganic they touch to inflate, rupture, and explode."
+    "description": "Makes the user a Puncture Human who can cause their body or anything inorganic they touch to inflate, rupture, and explode.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Pamu_Pamu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20231025225145"
   },
   {
     "id": "55",
     "name": "Sui Sui no Mi",
-    "user": "Senor Pink",
+    "en_name": "Swim-Swim Fruit",
     "type": "Paramecia",
+    "user": "Senor Pink",
     "canon_status": "Canon",
-    "description": "Makes the user a Free-Swimming Human who can swim through solid matter, like the ground or walls, and generally interact with said solids as if they were liquid."
+    "description": "Makes the user a Free-Swimming Human who can swim through solid matter, like the ground or walls, and generally interact with said solids as if they were liquid.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Sui_Sui_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240630232023"
   },
   {
     "id": "56",
     "name": "Ton Ton no Mi",
-    "user": "Machvise",
+    "en_name": "Ton-Ton Fruit",
     "type": "Paramecia",
+    "user": "Machvise",
     "canon_status": "Canon",
-    "description": "Makes the user a Super Weight Human who can drastically increase their own body weight, by as much as thousands of metric tons."
+    "description": "Makes the user a Super Weight Human who can drastically increase their own body weight, by as much as thousands of metric tons.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/40/Ton_Ton_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240211235111"
   },
   {
     "id": "57",
     "name": "Hira Hira no Mi",
-    "user": "Diamante",
+    "en_name": "Ripple-Ripple Fruit",
     "type": "Paramecia",
+    "user": "Diamante",
     "canon_status": "Canon",
-    "description": "Makes the user a Flag Human who can give their own body or anything inorganic they touch the properties of fabric, making it flat, flexible, and fluttering without losing traits like hardness."
+    "description": "Makes the user a Flag Human who can give their own body or anything inorganic they touch the properties of fabric, making it flat, flexible, and fluttering without losing traits like hardness.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Hira_Hira_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20151110020239"
   },
   {
     "id": "58",
     "name": "Ishi Ishi no Mi",
-    "user": "Pica",
+    "en_name": "Stone-Stone Fruit",
     "type": "Paramecia",
+    "user": "Pica",
     "canon_status": "Canon",
-    "description": "Makes the user a Stone Assimilation Human who can merge with any stone formation and thus gain control over it."
+    "description": "Makes the user a Stone Assimilation Human who can merge with any stone formation and thus gain control over it.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/90/Ishi_Ishi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20180529180105"
   },
   {
     "id": "59",
     "name": "Fude Fude no Mi",
-    "previous_user": "Kurozumi Kanjuro",
+    "en_name": "Brush-Brush Fruit",
     "type": "Paramecia",
+    "previous_user": "Kurozumi Kanjuro",
     "canon_status": "Canon",
-    "description": "Allows the user to create and control ink using a brush as a medium, as well as physically manifest and manipulate anything they draw."
+    "description": "Allows the user to create and control ink using a brush as a medium, as well as physically manifest and manipulate anything they draw.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Fude_Fude_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210710161433"
   },
   {
     "id": "60",
     "name": "Nagi Nagi no Mi",
-    "previous_user": "Donquixote Rosinante",
+    "en_name": "Calm-Calm Fruit",
     "type": "Paramecia",
+    "previous_user": "Donquixote Rosinante",
     "canon_status": "Canon",
-    "description": "Makes the user a Soundless Human who can mask and erase all sound."
+    "description": "Makes the user a Soundless Human who can mask and erase all sound.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/37/Nagi_Nagi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20150802120152"
   },
   {
     "id": "61",
     "name": "Chiyu Chiyu no Mi",
-    "user": "Mansherry",
+    "en_name": "Heal-Heal Fruit",
     "type": "Paramecia",
+    "user": "Mansherry",
     "canon_status": "Canon",
-    "description": "Allows the user to heal people's wounds."
+    "description": "Allows the user to heal people's wounds.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Chiyu_Chiyu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20151129192854"
   },
   {
     "id": "62",
     "name": "Maki Maki no Mi",
-    "user": "Raizo",
+    "en_name": "Scroll-Scroll Fruit",
     "type": "Paramecia",
+    "user": "Raizo",
     "canon_status": "Canon",
-    "description": "Allows the user to create and control scrolls that objects and substances can be sealed into, stored away to be unleashed later."
+    "description": "Allows the user to create and control scrolls that objects and substances can be sealed into, stored away to be unleashed later.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d1/Maki_Maki_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230820124033"
   },
   {
     "id": "63",
     "name": "Soru Soru no Mi",
+    "en_name": "Soul-Soul Fruit",
+    "type": "Paramecia",
     "user": "Charlotte Linlin",
     "previous_user": "Carmel",
-    "type": "Paramecia",
     "canon_status": "Canon",
-    "description": "Allows the user to extract souls from people who fear them, thereby stealing their lifespan. Stolen pieces of soul can be implanted into objects to bring them to life or into animals to \"humanize\" them, and these objects and animals (called \"homies\") are subservient to the user; objects animated by fragments of the user's own soul are stronger than others."
+    "description": "Allows the user to extract souls from people who fear them, thereby stealing their lifespan. Stolen pieces of soul can be implanted into objects to bring them to life or into animals to \"humanize\" them, and these objects and animals (called \"homies\") are subservient to the user; objects animated by fragments of the user's own soul are stronger than others.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Soru_Soru_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230113122808"
   },
   {
     "id": "64",
     "name": "Mira Mira no Mi",
-    "user": "Charlotte Br\u00fbl\u00e9e",
+    "en_name": "Mirror-Mirror Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Br\u00fbl\u00e9e",
     "canon_status": "Canon",
-    "description": "Makes the user a Mirror Human who can create mirrors that reflect attacks, as well as transform living beings (themself included) into the reflection of a chosen target. The user can also turn any mirror into an entrance to the Mirro-World: an alternate space."
+    "description": "Makes the user a Mirror Human who can create mirrors that reflect attacks, as well as transform living beings (themself included) into the reflection of a chosen target. The user can also turn any mirror into an entrance to the Mirro-World: an alternate space.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Mira_Mira_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20170709205701"
   },
   {
     "id": "65",
     "name": "Pero Pero no Mi",
-    "user": "Charlotte Perospero",
+    "en_name": "Lick-Lick Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Perospero",
     "canon_status": "Canon",
-    "description": "Makes the user a Candy Human who creates and controls candy."
+    "description": "Makes the user a Candy Human who creates and controls candy.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/77/Pero_Pero_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230707021540"
   },
   {
     "id": "66",
     "name": "Bisu Bisu no Mi",
-    "user": "Charlotte Cracker",
+    "en_name": "Bis-Bis Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Cracker",
     "canon_status": "Canon",
-    "description": "Makes the user a Biscuit Human who creates and controls biscuits."
+    "description": "Makes the user a Biscuit Human who creates and controls biscuits.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Bisu_Bisu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20170730022308"
   },
   {
     "id": "67",
     "name": "Bata Bata no Mi",
-    "user": "Charlotte Galette",
+    "en_name": "Butter-Butter Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Galette",
     "canon_status": "Canon",
-    "description": "Makes the user a Butter Human who creates and controls butter."
+    "description": "Makes the user a Butter Human who creates and controls butter.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/6/61/Bata_Bata_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240112231955"
   },
   {
     "id": "68",
     "name": "Buku Buku no Mi",
-    "user": "Charlotte Mont-d'Or",
+    "en_name": "Book-Book Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Mont-d'Or",
     "canon_status": "Canon",
-    "description": "Makes the user a Book Human who can telekinetically control books and trap people inside them, both in illusions and literally."
+    "description": "Makes the user a Book Human who can telekinetically control books and trap people inside them, both in illusions and literally.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/44/Buku_Buku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230228052953"
   },
   {
     "id": "69",
     "name": "Kuri Kuri no Mi",
-    "user": "Charlotte Opera",
+    "en_name": "Cream-Cream Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Opera",
     "canon_status": "Canon",
-    "description": "Makes the user a Cream Human who creates and controls cream."
+    "description": "Makes the user a Cream Human who creates and controls cream.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/73/Kuri_Kuri_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20180913105124"
   },
   {
     "id": "70",
     "name": "Shibo Shibo no Mi",
-    "user": "Charlotte Smoothie",
+    "en_name": "Wring-Wring Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Smoothie",
     "canon_status": "Canon",
-    "description": "Makes the user a Dehydration Human who can physically wring out and drain liquid from people and objects, as well as transfer that liquid into their own body, making them bigger and stronger."
+    "description": "Makes the user a Dehydration Human who can physically wring out and drain liquid from people and objects, as well as transfer that liquid into their own body, making them bigger and stronger.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Shibo_Shibo_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230702183856"
   },
   {
     "id": "71",
     "name": "Memo Memo no Mi",
-    "user": "Charlotte Pudding",
+    "en_name": "Memo-Memo Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Pudding",
     "canon_status": "Canon",
-    "description": "Allows the user to turn people's memories into tangible film strips and manipulate them."
+    "description": "Allows the user to turn people's memories into tangible film strips and manipulate them.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Memo_Memo_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20171217105138"
   },
   {
     "id": "72",
     "name": "Mochi Mochi no Mi",
-    "user": "Charlotte Katakuri",
+    "en_name": "Mochi-Mochi Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Katakuri",
     "canon_status": "Canon",
-    "description": "Allows the user to create, control, and physically transform (akin to a Logia) into mochi.\nThe Mochi Mochi no Mi is so far the only fruit identified as a \"Special\" Paramecia.[5]"
+    "description": "Allows the user to create, control, and physically transform (akin to a Logia) into mochi.The Mochi Mochi no Mi is so far the only fruit identified as a \"Special\" Paramecia.[5]",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Mochi_Mochi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250826143835"
   },
   {
     "id": "73",
     "name": "Hoya Hoya no Mi",
-    "user": "Charlotte Daifuku",
+    "en_name": "Puff-Puff Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Daifuku",
     "canon_status": "Canon",
-    "description": "Makes the user a Lamp Human who, by rubbing their belly, can summon a powerful warrior genie to fight on their behalf."
+    "description": "Makes the user a Lamp Human who, by rubbing their belly, can summon a powerful warrior genie to fight on their behalf.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/97/Hoya_Hoya_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210208063127"
   },
   {
     "id": "74",
     "name": "Netsu Netsu no Mi",
-    "user": "Charlotte Oven",
+    "en_name": "Heat-Heat Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Oven",
     "canon_status": "Canon",
-    "description": "Makes the user a High Heat Human who can emit tremendous heat from their body."
+    "description": "Makes the user a High Heat Human who can emit tremendous heat from their body.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Netsu_Netsu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210208063018"
   },
   {
     "id": "75",
     "name": "Kuku Kuku no Mi",
-    "user": "Streusen",
+    "en_name": "Cook-Cook Fruit",
     "type": "Paramecia",
+    "user": "Streusen",
     "canon_status": "Canon",
-    "description": "Allows the user to transform objects into edible and nutritious (albeit bad-tasting) food."
+    "description": "Allows the user to transform objects into edible and nutritious (albeit bad-tasting) food.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/47/Kuku_Kuku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20180527032147"
   },
   {
     "id": "76",
     "name": "Gocha Gocha no Mi",
-    "user": "Charlotte Newshi",
+    "en_name": "Pile-Pile Fruit",
     "type": "Paramecia",
+    "user": "Charlotte Newshi",
     "canon_status": "Canon",
-    "description": "Allows the user to physically fuse with other people."
+    "description": "Allows the user to physically fuse with other people.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/47/Gocha_Gocha_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240929200919"
   },
   {
     "id": "77",
     "name": "Oshi Oshi no Mi",
-    "user": "Morley",
+    "en_name": "Push-Push Fruit",
     "type": "Paramecia",
+    "user": "Morley",
     "canon_status": "Canon",
-    "description": "Allows the user to freely move, push around, and reshape the ground as though it were malleable clay."
+    "description": "Allows the user to freely move, push around, and reshape the ground as though it were malleable clay.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Oshi_Oshi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220721051214"
   },
   {
     "id": "78",
     "name": "Kobu Kobu no Mi",
-    "user": "Belo Betty",
+    "en_name": "Pump-Pump Fruit",
     "type": "Paramecia",
+    "user": "Belo Betty",
     "canon_status": "Canon",
-    "description": "Allows the user to use verbal encouragement to easily rally people into joining their cause, as well as awaken their latent fighting potential."
+    "description": "Allows the user to use verbal encouragement to easily rally people into joining their cause, as well as awaken their latent fighting potential.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/75/Kobu_Kobu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20190414130522"
   },
   {
     "id": "79",
     "name": "Kibi Kibi no Mi",
-    "user": "Tama",
+    "en_name": "Millet-Millet Fruit",
     "type": "Paramecia",
+    "user": "Tama",
     "canon_status": "Canon",
-    "description": "Allows the user to create \"dango\" (millet dumplings) from their cheeks by pinching them; any animal that eats one of these dango is tamed into subservience to the user for a month."
+    "description": "Allows the user to create \"dango\" (millet dumplings) from their cheeks by pinching them; any animal that eats one of these dango is tamed into subservience to the user for a month.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/35/Kibi_Kibi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20190819140148"
   },
   {
     "id": "80",
     "name": "Toki Toki no Mi",
-    "previous_user": "Kozuki Toki",
+    "en_name": "Time-Time Fruit",
     "type": "Paramecia",
+    "previous_user": "Kozuki Toki",
     "canon_status": "Canon",
-    "description": "Allows the user to send themself and others forward in time."
+    "description": "Allows the user to send themself and others forward in time.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Toki_Toki_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210221040316"
   },
   {
     "id": "81",
     "name": "Juku Juku no Mi",
-    "user": "Shinobu",
+    "en_name": "Ripe-Ripe Fruit",
     "type": "Paramecia",
+    "user": "Shinobu",
     "canon_status": "Canon",
-    "description": "Allows the user to rapidly \"mature\" (age up) and decay any person or object they touch; the effect is irreversible."
+    "description": "Allows the user to rapidly \"mature\" (age up) and decay any person or object they touch; the effect is irreversible.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Juku_Juku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20200412160241"
   },
   {
     "id": "82",
     "name": "Shiku Shiku no Mi",
-    "user": "Doc Q",
+    "en_name": "Sick-Sick Fruit",
     "type": "Paramecia",
+    "user": "Doc Q",
     "canon_status": "Canon",
-    "description": "Allows the user to afflict others with diseases."
+    "description": "Allows the user to afflict others with diseases.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Shiku_Shiku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240211021532"
   },
   {
     "id": "83",
     "name": "Wapu Wapu no Mi",
-    "user": "Van Augur",
+    "en_name": "Warp-Warp Fruit",
     "type": "Paramecia",
+    "user": "Van Augur",
     "canon_status": "Canon",
-    "description": "Allows the user to \"warp\" (teleport) themself and others."
+    "description": "Allows the user to \"warp\" (teleport) themself and others.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Wapu_Wapu_no_Mi.gif/revision/latest/scale-to-width-down/268?cb=20240215015054"
   },
   {
     "id": "84",
     "name": "Riki Riki no Mi",
-    "user": "Jesus Burgess",
+    "en_name": "Strong-Strong Fruit",
     "type": "Paramecia",
+    "user": "Jesus Burgess",
     "canon_status": "Canon",
-    "description": "Gives the user superhuman strength."
+    "description": "Gives the user superhuman strength.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Riki_Riki_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20240811030221"
   },
   {
     "id": "85",
     "name": "Nomi Nomi no Mi",
-    "previous_user": "Vegapunk",
+    "en_name": "Brain-Brain Fruit",
     "type": "Paramecia",
+    "previous_user": "Vegapunk",
     "canon_status": "Canon",
-    "description": "Allows the user's brain to store a virtually unlimited amount of information and recall everything they ever learn, at the cost of their brain continuously expanding."
+    "description": "Allows the user's brain to store a virtually unlimited amount of information and recall everything they ever learn, at the cost of their brain continuously expanding.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/86/Nomi_Nomi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/147?cb=20240804020557"
   },
   {
     "id": "86",
     "name": "Shima Shima no Mi",
-    "user": "Avalo Pizarro",
+    "en_name": "Isle-Isle Fruit",
     "type": "Paramecia",
+    "user": "Avalo Pizarro",
     "canon_status": "Canon",
-    "description": "Makes the user an Island Human who can merge with an island and control its environment freely."
+    "description": "Makes the user an Island Human who can merge with an island and control its environment freely.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/40/Shima_Shima_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20241013020620"
   },
   {
     "id": "87",
     "name": "Gabu Gabu no Mi",
-    "user": "Vasco Shot",
+    "en_name": "Glug-Glug Fruit",
     "type": "Paramecia",
+    "user": "Vasco Shot",
     "canon_status": "Canon",
-    "description": "Makes the user a Liquor Human with unspecified abilities related to alcohol."
+    "description": "Makes the user a Liquor Human with unspecified abilities related to alcohol.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Shot_Spits_Fire_at_Garp.png/revision/latest/scale-to-width-down/268?cb=20241006020746"
   },
   {
     "id": "88",
     "name": "Muchi Muchi no Mi",
-    "user": "Kujaku",
+    "en_name": "Whip-Whip Fruit",
     "type": "Paramecia",
+    "user": "Kujaku",
     "canon_status": "Canon",
-    "description": "Makes the user a Training Human who can force anything they whip to obey their orders, even inanimate structures."
+    "description": "Makes the user a Training Human who can force anything they whip to obey their orders, even inanimate structures.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/0f/Muchi_Muchi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240728225755"
   },
   {
     "id": "89",
     "name": "Nori Nori no Mi",
-    "user": "Bluegrass",
+    "en_name": "Ride-Ride Fruit",
     "type": "Paramecia",
+    "user": "Bluegrass",
     "canon_status": "Canon",
-    "description": "Makes the user a Driving Human who can control anything they mount and ride on."
+    "description": "Makes the user a Driving Human who can control anything they mount and ride on.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nori_Nori_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250504155228"
   },
   {
     "id": "90",
     "name": "Tsutsu Tsutsu no Mi",
-    "user": "Urban",
+    "en_name": "Barrel-Barrel Fruit",
     "type": "Paramecia",
+    "user": "Urban",
     "canon_status": "Canon",
-    "description": "Makes the user a Cannon Human who can transform their body parts into cannon barrels to shoot from."
+    "description": "Makes the user a Cannon Human who can transform their body parts into cannon barrels to shoot from.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Tsutsu_Tsutsu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250518155231"
   },
   {
     "id": "91",
     "name": "Iku Iku no Mi",
-    "user": "Biblo",
+    "en_name": "Grow-Grow Fruit",
     "type": "Paramecia",
+    "user": "Biblo",
     "canon_status": "Canon",
-    "description": "Allows the user to make inanimate objects in their care grow larger, as if they were living organisms. Its current ability user Biblo, who is an owl, thus became a Nurturing Owl."
+    "description": "Allows the user to make inanimate objects in their care grow larger, as if they were living organisms. Its current ability user Biblo, who is an owl, thus became a Nurturing Owl.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Iku_Iku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20241222151528"
   },
   {
     "id": "92",
     "name": "Aro Aro no Mi",
-    "user": "Manmayer Gunko",
+    "en_name": "Arrow-Arrow Fruit",
     "type": "Paramecia",
+    "user": "Manmayer Gunko",
     "canon_status": "Canon",
-    "description": "Makes the user an Arrow Human who can create and control vector arrows that exert influence on motion itself."
+    "description": "Makes the user an Arrow Human who can create and control vector arrows that exert influence on motion itself.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/32/Aro_Aro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260703223439"
   },
   {
     "id": "93",
     "name": "Iba Iba no Mi",
-    "user": "Shepherd Sommers",
+    "en_name": "Thorn-Thorn Fruit",
     "type": "Paramecia",
+    "user": "Shepherd Sommers",
     "canon_status": "Canon",
-    "description": "Makes the user a Thorn Human who can create and control thorny vines, as well as individual thorns."
+    "description": "Makes the user a Thorn Human who can create and control thorny vines, as well as individual thorns.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Iba_Iba_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250323150459"
   },
   {
     "id": "94",
     "name": "Hiso Hiso no Mi",
-    "user": "Apis",
+    "en_name": "Whisper-Whisper Fruit",
     "type": "Paramecia",
+    "user": "Apis",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to communicate with animals."
+    "description": "Allows the user to communicate with animals.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Hiso_Hiso_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160901213949"
   },
   {
     "id": "95",
     "name": "Kama Kama no Mi",
-    "user": "Eric",
+    "en_name": "Sickle-Sickle Fruit",
     "type": "Paramecia",
+    "user": "Eric",
     "canon_status": "Non-Canon",
-    "description": "Gives the user long, sharp fingernails that can be used to send out slashing wind (kamakaze)."
+    "description": "Gives the user long, sharp fingernails that can be used to send out slashing wind (kamakaze).",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Kama_Kama_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130929180103"
   },
   {
     "id": "96",
     "name": "Atsu Atsu no Mi",
-    "user": "Accino",
+    "en_name": "Hot-Hot Fruit",
     "type": "Paramecia",
+    "user": "Accino",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a 10,000 Degree Human who can create immense heat from their body and control it, up to a maximum temperature of 10,000 degrees."
+    "description": "Makes the user a 10,000 Degree Human who can create immense heat from their body and control it, up to a maximum temperature of 10,000 degrees.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Atsu_Atsu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130624204211"
   },
   {
     "id": "97",
     "name": "Ami Ami no Mi",
-    "user": "Largo",
+    "en_name": "Net-Net Fruit",
     "type": "Paramecia",
+    "user": "Largo",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to create nets from their body or turn their body itself into nets, as well have their nets adopt the properties of whatever material they ingest."
+    "description": "Allows the user to create nets from their body or turn their body itself into nets, as well have their nets adopt the properties of whatever material they ingest.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Ami_Ami_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20231125032807"
   },
   {
     "id": "98",
     "name": "Peto Peto no Mi",
-    "user": "Breed",
+    "en_name": "Pet-Pet Fruit",
     "type": "Paramecia",
+    "user": "Breed",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to create collars that, if put on any living creature whether human or animal, forces that creature to obey the user's commands like a pet."
+    "description": "Allows the user to create collars that, if put on any living creature whether human or animal, forces that creature to obey the user's commands like a pet.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Peto_Peto_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20140622022914"
   },
   {
     "id": "99",
     "name": "Koro Koro no Mi",
-    "user": "Aveyron",
+    "en_name": "Roll-Roll Fruit",
     "type": "Paramecia",
+    "user": "Aveyron",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to turn into a human rail cart."
+    "description": "Allows the user to turn into a human rail cart.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Koro_Koro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20190414114007"
   },
   {
     "id": "100",
     "name": "Moa Moa no Mi",
-    "user": "Byrnndi World",
+    "en_name": "More-More Fruit",
     "type": "Paramecia",
+    "user": "Byrnndi World",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to multiply the size and speed of any object they touch by up to a factor of 100."
+    "description": "Allows the user to multiply the size and speed of any object they touch by up to a factor of 100.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/5b/Moa_Moa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20140901033934"
   },
   {
     "id": "101",
     "name": "Kyubu Kyubu no Mi",
-    "user": "Gairam",
+    "en_name": "Cube-Cube Fruit",
     "type": "Paramecia",
+    "user": "Gairam",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Cube Human who can cubify, as well as split into smaller cubes, anything they touch, even something intangible like air."
+    "description": "Makes the user a Cube Human who can cubify, as well as split into smaller cubes, anything they touch, even something intangible like air.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/38/Kyubu_Kyubu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20140831215541"
   },
   {
     "id": "102",
     "name": "Jara Jara no Mi",
-    "user": "Mad Treasure",
+    "en_name": "Chain-Chain Fruit",
     "type": "Paramecia",
+    "user": "Mad Treasure",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Chain Human who creates and controls metal chains."
+    "description": "Makes the user a Chain Human who creates and controls metal chains.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/27/Jara_Jara_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160724063337"
   },
   {
     "id": "103",
     "name": "Iro Iro no Mi",
-    "user": "Psycho P",
+    "en_name": "Color-Color Fruit",
     "type": "Paramecia",
+    "user": "Psycho P",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Camouflage Human who can create paint to camouflage and disguise people or objects."
+    "description": "Makes the user a Camouflage Human who can create paint to camouflage and disguise people or objects.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/50/Iro_Iro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240901153935"
   },
   {
     "id": "104",
     "name": "Goe Goe no Mi",
-    "user": "Eldoraggo",
+    "en_name": "Scream-Scream Fruit",
     "type": "Paramecia",
+    "user": "Eldoraggo",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to release powerful sound waves by screaming, which resemble giant energy beams."
+    "description": "Allows the user to release powerful sound waves by screaming, which resemble giant energy beams.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Goe_Goe_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240704123723"
   },
   {
     "id": "105",
     "name": "Kachi Kachi no Mi",
-    "user": "Bear King",
+    "en_name": "Hard-Hard Fruit",
     "type": "Paramecia",
+    "user": "Bear King",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to simultaneously harden and heat up their body."
+    "description": "Allows the user to simultaneously harden and heat up their body.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Kachi_Kachi_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130626010944"
   },
   {
     "id": "106",
     "name": "Noko Noko no Mi",
-    "user": "Musshuru",
+    "en_name": "Shroom-Shroom Fruit; Noko-Noko Fruit",
     "type": "Paramecia",
+    "user": "Musshuru",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Poison Spore Human who can create and control toxic mushroom spores."
+    "description": "Makes the user a Poison Spore Human who can create and control toxic mushroom spores.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/45/Noko_Noko_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130520095054"
   },
   {
     "id": "107",
     "name": "Modo Modo no Mi",
-    "user": "Ain",
+    "en_name": "Return-Return Fruit; Back-Back Fruit",
     "type": "Paramecia",
+    "user": "Ain",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a \"Return Return\" Human who can make anything or anyone they touch 12 years younger; used enough times, the power can make a target vanish from existence."
+    "description": "Makes the user a \"Return Return\" Human who can make anything or anyone they touch 12 years younger; used enough times, the power can make a target vanish from existence.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/54/Modo_Modo_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220106225523"
   },
   {
     "id": "108",
     "name": "Mosa Mosa no Mi",
-    "user": "Binz",
+    "en_name": "Grow-Grow Fruit",
     "type": "Paramecia",
+    "user": "Binz",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to amplify the growth of plants."
+    "description": "Allows the user to amplify the growth of plants.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Mosa_Mosa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220106225303"
   },
   {
     "id": "109",
     "name": "Nuke Nuke no Mi",
-    "user": "Tanaka",
+    "en_name": "Through-Through Fruit; Phase-Phase Fruit",
     "type": "Paramecia",
+    "user": "Tanaka",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to phase through solid objects."
+    "description": "Allows the user to phase through solid objects.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Nuke_Nuke_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20190414113527"
   },
   {
     "id": "110",
     "name": "Goru Goru no Mi",
-    "user": "Gild Tesoro",
+    "en_name": "Gol-Gol Fruit",
     "type": "Paramecia",
+    "user": "Gild Tesoro",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to telekinetically manipulate gold."
+    "description": "Allows the user to telekinetically manipulate gold.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/da/Goru_Goru_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220329091123"
   },
   {
     "id": "111",
     "name": "Raki Raki no Mi",
-    "user": "Baccarat",
+    "en_name": "Luck-Luck Fruit; Lucky-Lucky Fruit",
     "type": "Paramecia",
+    "user": "Baccarat",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to steal the luck of anyone they touch."
+    "description": "Allows the user to steal the luck of anyone they touch.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Raki_Raki_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20170107174256"
   },
   {
     "id": "112",
     "name": "Bijo Bijo no Mi",
-    "user": "Ann",
+    "en_name": "Bijo-Bijo Fruit; Vision Vision no Mi; Vision-Vision Fruit; Viso-Viso Fruit",
     "type": "Paramecia",
+    "user": "Ann",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to create illusory, phantom-like projections of any picture they have touched."
+    "description": "Allows the user to create illusory, phantom-like projections of any picture they have touched.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Bijo_Bijo_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20191228120335"
   },
   {
     "id": "113",
     "name": "Gasha Gasha no Mi",
-    "user": "Douglas Bullet",
+    "en_name": "Clank-Clank Fruit",
     "type": "Paramecia",
+    "user": "Douglas Bullet",
     "canon_status": "Non-Canon",
-    "description": "Makes the user an Assimilation Human who can telekinetically disassemble inanimate objects and then reassemble them into new shapes/structures, including mechanical contraptions."
+    "description": "Makes the user an Assimilation Human who can telekinetically disassemble inanimate objects and then reassemble them into new shapes structures, including mechanical contraptions.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Gasha_Gasha_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20191228120343"
   },
   {
     "id": "114",
     "name": "Uta Uta no Mi",
-    "user": "Uta",
+    "en_name": "Sing-Sing Fruit",
     "type": "Paramecia",
+    "user": "Uta",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to transport their own and others' consciousness into a virtual space, which they have complete control over, by singing."
+    "description": "Allows the user to transport their own and others' consciousness into a virtual space, which they have complete control over, by singing.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/40/Uta_Uta_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250826143826"
   },
   {
     "id": "115",
     "name": "Dero Dero no Mi",
-    "user": "Artur Bacca",
+    "en_name": "Melt-Melt Fruit",
     "type": "Paramecia",
+    "user": "Artur Bacca",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Dissolving Human who can dissolve anything into a liquid, including themself."
+    "description": "Makes the user a Dissolving Human who can dissolve anything into a liquid, including themself.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "116",
     "name": "Kopi Kopi no Mi",
-    "user": "Chameleone",
     "type": "Paramecia",
+    "user": "Chameleone",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to copy the abilities of another Devil Fruit user."
+    "description": "Allows the user to copy the abilities of another Devil Fruit user.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "117",
     "name": "Kone Kone no Mi",
-    "user": "Bildy",
     "type": "Paramecia",
+    "user": "Bildy",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to transform someone to look like someone else."
+    "description": "Allows the user to transform someone to look like someone else.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "118",
     "name": "Maji Maji no Mi",
-    "user": "Inchikin",
     "type": "Paramecia",
+    "user": "Inchikin",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Magic Human who can use techniques resembling a stage or palor magician's, like hypnotism, invisibility, and illusions."
+    "description": "Makes the user a Magic Human who can use techniques resembling a stage or palor magician's, like hypnotism, invisibility, and illusions.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "119",
     "name": "Nito Nito no Mi",
-    "user": "B\u00fcrst",
     "type": "Paramecia",
+    "user": "B\u00fcrst",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Nitroglycerin Human who can use the explosive abilities of nitroglycerin."
+    "description": "Makes the user a Nitroglycerin Human who can use the explosive abilities of nitroglycerin.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Nito_Nito_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20201008225608"
   },
   {
     "id": "120",
     "name": "Hore Hore no Mi",
-    "user": "Bonbon",
     "type": "Paramecia",
+    "user": "Bonbon",
     "canon_status": "Non-Canon",
-    "description": "Makes the user an Aphrodisiac Human who can force people to fall in love with them by projecting special light rays."
+    "description": "Makes the user an Aphrodisiac Human who can force people to fall in love with them by projecting special light rays.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/6/63/Hore_Hore_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210409081341"
   },
   {
     "id": "121",
     "name": "Nepa Nepa no Mi",
-    "user": "Wilder",
     "type": "Paramecia",
+    "user": "Wilder",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Heat Wave Human who can generate heat waves."
+    "description": "Makes the user a Heat Wave Human who can generate heat waves.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/83/Nepa_Nepa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20200721003731"
   },
   {
     "id": "122",
     "name": "Mono Mono no Mi",
-    "user": "Pokke",
     "type": "Paramecia",
+    "user": "Pokke",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Recreation Human who can create clones of people and objects."
+    "description": "Makes the user a Recreation Human who can create clones of people and objects.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Mono_Mono_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20171020020339"
   },
   {
     "id": "123",
     "name": "Ute Ute no Mi",
-    "user": "Bad One Gracie",
     "type": "Paramecia",
+    "user": "Bad One Gracie",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Firing Human who can transform their hands into guns, as well as sprout gun barrels on any nearby surface."
+    "description": "Makes the user a Firing Human who can transform their hands into guns, as well as sprout gun barrels on any nearby surface.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "124",
     "name": "Pocha Pocha no Mi",
-    "user": "Neiro",
     "type": "Paramecia",
+    "user": "Neiro",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Flab Human who can add extra fat onto an opponent's body."
+    "description": "Makes the user a Flab Human who can add extra fat onto an opponent's body.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "125",
     "name": "Bana Bana no Mi",
-    "user": "Bounty",
     "type": "Paramecia",
+    "user": "Bounty",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to harness jealousy and convert it into heat and fire."
+    "description": "Allows the user to harness jealousy and convert it into heat and fire.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "126",
     "name": "Deri Deri no Mi",
-    "user": "Prize",
     "type": "Paramecia",
+    "user": "Prize",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Delivery Human who can deliver anything they want to any point they can see."
+    "description": "Makes the user a Delivery Human who can deliver anything they want to any point they can see.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "127",
     "name": "Basu Basu no Mi",
-    "user": "Balzac",
     "type": "Paramecia",
+    "user": "Balzac",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Bomb Transformation Human who can turn anything they touch into a bomb."
+    "description": "Makes the user a Bomb Transformation Human who can turn anything they touch into a bomb.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Basu_Basu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20201008121317"
   },
   {
     "id": "128",
     "name": "Nibi Nibi no Mi",
-    "user": "Kardia",
     "type": "Paramecia",
+    "user": "Kardia",
     "canon_status": "Non-Canon",
-    "description": "Makes the user an Onibi Human who can reproduce the appearance of the deceased."
+    "description": "Makes the user an Onibi Human who can reproduce the appearance of the deceased.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "129",
     "name": "Nori Nori no Mi",
-    "user": "Herz",
     "type": "Paramecia",
+    "user": "Herz",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Dance Human who can force people to dance."
+    "description": "Makes the user a Dance Human who can force people to dance.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "130",
     "name": "Chuni Chuni no Mi",
-    "user": "Yehudi",
     "type": "Paramecia",
+    "user": "Yehudi",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Tuning Human who can \"tune\" (increase or decrease) the strength of others' abilities."
+    "description": "Makes the user a Tuning Human who can \"tune\" (increase or decrease) the strength of others' abilities.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "131",
     "name": "Mari Mari no Mi",
-    "user": "Ven Vendler",
     "type": "Paramecia",
+    "user": "Ven Vendler",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Marionette Human who can create copies of people under their total control."
+    "description": "Makes the user a Marionette Human who can create copies of people under their total control.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Mari_Mari_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230711103040"
   },
   {
     "id": "132",
     "name": "Shuku Shuku no Mi",
-    "user": "Bolster",
     "type": "Paramecia",
+    "user": "Bolster",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Compression Human who can compress objects."
+    "description": "Makes the user a Compression Human who can compress objects.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "133",
     "name": "Homi Homi no Mi",
-    "user": "Homming",
     "type": "Paramecia",
+    "user": "Homming",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Homing Human who can make objects they hold fly to a predefined location."
+    "description": "Makes the user a Homing Human who can make objects they hold fly to a predefined location.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "134",
     "name": "Mabo Mabo no Mi",
-    "user": "Fanto",
     "type": "Paramecia",
+    "user": "Fanto",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Phantom Human who can create illusions based on people's memories."
+    "description": "Makes the user a Phantom Human who can create illusions based on people's memories.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "135",
     "name": "Kado Kado no Mi",
-    "user": "One Piece Card-kun",
     "type": "Paramecia",
+    "user": "One Piece Card-kun",
     "canon_status": "Non-Canon",
-    "description": "Grants unknown but likely card-related abilities."
+    "description": "Grants unknown but likely card-related abilities.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/96/One_Piece_Card-kun_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250916035502"
   },
   {
     "id": "136",
     "name": "Riba Riba no Mi",
-    "user": "Snitcher",
+    "en_name": "Reverse-Reverse Fruit",
     "type": "Paramecia",
+    "user": "Snitcher",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Reverse Human who can reverse the flow of time around them."
+    "description": "Makes the user a Reverse Human who can reverse the flow of time around them.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
     "id": "137",
     "name": "Nemu Nemu no Mi",
-    "user": "Noko",
+    "en_name": "Sleep-Sleep Fruit",
     "type": "Paramecia",
+    "user": "Noko",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to induce sleepiness in others, steal their sleeping victims' memories, and use them to become bigger and stronger."
+    "description": "Allows the user to induce sleepiness in others, steal their sleeping victims' memories, and use them to become bigger and stronger.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/89/Nemu_Nemu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20140131234604"
   },
   {
     "id": "138",
     "name": "Kote Kote no Mi",
-    "user": "Adio Suerte",
+    "en_name": "Grab-Grab Fruit",
     "type": "Paramecia",
+    "user": "Adio Suerte",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to create a pair of giant gauntlets that can be used to punch or grab, and the user can control any non-living thing in their grasp."
+    "description": "Allows the user to create a pair of giant gauntlets that can be used to punch or grab, and the user can control any non-living thing in their grasp.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/10/Kote_Kote_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230113150930"
   },
   {
     "id": "139",
     "name": "Mini Mini no Mi",
-    "user": "Blyue",
+    "en_name": "Mini-Mini Fruit",
     "type": "Paramecia",
+    "user": "Blyue",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to shrink themself down to 5 mm in height without reducing their strength. They can also return to their full size at will, as well as change to any size in-between."
+    "description": "Allows the user to shrink themself down to 5 mm in height without reducing their strength. They can also return to their full size at will, as well as change to any size in-between.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e6/Mini_Mini_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20131214220828"
   },
   {
     "id": "140",
     "name": "Lily Enstomach",
-    "user": "Z's Ambition Arc",
     "type": "Paramecia",
+    "user": "Z's Ambition Arc",
     "canon_status": "Non-Canon",
-    "description": ""
+    "description": "",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Lily_Enstomach_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130626114701"
   },
   {
     "id": "141",
     "name": "Gutsu Gutsu no Mi",
-    "user": "Lambor Bukini",
+    "en_name": "Smelt-Smelt Fruit",
     "type": "Paramecia",
+    "user": "Lambor Bukini",
     "canon_status": "Non-Canon",
-    "description": "Makes the user a Blast Furnace Human who can consume metal ores, melt them down within their body, solidify them, and then shape them into anything they want, usually metal weapons."
+    "description": "Makes the user a Blast Furnace Human who can consume metal ores, melt them down within their body, solidify them, and then shape them into anything they want, usually metal weapons.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Gutsu_Gutsu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160717205338"
   },
   {
     "id": "142",
     "name": "Bill",
-    "user": "Silver Mine Arc",
     "type": "Paramecia",
+    "user": "Silver Mine Arc",
     "canon_status": "Non-Canon",
-    "description": ""
+    "description": "",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/da/Bill_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160628223414"
   },
   {
     "id": "143",
     "name": "Peke Peke no Mi",
-    "user": "Peketan",
     "type": "Paramecia",
+    "user": "Peketan",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to transform other people into clones of Peketan."
+    "description": "Allows the user to transform other people into clones of Peketan.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Peke_Peke_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20221016013753"
   },
   {
     "id": "144",
     "name": "Gemu Gemu no Mi",
-    "user": "Dama",
     "type": "Paramecia",
+    "user": "Dama",
     "canon_status": "Non-Canon",
-    "description": "Allows the user to transport other people into a game-like world, the game genre of which they decide."
+    "description": "Allows the user to transport other people into a game-like world, the game genre of which they decide.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/44/Gemu_Gemu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20221016044620"
   },
   {
     "id": "145",
     "name": "Kyara Kyara no Mi",
-    "user": "Lip Shark",
     "type": "Paramecia",
+    "user": "Lip Shark",
     "canon_status": "Non-Canon",
-    "description": "Provides consciousness to non-living souls, as well as allowing the soul to merge with others."
+    "description": "Provides consciousness to non-living souls, as well as allowing the soul to merge with others.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Kyara_Kyara_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230308162605"
+  },
+  {
+    "id": "146",
+    "name": "Moku Moku no Mi",
+    "en_name": "Plume-Plume Fruit; Smoke-Smoke Fruit",
+    "type": "Logia",
+    "user": "Smoker",
+    "canon_status": "Canon",
+    "description": "Makes the user a Smoke Human who can create, control, and transform into a white smoke.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Moku_Moku_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250826143852"
+  },
+  {
+    "id": "147",
+    "name": "Suna Suna no Mi",
+    "en_name": "Sand-Sand Fruit",
+    "type": "Logia",
+    "user": "Crocodile",
+    "canon_status": "Canon",
+    "description": "Makes the user a Sand Human who can create, control, and transform into sand.The user also wields the power of \"dryness\" itself, being able to dehydrate anything their hands touch and thus \"mummify\" living beings while dissolving inorganic, non-metallic substances into sand.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7d/Suna_Suna_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220408131752"
+  },
+  {
+    "id": "148",
+    "name": "Mera Mera no Mi",
+    "en_name": "Flare-Flare Fruit; Flame-Flame Fruit",
+    "type": "Logia",
+    "user": "Sabo",
+    "previous_user": "Portgas D. Ace",
+    "canon_status": "Canon",
+    "description": "Allows the user to create, control, and transform into fire.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Mera_Mera_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240710204632"
+  },
+  {
+    "id": "149",
+    "name": "Goro Goro no Mi",
+    "en_name": "Rumble-Rumble Fruit",
+    "type": "Logia",
+    "user": "Enel",
+    "canon_status": "Canon",
+    "description": "Makes the user a Lightning Human who can create, control, and transform into lightning, as well as exploit a miscellany of other electric phenomena. Noted for its immense power, this Devil Fruit ability is among the few reputed as \"invincible\".[30]",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Goro_Goro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20230907005154"
+  },
+  {
+    "id": "150",
+    "name": "Hie Hie no Mi",
+    "en_name": "Chilly-Chilly Fruit; Ice-Ice Fruit",
+    "type": "Logia",
+    "user": "Kuzan",
+    "canon_status": "Canon",
+    "description": "Makes the user a Freezing Human who can create, control, and transform into ice, as well as freeze over anything they touch, including ocean water.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/56/Hie_Hie_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20221101155813"
+  },
+  {
+    "id": "151",
+    "name": "Yami Yami no Mi",
+    "en_name": "Dark-Dark Fruit",
+    "type": "Logia",
+    "user": "Marshall D. Teach",
+    "canon_status": "Canon",
+    "description": "Makes the user a Darkness Human who can create, control, and transform into darkness: a black, smoke-like substance that draws all things into itself to crush through immense gravity, much like a black hole.The darkness can attract and absorb anything, from physical objects to light itself, to even the bodies of other Devil Fruit users, allowing the Darkness Human to nullify their powers upon touching them.However, the ability user is uniquely vulnerable for a Logia: since their darkness body absorbs not just attacks but also the damage pain they bring on, they can be hurt through conventional means, even without Haki.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Yami_Yami_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240627010252"
+  },
+  {
+    "id": "152",
+    "name": "Pika Pika no Mi",
+    "en_name": "Glint-Glint Fruit",
+    "type": "Logia",
+    "user": "Borsalino",
+    "canon_status": "Canon",
+    "description": "Makes the user a Light Human who can create, control, and transform into light, fire laser beams, as well as move and physically attack at the speed of light.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/6/66/Pika_Pika_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250501014523"
+  },
+  {
+    "id": "153",
+    "name": "Magu Magu no Mi",
+    "en_name": "Mag-Mag Fruit",
+    "type": "Logia",
+    "user": "Sakazuki",
+    "canon_status": "Canon",
+    "description": "Makes the user a Magma Human who can create, control, and transform into magma and scorching molten rock. Rivaling the destructive force of a volcanic eruption, this fruit's offensive power ranks as one of the highest among all Devil Fruits.[31]",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/07/Magu_Magu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20231013044624"
+  },
+  {
+    "id": "154",
+    "name": "Susu Susu no Mi",
+    "en_name": "Soot-Soot Fruit",
+    "type": "Logia",
+    "user": "Karasu",
+    "canon_status": "Canon",
+    "description": "Allows the user to create, control, and transform into soot.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Susu_Susu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240901100624"
+  },
+  {
+    "id": "155",
+    "name": "Numa Numa no Mi",
+    "en_name": "Swamp-Swamp Fruit",
+    "type": "Logia",
+    "user": "Caribou",
+    "canon_status": "Canon",
+    "description": "Makes the user a Swamp Human who can create, control, and transform into mud, akin to a \"bottomless\" swamp. Their mud can slowly suck in anything, affording the user an infinite space within their body to either store objects or entrap enemies.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Numa_Numa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230715142546"
+  },
+  {
+    "id": "156",
+    "name": "Gasu Gasu no Mi",
+    "en_name": "Gas-Gas Fruit",
+    "type": "Logia",
+    "user": "Caesar Clown",
+    "canon_status": "Canon",
+    "description": "Allows the user to create, control, and transform into gases with assorted chemical properties.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Gasu_Gasu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230902035324"
+  },
+  {
+    "id": "157",
+    "name": "Yuki Yuki no Mi",
+    "en_name": "Snow-Snow Fruit",
+    "type": "Logia",
+    "previous_user": "Monet",
+    "canon_status": "Canon",
+    "description": "Makes the user a Snow Human who can create, control, and transform into snow.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Yuki_Yuki_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240221181209"
+  },
+  {
+    "id": "158",
+    "name": "Mori Mori no Mi",
+    "en_name": "Woods-Woods Fruit",
+    "type": "Logia",
+    "user": "Aramaki",
+    "canon_status": "Canon",
+    "description": "Makes the user a Forest Human who can create, control, and transform into plants: primarily trees but also flowers and other such \"forest\" flora. The user can drain living beings of their body fluids (nutrients) as a means of gaining sustenance.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/23/Mori_Mori_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240915022218"
+  },
+  {
+    "id": "159",
+    "name": "Toro Toro no Mi",
+    "en_name": "Liquid Fruit; Liquid-Liquid Fruit",
+    "type": "Logia",
+    "user": "Honey Queen",
+    "canon_status": "Non-Canon",
+    "description": "Allows the user to create, control, and transform into \"water-like\" liquid.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/71/Toro_Toro_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130623120640"
+  },
+  {
+    "id": "160",
+    "name": "Pasa Pasa no Mi",
+    "type": "Logia",
+    "user": "Simon",
+    "canon_status": "Non-Canon",
+    "description": "Allows the user to create, control, and transform into paper.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Pasa_Pasa_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220522115915"
+  },
+  {
+    "id": "161",
+    "name": "Ame Ame no Mi",
+    "en_name": "Ame Ame Fruit; Candy-Candy Fruit",
+    "type": "Logia",
+    "user": "Gasparde",
+    "canon_status": "Non-Canon",
+    "description": "Allows the user to create, control, and transform into a green candy syrup.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/be/Ame_Ame_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20221009225401"
+  },
+  {
+    "id": "162",
+    "name": "Hito Hito no Mi, Model: Nika(Human-Human Fruit, Model: Nika)",
+    "en_name": "Human-Human Fruit, Model: Nika",
+    "type": "Zoan",
+    "series": "Human",
+    "sub-type": "Mythical",
+    "user": "Joy Boy",
+    "previous_user": null,
+    "canon_status": "Canon",
+    "description/transforms_into": "\"Sun God\" NikaGrants a mythical body that has the properties of rubber.NOTE: The fruit has been renamed to \"Gomu Gomu no Mi\" and reclassified as a Paramecia by the World Government in order to hide its true nature.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/12/Gomu_Gomu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20221108072550"
+  },
+  {
+    "id": "163",
+    "name": "Ushi Ushi no Mi, Model: Bison(Ox-Ox Fruit, Bison Model;Ox-Ox Fruit, Bison Form)",
+    "en_name": "Ox-Ox Fruit, Bison Model; Ox-Ox Fruit, Bison Form",
+    "type": "Zoan",
+    "series": "Ox",
+    "sub-type": "Normal",
+    "user": "Dalton",
+    "canon_status": "Canon",
+    "description/transforms_into": "Bison",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Ushi_Ushi_no_Mi%2C_Model_Bison_Infobox.png/revision/latest/scale-to-width-down/267?cb=20220408131623"
+  },
+  {
+    "id": "164",
+    "name": "Hito Hito no Mi(Human-Human Fruit)",
+    "en_name": "Human-Human Fruit",
+    "type": "Zoan",
+    "series": "Human",
+    "sub-type": "Normal",
+    "user": "Tony Tony Chopper",
+    "canon_status": "Canon",
+    "description/transforms_into": "HumanGrants human intelligence speech to an animal that eats the fruit.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/38/Hito_Hito_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20191228120250"
+  },
+  {
+    "id": "165",
+    "name": "Tori Tori no Mi, Model: Falcon(Tweet-Tweet Fruit Falcon Type;Bird-Bird Fruit Model: The Falcon)",
+    "en_name": "Tweet-Tweet Fruit Falcon Type; Bird-Bird Fruit Model: The Falcon",
+    "type": "Zoan",
+    "series": "Bird",
+    "sub-type": "Normal",
+    "user": "Pell",
+    "canon_status": "Canon",
+    "description/transforms_into": "FalconGrants flight.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Tori_Tori_no_Mi%2C_Model_Falcon_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20230916035747"
+  },
+  {
+    "id": "166",
+    "name": "Inu Inu no Mi, Model: Dachshund(Mutt-Mutt Fruit, Dachshund Type;Dog-Dog Fruit, Model: Dachshund)",
+    "en_name": "Mutt-Mutt Fruit, Dachshund Type; Dog-Dog Fruit, Model: Dachshund",
+    "type": "Zoan",
+    "series": "Dog",
+    "sub-type": "Normal",
+    "user": "Lassoo",
+    "canon_status": "Canon",
+    "description/transforms_into": "Dachshund",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Inu_Inu_no_Mi%2C_Model_Dachshund_Infobox.png/revision/latest/scale-to-width-down/268?cb=20200625092631"
+  },
+  {
+    "id": "167",
+    "name": "Mogu Mogu no Mi(Mole-Mole Fruit;Diggy-Diggy Fruit)",
+    "en_name": "Mole-Mole Fruit; Diggy-Diggy Fruit",
+    "type": "Zoan",
+    "series": "Mole",
+    "sub-type": "Normal",
+    "user": "Drophy",
+    "canon_status": "Canon",
+    "description/transforms_into": "MoleGrants the ability to dig holes at high speed.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/95/Mogu_Mogu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20230624124000"
+  },
+  {
+    "id": "168",
+    "name": "Inu Inu no Mi, Model: Jackal(Mutt-Mutt Fruit: Jackal Model;Dog-Dog Fruit, Model: Jackal)",
+    "en_name": "Mutt-Mutt Fruit: Jackal Model; Dog-Dog Fruit, Model: Jackal",
+    "type": "Zoan",
+    "series": "Dog",
+    "sub-type": "Normal",
+    "user": "Chaka",
+    "canon_status": "Canon",
+    "description/transforms_into": "Jackal",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Inu_Inu_no_Mi%2C_Model_Jackal_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230913193627"
+  },
+  {
+    "id": "169",
+    "name": "Uma Uma no Mi(Horse-Horse Fruit)",
+    "en_name": "Horse-Horse Fruit",
+    "type": "Zoan",
+    "series": "Horse",
+    "sub-type": "Normal",
+    "user": "Pierre",
+    "canon_status": "Canon",
+    "description/transforms_into": "Horse",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/39/Uma_Uma_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220713111132"
+  },
+  {
+    "id": "170",
+    "name": "Neko Neko no Mi, Model: Leopard(Cat-Cat Fruit Leopard Model;Cat-Cat Fruit, Model: Leopard)",
+    "en_name": "Cat-Cat Fruit Leopard Model; Cat-Cat Fruit, Model: Leopard",
+    "type": "Zoan",
+    "series": "Cat",
+    "sub-type": "Normal",
+    "user": "Rob Lucci",
+    "canon_status": "Canon",
+    "description/transforms_into": "Leopard",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/98/Neko_Neko_no_Mi%2C_Model_Leopard_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230306213909"
+  },
+  {
+    "id": "171",
+    "name": "Inu Inu no Mi, Model: Wolf(Mutt-Mutt Fruit Wolf Model;Dog-Dog Fruit, Model: Wolf)",
+    "en_name": "Mutt-Mutt Fruit Wolf Model; Dog-Dog Fruit, Model: Wolf",
+    "type": "Zoan",
+    "series": "Dog",
+    "sub-type": "Normal",
+    "user": "Jabra",
+    "canon_status": "Canon",
+    "description/transforms_into": "Wolf",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Full-Beast_Form_of_Jabra%27s_fruit.png/revision/latest/scale-to-width-down/268?cb=20240303202356"
+  },
+  {
+    "id": "172",
+    "name": "Zou Zou no Mi(Eleph-Eleph Fruit;Elephant-Elephant Fruit)",
+    "en_name": "Eleph-Eleph Fruit; Elephant-Elephant Fruit",
+    "type": "Zoan",
+    "series": "Elephant",
+    "sub-type": "Normal",
+    "user": "Funkfreed",
+    "canon_status": "Canon",
+    "description/transforms_into": "Elephant",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Funkfreed_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250301182705"
+  },
+  {
+    "id": "173",
+    "name": "Ushi Ushi no Mi, Model: Giraffe(Ox-Ox Fruit, Giraffe Model;Ox-Ox Fruit, Model: Giraffe)",
+    "en_name": "Ox-Ox Fruit, Giraffe Model; Ox-Ox Fruit, Model: Giraffe",
+    "type": "Zoan",
+    "series": "Ox",
+    "sub-type": "Normal",
+    "user": "New World",
+    "previous_user": null,
+    "canon_status": "Canon",
+    "description/transforms_into": "Giraffe",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Ushi_Ushi_no_Mi%2C_Model_Giraffe_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230120040539"
+  },
+  {
+    "id": "174",
+    "name": "Ryu Ryu no Mi, Model: Allosaurus(Dragon-Dragon Fruit, Allosaurus Model)",
+    "en_name": "Dragon-Dragon Fruit, Allosaurus Model",
+    "type": "Zoan",
+    "series": "Dragon",
+    "sub-type": "Ancient",
+    "user": "X Drake",
+    "canon_status": "Canon",
+    "description/transforms_into": "Allosaurus",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Ryu_Ryu_no_Mi%2C_Model_Allosaurus_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20220301122130"
+  },
+  {
+    "id": "175",
+    "name": "Hebi Hebi no Mi, Model: King Cobra(Snake-Snake Fruit King Cobra Model;Snake-Snake Fruit, Model: King Cobra)",
+    "en_name": "Snake-Snake Fruit King Cobra Model; Snake-Snake Fruit, Model: King Cobra",
+    "type": "Zoan",
+    "series": "Snake",
+    "sub-type": "Normal",
+    "user": "Boa Marigold",
+    "canon_status": "Canon",
+    "description/transforms_into": "King cobraGrants the ability to spit venom.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/33/Hebi_Hebi_no_Mi%2C_Model_King_Cobra_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220408224556"
+  },
+  {
+    "id": "176",
+    "name": "Hebi Hebi no Mi, Model: Anaconda(Snake-Snake Fruit Anaconda Model;Snake-Snake Fruit, Model: Anaconda)",
+    "en_name": "Snake-Snake Fruit Anaconda Model; Snake-Snake Fruit, Model: Anaconda",
+    "type": "Zoan",
+    "series": "Snake",
+    "sub-type": "Normal",
+    "user": "Boa Sandersonia",
+    "canon_status": "Canon",
+    "description/transforms_into": "Anaconda",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Hebi_Hebi_no_Mi%2C_Model_Anaconda_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210908193532"
+  },
+  {
+    "id": "177",
+    "name": "Tori Tori no Mi, Model: Phoenix(Tweet-Tweet Fruit, Phoenix Model;Bird-Bird Fruit, Model: Phoenix)",
+    "en_name": "Tweet-Tweet Fruit, Phoenix Model; Bird-Bird Fruit, Model: Phoenix",
+    "type": "Zoan",
+    "series": "Bird",
+    "sub-type": "Mythical",
+    "user": "Polo Marco",
+    "canon_status": "Canon",
+    "description/transforms_into": "PhoenixGrants flightGrants the mythical power to heal via the \"Blue Flames of Resurrection\".",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/51/Tori_Tori_no_Mi%2C_Model_Phoenix_Infobox.png/revision/latest/scale-to-width-down/268?cb=20251002184357"
+  },
+  {
+    "id": "178",
+    "name": "Hito Hito no Mi, Model: Daibutsu(Human-Human Fruit, Daibutsu Model;Human-Human Fruit, Model: Buddha)",
+    "en_name": "Human-Human Fruit, Daibutsu Model; Human-Human Fruit, Model: Buddha",
+    "type": "Zoan",
+    "series": "Human",
+    "sub-type": "Mythical",
+    "user": "Sengoku",
+    "canon_status": "Canon",
+    "description/transforms_into": "Daibutsu (golden buddha statue)Grants the mythical power to project golden shockwaves from the palms.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/45/Hito_Hito_no_Mi%2C_Model_Daibutsu_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240813213645"
+  },
+  {
+    "id": "179",
+    "name": "Tama Tama no Mi(Egg-Egg Fruit)",
+    "en_name": "Egg-Egg Fruit",
+    "type": "Zoan",
+    "series": "Egg",
+    "sub-type": "Normal",
+    "user": "Tamago",
+    "canon_status": "Canon",
+    "description/transforms_into": "Egg \u2192 chick \u2192 chicken \u2192 egg",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tama_Tama_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20171203040745"
+  },
+  {
+    "id": "180",
+    "name": "Kame Kame no Mi(Turtle-Turtle Fruit)",
+    "en_name": "Turtle-Turtle Fruit",
+    "type": "Zoan",
+    "series": "Turtle",
+    "sub-type": "Normal",
+    "user": "Pekoms",
+    "canon_status": "Canon",
+    "description/transforms_into": "Turtle",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/74/Kame_Kame_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160120235204"
+  },
+  {
+    "id": "181",
+    "name": "Sara Sara no Mi, Model: Axolotl(Sala-Sala Fruit, Model: Axolotl)",
+    "en_name": "Sala-Sala Fruit, Model: Axolotl",
+    "type": "Zoan",
+    "series": "Salamander",
+    "sub-type": "Normal",
+    "user": "Smiley",
+    "previous_user": null,
+    "canon_status": "Canon",
+    "description/transforms_into": "Axolotl",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sara_Sara_no_Mi%2C_Model_Axolotl_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250412171742"
+  },
+  {
+    "id": "182",
+    "name": "Mushi Mushi no Mi, Model: Kabutomushi(Bug-Bug Fruit, Model Rhinoceros Beetle)",
+    "en_name": "Bug-Bug Fruit, Model Rhinoceros Beetle",
+    "type": "Zoan",
+    "series": "Bug",
+    "sub-type": "Normal",
+    "user": "Kabu",
+    "canon_status": "Canon",
+    "description/transforms_into": "Rhinoceros beetleGrants flight.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/ce/Mushi_Mushi_no_Mi%2C_Model_Kabutomushi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20141006011335"
+  },
+  {
+    "id": "183",
+    "name": "Mushi Mushi no Mi, Model: Suzumebachi(Bug-Bug Fruit, Model Hornet)",
+    "en_name": "Bug-Bug Fruit, Model Hornet",
+    "type": "Zoan",
+    "series": "Bug",
+    "sub-type": "Normal",
+    "user": "Bian",
+    "canon_status": "Canon",
+    "description/transforms_into": "HornetGrants flight.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mushi_Mushi_no_Mi%2C_Model_Suzumebachi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20140609062408"
+  },
+  {
+    "id": "184",
+    "name": "Zou Zou no Mi, Model: Mammoth(Eleph-Eleph Fruit, Model: Mammoth)",
+    "en_name": "Eleph-Eleph Fruit, Model: Mammoth",
+    "type": "Zoan",
+    "series": "Elephant",
+    "sub-type": "Ancient",
+    "user": "Jack",
+    "canon_status": "Canon",
+    "description/transforms_into": "Mammoth",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Zou_Zou_no_Mi%2C_Model_Mammoth_Beast_Form.png/revision/latest/scale-to-width-down/267?cb=20211212162937"
+  },
+  {
+    "id": "185",
+    "name": "Tori Tori no Mi, Model: Albatross(Bird-Bird Fruit, Model: Albatross;Tweet-Tweet Fruit, Albatross Model)",
+    "en_name": "Bird-Bird Fruit, Model: Albatross; Tweet-Tweet Fruit, Albatross Model",
+    "type": "Zoan",
+    "series": "Bird",
+    "sub-type": "Normal",
+    "user": "Morgans",
+    "canon_status": "Canon",
+    "description/transforms_into": "AlbatrossCurrent user incapable of flight.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260405065914"
+  },
+  {
+    "id": "186",
+    "name": "Inu Inu no Mi, Model: Tanuki(Dog-Dog Fruit, Model Tanuki)",
+    "en_name": "Dog-Dog Fruit, Model Tanuki",
+    "type": "Zoan",
+    "series": "Dog",
+    "sub-type": "Normal",
+    "user": "Bunbuku",
+    "canon_status": "Canon",
+    "description/transforms_into": "Tanuki (raccoon dog)",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/33/Bunbuku_Manga_Infobox.png/revision/latest/scale-to-width-down/267?cb=20210405204206"
+  },
+  {
+    "id": "187",
+    "name": "Uo Uo no Mi, Model: Seiryu(Fish-Fish Fruit, Model: Azure Dragon;Fish-Fish Fruit, Azure Dragon Model)",
+    "en_name": "Fish-Fish Fruit, Model: Azure Dragon; Fish-Fish Fruit, Azure Dragon Model",
+    "type": "Zoan",
+    "series": "Fish",
+    "sub-type": "Mythical",
+    "user": "Kaidou",
+    "previous_user": null,
+    "canon_status": "Canon",
+    "description/transforms_into": "Azure DragonGrants the mythical powers of flight via \"Flame Clouds\" and to create the elements of fire, wind, and lightning.The dragon form of Momonosuke's artificial power is pink.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Uo_Uo_no_Mi%2C_Model_Seiryu_Infobox.png/revision/latest/scale-to-width-down/268?cb=20211204205430"
+  },
+  {
+    "id": "188",
+    "name": "Inu Inu no Mi, Model: Kyubi no Kitsune(Dog-Dog Fruit, Nine-Tailed Fox Model)",
+    "en_name": "Dog-Dog Fruit, Nine-Tailed Fox Model",
+    "type": "Zoan",
+    "series": "Dog",
+    "sub-type": "Mythical",
+    "user": "Catarina Devon",
+    "canon_status": "Canon",
+    "description/transforms_into": "Nine-Tailed Fox KitsuneGrants the mythical power to transform into the clone of someone else.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Inu_Inu_no_Mi%2C_Model_Kyubi_no_Kitsune_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210717170215"
+  },
+  {
+    "id": "189",
+    "name": "Hebi Hebi no Mi, Model: Yamata no Orochi(Snake-Snake Fruit, Model: Yamata-no-Orochi)",
+    "en_name": "Snake-Snake Fruit, Model: Yamata-no-Orochi",
+    "type": "Zoan",
+    "series": "Snake",
+    "sub-type": "Mythical",
+    "user": "Kurozumi Orochi",
+    "previous_user": null,
+    "canon_status": "Canon",
+    "description/transforms_into": "Yamata no OrochiGrants the mythical trait of having eight heads (allowing the user to survive decapitation seven times).",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Hebi_Hebi_no_Mi%2C_Model_Yamata_no_Orochi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210307032049"
+  },
+  {
+    "id": "190",
+    "name": "Ryu Ryu no Mi, Model: Spinosaurus(Dragon-Dragon Fruit, Spinosaurus Model)",
+    "en_name": "Dragon-Dragon Fruit, Spinosaurus Model",
+    "type": "Zoan",
+    "series": "Dragon",
+    "sub-type": "Ancient",
+    "user": "Page One",
+    "canon_status": "Canon",
+    "description/transforms_into": "Spinosaurus",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/92/Ryu_Ryu_no_Mi%2C_Model_Spinosaurus_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20220807021957"
+  },
+  {
+    "id": "191",
+    "name": "Ryu Ryu no Mi, Model: Pteranodon(Dragon-Dragon Fruit, Pteranodon Model)",
+    "en_name": "Dragon-Dragon Fruit, Pteranodon Model",
+    "type": "Zoan",
+    "series": "Dragon",
+    "sub-type": "Ancient",
+    "user": "King",
+    "canon_status": "Canon",
+    "description/transforms_into": "PteranodonGrants flightGrants the unique ability to stretch and shoot out one's pteranodon head like a slingshot.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/96/Ryu_Ryu_no_Mi%2C_Model_Pteranodon_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20220418123709"
+  },
+  {
+    "id": "192",
+    "name": "Hito Hito no Mi, Model: Onyudo(Human-Human Fruit, Model: Onyudo)",
+    "en_name": "Human-Human Fruit, Model: Onyudo",
+    "type": "Zoan",
+    "series": "Human",
+    "sub-type": "Mythical",
+    "user": "Onimaru",
+    "canon_status": "Canon",
+    "description/transforms_into": "\u014cny\u016bd\u014d (monk y\u014dkai)Grants human intelligence speech to an animal that eats the fruit.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Onimaru_as_Gyukimaru.png/revision/latest/scale-to-width-down/268?cb=20200712035243"
+  },
+  {
+    "id": "193",
+    "name": "Ryu Ryu no Mi, Model: Brachiosaurus(Dragon-Dragon Fruit, Model Brachiosaurus)",
+    "en_name": "Dragon-Dragon Fruit, Model Brachiosaurus",
+    "type": "Zoan",
+    "series": "Dragon",
+    "sub-type": "Ancient",
+    "user": "Queen",
+    "canon_status": "Canon",
+    "description/transforms_into": "BrachiosaurusGrants the unique ability to separate the head, neck, and tail from the rest of the brachiosaurus body.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/40/Ryu_Ryu_no_Mi%2C_Model_Brachiosaurus_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20221106024038"
+  },
+  {
+    "id": "194",
+    "name": "Ryu Ryu no Mi, Model: Pachycephalosaurus(Dragon-Dragon Fruit, Pachycephalosaurus Model)",
+    "en_name": "Dragon-Dragon Fruit, Pachycephalosaurus Model",
+    "type": "Zoan",
+    "series": "Dragon",
+    "sub-type": "Ancient",
+    "user": "Ulti",
+    "canon_status": "Canon",
+    "description/transforms_into": "Pachycephalosaurus",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Ryu_Ryu_no_Mi%2C_Model_Pachycephalosaurus_Beast_Form.png/revision/latest/scale-to-width-down/267?cb=20240831170434"
+  },
+  {
+    "id": "195",
+    "name": "Inu Inu no Mi, Model: Okuchi no Makami(Dog-Dog Fruit, Model Okuchi-no-Makami)",
+    "en_name": "Dog-Dog Fruit, Model Okuchi-no-Makami",
+    "type": "Zoan",
+    "series": "Dog",
+    "sub-type": "Mythical",
+    "user": "Yamato",
+    "canon_status": "Canon",
+    "description/transforms_into": "Okuchi no Makami (wolf deity)Grants the mythical power to summon freezing cold and ice.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/1d/Inu_Inu_no_Mi%2C_Model_Okuchi_no_Makami_Infobox.png/revision/latest/scale-to-width-down/268?cb=20221120062131"
+  },
+  {
+    "id": "196",
+    "name": "Ryu Ryu no Mi, Model: Triceratops(Dragon-Dragon Fruit, Triceratops Model)",
+    "en_name": "Dragon-Dragon Fruit, Triceratops Model",
+    "type": "Zoan",
+    "series": "Dragon",
+    "sub-type": "Ancient",
+    "user": "Sasaki",
+    "canon_status": "Canon",
+    "description/transforms_into": "TriceratopsGrants the unique ability to fly by spinning the triceratops' neck frill.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/58/Ryu_Ryu_no_Mi%2C_Model_Triceratops_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20220529042151"
+  },
+  {
+    "id": "197",
+    "name": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli(Spider-Spider Fruit, Rosamygale Grauvogeli Model)",
+    "en_name": "Spider-Spider Fruit, Rosamygale Grauvogeli Model",
+    "type": "Zoan",
+    "series": "Spider",
+    "sub-type": "Ancient",
+    "user": "Black Maria",
+    "canon_status": "Canon",
+    "description/transforms_into": "Rosamygale Grauvogeli spiderGrants the ability to extrude spider silk and weave spiderwebs nets.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Kumo_Kumo_no_Mi_Model_Rosamygale_Grauvogeli_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230818050241"
+  },
+  {
+    "id": "198",
+    "name": "Neko Neko no Mi, Model: Saber Tiger(Cat-Cat Fruit, Saber-Toothed Tiger Model)",
+    "en_name": "Cat-Cat Fruit, Saber-Toothed Tiger Model",
+    "type": "Zoan",
+    "series": "Cat",
+    "sub-type": "Ancient",
+    "user": "Who's-Who",
+    "canon_status": "Canon",
+    "description/transforms_into": "Saber-toothed tiger",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/2a/Neko_Neko_no_Mi%2C_Model_Saber_Tiger_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20230416152814"
+  },
+  {
+    "id": "199",
+    "name": "Uma Uma no Mi, Model: Pegasus(Horse-Horse Fruit, Model Pegasus)",
+    "en_name": "Horse-Horse Fruit, Model Pegasus",
+    "type": "Zoan",
+    "series": "Horse",
+    "sub-type": "Mythical",
+    "user": "Stronger",
+    "canon_status": "Canon",
+    "description/transforms_into": "PegasusGrants flight.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Uma_Uma_no_Mi%2C_Model_Pegasus_Infobox.png/revision/latest/scale-to-width-down/267?cb=20240211024057"
+  },
+  {
+    "id": "200",
+    "name": "Batto Batto no Mi(Bat-Bat Fruit)",
+    "en_name": "Bat-Bat Fruit",
+    "type": "Zoan",
+    "series": "Bat",
+    "sub-type": "Normal",
+    "user": "Stussy",
+    "canon_status": "Canon",
+    "description/transforms_into": "BatGrants the ability to suck blood akin to a vampire.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/db/Batto_Batto_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240512045557"
+  },
+  {
+    "id": "201",
+    "name": "Rako Rako no Mi(Ott-Ott Fruit)",
+    "en_name": "Ott-Ott Fruit",
+    "type": "Zoan",
+    "series": "Otter",
+    "sub-type": "Normal",
+    "user": "Pomsky",
+    "canon_status": "Canon",
+    "description/transforms_into": "Sea otter",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Rako_Rako_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250504173948"
+  },
+  {
+    "id": "202",
+    "name": "Inu Inu no Mi, Model: Hound(Dog-Dog Fruit, Model: Hound)",
+    "en_name": "Dog-Dog Fruit, Model: Hound",
+    "type": "Zoan",
+    "series": "Dog",
+    "sub-type": "Normal",
+    "user": "Hound",
+    "canon_status": "Canon",
+    "description/transforms_into": "Hound",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
+  },
+  {
+    "id": "203",
+    "name": "Ryu Ryu no Mi, Model: Kirin(Dragon-Dragon Fruit, Model: Kirin)",
+    "en_name": "Dragon-Dragon Fruit, Model: Kirin",
+    "type": "Zoan",
+    "series": "Dragon",
+    "sub-type": "Mythical",
+    "user": "Rimoshifu Killingham",
+    "canon_status": "Canon",
+    "description/transforms_into": "QilinDream-Manifesting HumanGrants the mythical powers of flight, to put others to sleep, and to manifest their dreams into reality.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Rimoshifu_Killingham_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250608150322"
+  },
+  {
+    "id": "204",
+    "name": "Risu Risu no Mi, Model: Ratatoskr(Squirrel-Squirrel Fruit, Model: Ice Squirrel Ratatoskr)",
+    "en_name": "Squirrel-Squirrel Fruit, Model: Ice Squirrel Ratatoskr",
+    "type": "Zoan",
+    "series": "Squirrel",
+    "sub-type": "Mythical",
+    "user": "Ragnir",
+    "canon_status": "Canon",
+    "description/transforms_into": "the Ice Squirrel RatatoskrGrants the mythical power to summon ice and snow.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e4/Ragnir_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260621192614"
+  },
+  {
+    "id": "205",
+    "name": "Ryu Ryu no Mi, Model: Nidh\u00f6ggr(Dragon-Dragon Fruit, Model: Nidh\u00f6ggr)",
+    "en_name": "Dragon-Dragon Fruit, Model: Nidh\u00f6ggr",
+    "type": "Zoan",
+    "series": "Dragon",
+    "sub-type": "Mythical",
+    "user": "Warrior God",
+    "previous_user": null,
+    "canon_status": "Canon",
+    "description/transforms_into": "Nidh\u00f6ggrGrants the user the ability to transform into the largest dragon in the world and breathe out lightning.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Ryu_Ryu_no_Mi%2C_Model_Nidh%C3%B6ggr_Infobox.png/revision/latest?cb=20260104150930"
+  },
+  {
+    "id": "206",
+    "name": "Unnamed; Minotaurus' fruit",
+    "sub-type": "Normal",
+    "canon_status": "Canon",
+    "description/transforms_into": "Holstein cow",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/15/Minotaurus_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240229081420"
+  },
+  {
+    "id": "207",
+    "name": "Unnamed; Minokoala's fruit",
+    "sub-type": "Normal",
+    "canon_status": "Canon",
+    "description/transforms_into": "Koala",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Minokoala_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20151024072752"
+  },
+  {
+    "id": "208",
+    "name": "Unnamed; Minorhinoceros' fruit",
+    "sub-type": "Normal",
+    "canon_status": "Canon",
+    "description/transforms_into": "Rhinoceros",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Minorhinoceros_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20100119225841"
+  },
+  {
+    "id": "209",
+    "name": "Unnamed; Minozebra's fruit",
+    "sub-type": "Normal",
+    "canon_status": "Canon",
+    "description/transforms_into": "Zebra",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/05/Minozebra_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20100119225840"
+  },
+  {
+    "id": "210",
+    "name": "Unnamed; Onigumo's fruit",
+    "sub-type": "Unknown",
+    "canon_status": "Canon",
+    "description/transforms_into": "Spider",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Onigumo_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20221123171305"
+  },
+  {
+    "id": "211",
+    "name": "Unnamed; Dalmatian's fruit",
+    "sub-type": "Normal",
+    "canon_status": "Canon",
+    "description/transforms_into": "Dalmatian",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Dalmatian_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20160818201819"
+  },
+  {
+    "id": "212",
+    "name": "Unnamed; Epoida's fruit",
+    "sub-type": "Unknown",
+    "canon_status": "Canon",
+    "description/transforms_into": "Caterpillar",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Epoida_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250303151401"
+  },
+  {
+    "id": "213",
+    "name": "Unnamed; Minochihuahua's fruit",
+    "sub-type": "Normal",
+    "canon_status": "Canon",
+    "description/transforms_into": "Chihuahua",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Minochihuahua_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250509011922"
+  },
+  {
+    "id": "214",
+    "name": "Unnamed; Jaygarcia Saturn's fruit(returned to circulation upon his death)",
+    "sub-type": "Mythical",
+    "canon_status": "Canon",
+    "description/transforms_into": "Gy\u016bkiGrants the ability to create poison, as well as harm people with an invisible force projected from one's eyes.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Jaygarcia_Saturn_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250409120617"
+  },
+  {
+    "id": "215",
+    "name": "Unnamed; Shepherd Ju Peter's fruit",
+    "sub-type": "Mythical",
+    "canon_status": "Canon",
+    "description/transforms_into": "SandwormGrants the ability to burrow through the earth at high speed and, by inhaling with the sandworm's giant mouth, to create a powerful vacuum suction.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Shepherd_Ju_Peter_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230308192302"
+  },
+  {
+    "id": "216",
+    "name": "Unnamed; Ethanbaron V. Nusjuro's fruit",
+    "sub-type": "Mythical",
+    "canon_status": "Canon",
+    "description/transforms_into": "BakotsuGrants the power to create ice.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Ethanbaron_V._Nusjuro_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230308192359"
+  },
+  {
+    "id": "217",
+    "name": "Unnamed; Marcus Mars' fruit",
+    "sub-type": "Mythical",
+    "canon_status": "Canon",
+    "description/transforms_into": "ItsumadeGrants flight and the ability to shoot fiery beams from the mouth.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Marcus_Mars_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230617153420"
+  },
+  {
+    "id": "218",
+    "name": "Unnamed; Topman Warcury's fruit",
+    "sub-type": "Mythical",
+    "canon_status": "Canon",
+    "description/transforms_into": "FengxiGrants the ability to shapeshift the fengxi's tusks into sword blades.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Topman_Warcury_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250914161645"
+  },
+  {
+    "id": "219",
+    "name": "Unnamed; Cerberus' fruit (Zoan animating an object)",
+    "sub-type": "Mythical",
+    "canon_status": "Canon",
+    "description/transforms_into": "CerberusGrants the ability to detach and sent flying the cerberus form's three heads.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/55/Cerberus_%28Sword%29_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260628161016"
+  },
+  {
+    "id": "220",
+    "name": "Tori Tori no Mi, Model: Eagle(Tori Tori Fruit Model Eagle)",
+    "en_name": "Tori Tori Fruit Model Eagle",
+    "type": "Zoan",
+    "series": "Bird",
+    "sub-type": "Normal",
+    "user": "Buzz",
+    "canon_status": "Non-Canon",
+    "description/transforms_into": "EagleGrants flight.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/df/Tori_Tori_no_Mi%2C_Model_Eagle_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130628213413"
+  },
+  {
+    "id": "221",
+    "name": "Inu Inu no Mi, Model: Bake-danuki",
+    "type": "Zoan",
+    "series": "Dog",
+    "sub-type": "Mythical",
+    "user": "Pato",
+    "canon_status": "Non-Canon",
+    "description/transforms_into": "Bake-danukiGrants the mythical power to transform ordinary leaves into clones of other people.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/05/Inu_Inu_no_Mi%2C_Model_Bake-danuki_Infobox.png/revision/latest?cb=20130929013736"
+  },
+  {
+    "id": "222",
+    "name": "Batto Batto no Mi, Model: Vampire(Bat-Bat Fruit, Model: Vampire)",
+    "en_name": "Bat-Bat Fruit, Model: Vampire",
+    "type": "Zoan",
+    "series": "Bat",
+    "sub-type": "Mythical",
+    "user": "Patrick Redfield",
+    "canon_status": "Non-Canon",
+    "description/transforms_into": "VampireGrants flightGrants the mythical power to drain other people of their life-force by biting their neck",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/57/Batto_Batto_no_Mi%2C_Model_Vampire_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220329093540"
+  },
+  {
+    "id": "223",
+    "name": "Tori Tori no Mi, Model: Nue",
+    "type": "Zoan",
+    "series": "Bird",
+    "sub-type": "Mythical",
+    "user": "Toratsugu",
+    "canon_status": "Non-Canon",
+    "description/transforms_into": "NueGrants flight",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Tori_Tori_no_Mi%2C_Model_Nue_Infobox.png/revision/latest/scale-to-width-down/268?cb=20171001124834"
   }
 ]
