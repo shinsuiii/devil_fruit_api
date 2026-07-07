@@ -48,7 +48,8 @@ def main():
 
 def get_df_info(url, session, id_counter):
     response = session.get(url)
-    tree = LexborHTMLParser(response.text)
+    html = response.text.replace("<br>", "; ").replace("<br/>", "; ").replace("<br />", "; ")
+    tree = LexborHTMLParser(html)
 
     status_code = response.status_code
     print(status_code)
@@ -104,7 +105,8 @@ def get_df_info(url, session, id_counter):
 
 def get_zoan_info(url, session, id_counter):
     response = session.get(url)
-    tree = LexborHTMLParser(response.text)
+    html = response.text.replace("<br>", "; ").replace("<br/>", "; ").replace("<br />", "; ")
+    tree = LexborHTMLParser(html)
 
     status_code = response.status_code
     print(status_code)
@@ -176,7 +178,8 @@ def get_zoan_info(url, session, id_counter):
 
 def get_links(url, headers):
     response = requests.get(url, headers=headers)
-    tree = LexborHTMLParser(response.text)
+    html = response.text.replace("<br>", "; ").replace("<br/>", "; ").replace("<br />", "; ")
+    tree = LexborHTMLParser(html)
 
     status_code = response.status_code
     print(status_code)
@@ -213,7 +216,8 @@ def get_img_src(df_links, session):
     for link in df_links:
         url = link["df_link"]
         response = session.get(url)
-        tree = LexborHTMLParser(response.text)
+        html = response.text.replace("<br>", "; ").replace("<br/>", "; ").replace("<br />", "; ")
+        tree = LexborHTMLParser(html)
 
         figure = tree.css(".pi-item.pi-image")
         anchor = figure[0].css_first("a")
@@ -231,7 +235,8 @@ def clean(text):
     if text is None:
         return None
 
-    return " ".join(text.replace("/", " ").split())
+    cleaned = " ".join(text.replace("/", " ").replace(".;", "; ").replace(";;", ";").replace("; ; ", "; ").split())
+    return cleaned
 
 
 if __name__ == "__main__":
