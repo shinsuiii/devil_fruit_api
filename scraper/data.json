@@ -643,7 +643,7 @@
     "name": "Mira Mira no Mi",
     "en_name": "Mirror-Mirror Fruit",
     "type": "Paramecia",
-    "user": "Charlotte Br\u00fbl\u00e9e",
+    "user": "Charlotte Brûlée",
     "canon_status": "Canon",
     "description": "Makes the user a Mirror Human who can create mirrors that reflect attacks, as well as transform living beings (themself included) into the reflection of a chosen target. The user can also turn any mirror into an entrance to the Mirro-World: an alternate space.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Mira_Mira_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20170709205701"
@@ -1189,7 +1189,7 @@
     "id": "119",
     "name": "Nito Nito no Mi",
     "type": "Paramecia",
-    "user": "B\u00fcrst",
+    "user": "Bürst",
     "canon_status": "Non-Canon",
     "description": "Makes the user a Nitroglycerin Human who can use the explosive abilities of nitroglycerin.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Nito_Nito_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20201008225608"
@@ -1595,20 +1595,20 @@
   },
   {
     "id": "162",
-    "name": "Hito Hito no Mi, Model: Nika; (Human-Human Fruit, Model: Nika)",
+    "name": "Hito Hito no Mi, Model: Nika",
     "en_name": "Human-Human Fruit, Model: Nika",
     "type": "Zoan",
     "series": "Human",
     "sub-type": "Mythical",
-    "user": "Joy Boy",
-    "previous_user": null,
+    "user": "Monkey D. Luffy",
+    "previous_user": "Joy Boy",
     "canon_status": "Canon",
     "description/transforms_into": "\"Sun God\" Nika; Grants a mythical body that has the properties of rubber; NOTE: The fruit has been renamed to \"Gomu Gomu no Mi\" and reclassified as a Paramecia by the World Government in order to hide its true nature.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/12/Gomu_Gomu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20221108072550"
   },
   {
     "id": "163",
-    "name": "Ushi Ushi no Mi, Model: Bison; (Ox-Ox Fruit, Bison Model; Ox-Ox Fruit, Bison Form)",
+    "name": "Ushi Ushi no Mi, Model: Bison",
     "en_name": "Ox-Ox Fruit, Bison Model; Ox-Ox Fruit, Bison Form",
     "type": "Zoan",
     "series": "Ox",
@@ -1620,7 +1620,7 @@
   },
   {
     "id": "164",
-    "name": "Hito Hito no Mi; (Human-Human Fruit)",
+    "name": "Hito Hito no Mi",
     "en_name": "Human-Human Fruit",
     "type": "Zoan",
     "series": "Human",
@@ -1632,7 +1632,7 @@
   },
   {
     "id": "165",
-    "name": "Tori Tori no Mi, Model: Falcon; (Tweet-Tweet Fruit Falcon Type; Bird-Bird Fruit Model: The Falcon)",
+    "name": "Tori Tori no Mi, Model: Falcon",
     "en_name": "Tweet-Tweet Fruit Falcon Type; Bird-Bird Fruit Model: The Falcon",
     "type": "Zoan",
     "series": "Bird",
@@ -1644,7 +1644,7 @@
   },
   {
     "id": "166",
-    "name": "Inu Inu no Mi, Model: Dachshund; (Mutt-Mutt Fruit, Dachshund Type; Dog-Dog Fruit, Model: Dachshund)",
+    "name": "Inu Inu no Mi, Model: Dachshund",
     "en_name": "Mutt-Mutt Fruit, Dachshund Type; Dog-Dog Fruit, Model: Dachshund",
     "type": "Zoan",
     "series": "Dog",
@@ -1656,7 +1656,7 @@
   },
   {
     "id": "167",
-    "name": "Mogu Mogu no Mi; (Mole-Mole Fruit; Diggy-Diggy Fruit)",
+    "name": "Mogu Mogu no Mi",
     "en_name": "Mole-Mole Fruit; Diggy-Diggy Fruit",
     "type": "Zoan",
     "series": "Mole",
@@ -1668,7 +1668,7 @@
   },
   {
     "id": "168",
-    "name": "Inu Inu no Mi, Model: Jackal; (Mutt-Mutt Fruit: Jackal Model; Dog-Dog Fruit, Model: Jackal)",
+    "name": "Inu Inu no Mi, Model: Jackal",
     "en_name": "Mutt-Mutt Fruit: Jackal Model; Dog-Dog Fruit, Model: Jackal",
     "type": "Zoan",
     "series": "Dog",
@@ -1680,7 +1680,7 @@
   },
   {
     "id": "169",
-    "name": "Uma Uma no Mi; (Horse-Horse Fruit)",
+    "name": "Uma Uma no Mi",
     "en_name": "Horse-Horse Fruit",
     "type": "Zoan",
     "series": "Horse",
@@ -1692,7 +1692,7 @@
   },
   {
     "id": "170",
-    "name": "Neko Neko no Mi, Model: Leopard; (Cat-Cat Fruit Leopard Model; Cat-Cat Fruit, Model: Leopard)",
+    "name": "Neko Neko no Mi, Model: Leopard",
     "en_name": "Cat-Cat Fruit Leopard Model; Cat-Cat Fruit, Model: Leopard",
     "type": "Zoan",
     "series": "Cat",
@@ -1704,7 +1704,7 @@
   },
   {
     "id": "171",
-    "name": "Inu Inu no Mi, Model: Wolf; (Mutt-Mutt Fruit Wolf Model; Dog-Dog Fruit, Model: Wolf)",
+    "name": "Inu Inu no Mi, Model: Wolf",
     "en_name": "Mutt-Mutt Fruit Wolf Model; Dog-Dog Fruit, Model: Wolf",
     "type": "Zoan",
     "series": "Dog",
@@ -1716,7 +1716,7 @@
   },
   {
     "id": "172",
-    "name": "Zou Zou no Mi; (Eleph-Eleph Fruit; Elephant-Elephant Fruit)",
+    "name": "Zou Zou no Mi",
     "en_name": "Eleph-Eleph Fruit; Elephant-Elephant Fruit",
     "type": "Zoan",
     "series": "Elephant",
@@ -1728,20 +1728,20 @@
   },
   {
     "id": "173",
-    "name": "Ushi Ushi no Mi, Model: Giraffe; (Ox-Ox Fruit, Giraffe Model; Ox-Ox Fruit, Model: Giraffe)",
+    "name": "Ushi Ushi no Mi, Model: Giraffe",
     "en_name": "Ox-Ox Fruit, Giraffe Model; Ox-Ox Fruit, Model: Giraffe",
     "type": "Zoan",
     "series": "Ox",
     "sub-type": "Normal",
-    "user": "New World",
-    "previous_user": null,
+    "user": "pirate",
+    "previous_user": "New World",
     "canon_status": "Canon",
     "description/transforms_into": "Giraffe",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Ushi_Ushi_no_Mi%2C_Model_Giraffe_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230120040539"
   },
   {
     "id": "174",
-    "name": "Ryu Ryu no Mi, Model: Allosaurus; (Dragon-Dragon Fruit, Allosaurus Model)",
+    "name": "Ryu Ryu no Mi, Model: Allosaurus",
     "en_name": "Dragon-Dragon Fruit, Allosaurus Model",
     "type": "Zoan",
     "series": "Dragon",
@@ -1753,7 +1753,7 @@
   },
   {
     "id": "175",
-    "name": "Hebi Hebi no Mi, Model: King Cobra; (Snake-Snake Fruit King Cobra Model; Snake-Snake Fruit, Model: King Cobra)",
+    "name": "Hebi Hebi no Mi, Model: King Cobra",
     "en_name": "Snake-Snake Fruit King Cobra Model; Snake-Snake Fruit, Model: King Cobra",
     "type": "Zoan",
     "series": "Snake",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": "176",
-    "name": "Hebi Hebi no Mi, Model: Anaconda; (Snake-Snake Fruit Anaconda Model; Snake-Snake Fruit, Model: Anaconda)",
+    "name": "Hebi Hebi no Mi, Model: Anaconda",
     "en_name": "Snake-Snake Fruit Anaconda Model; Snake-Snake Fruit, Model: Anaconda",
     "type": "Zoan",
     "series": "Snake",
@@ -1777,7 +1777,7 @@
   },
   {
     "id": "177",
-    "name": "Tori Tori no Mi, Model: Phoenix; (Tweet-Tweet Fruit, Phoenix Model; Bird-Bird Fruit, Model: Phoenix)",
+    "name": "Tori Tori no Mi, Model: Phoenix",
     "en_name": "Tweet-Tweet Fruit, Phoenix Model; Bird-Bird Fruit, Model: Phoenix",
     "type": "Zoan",
     "series": "Bird",
@@ -1789,7 +1789,7 @@
   },
   {
     "id": "178",
-    "name": "Hito Hito no Mi, Model: Daibutsu; (Human-Human Fruit, Daibutsu Model; Human-Human Fruit, Model: Buddha)",
+    "name": "Hito Hito no Mi, Model: Daibutsu",
     "en_name": "Human-Human Fruit, Daibutsu Model; Human-Human Fruit, Model: Buddha",
     "type": "Zoan",
     "series": "Human",
@@ -1801,19 +1801,19 @@
   },
   {
     "id": "179",
-    "name": "Tama Tama no Mi; (Egg-Egg Fruit)",
+    "name": "Tama Tama no Mi",
     "en_name": "Egg-Egg Fruit",
     "type": "Zoan",
     "series": "Egg",
     "sub-type": "Normal",
     "user": "Tamago",
     "canon_status": "Canon",
-    "description/transforms_into": "Egg \u2192 chick \u2192 chicken \u2192 egg",
+    "description/transforms_into": "Egg → chick → chicken → egg",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tama_Tama_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20171203040745"
   },
   {
     "id": "180",
-    "name": "Kame Kame no Mi; (Turtle-Turtle Fruit)",
+    "name": "Kame Kame no Mi",
     "en_name": "Turtle-Turtle Fruit",
     "type": "Zoan",
     "series": "Turtle",
@@ -1825,20 +1825,20 @@
   },
   {
     "id": "181",
-    "name": "Sara Sara no Mi, Model: Axolotl; (Sala-Sala Fruit, Model: Axolotl)",
+    "name": "Sara Sara no Mi, Model: Axolotl",
     "en_name": "Sala-Sala Fruit, Model: Axolotl",
     "type": "Zoan",
     "series": "Salamander",
     "sub-type": "Normal",
-    "user": "Smiley",
-    "previous_user": null,
+    "user": "Zoan-animated substance",
+    "previous_user": "Smiley",
     "canon_status": "Canon",
     "description/transforms_into": "Axolotl",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sara_Sara_no_Mi%2C_Model_Axolotl_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250412171742"
   },
   {
     "id": "182",
-    "name": "Mushi Mushi no Mi, Model: Kabutomushi; (Bug-Bug Fruit, Model Rhinoceros Beetle)",
+    "name": "Mushi Mushi no Mi, Model: Kabutomushi",
     "en_name": "Bug-Bug Fruit, Model Rhinoceros Beetle",
     "type": "Zoan",
     "series": "Bug",
@@ -1850,7 +1850,7 @@
   },
   {
     "id": "183",
-    "name": "Mushi Mushi no Mi, Model: Suzumebachi; (Bug-Bug Fruit, Model Hornet)",
+    "name": "Mushi Mushi no Mi, Model: Suzumebachi",
     "en_name": "Bug-Bug Fruit, Model Hornet",
     "type": "Zoan",
     "series": "Bug",
@@ -1862,7 +1862,7 @@
   },
   {
     "id": "184",
-    "name": "Zou Zou no Mi, Model: Mammoth; (Eleph-Eleph Fruit, Model: Mammoth)",
+    "name": "Zou Zou no Mi, Model: Mammoth",
     "en_name": "Eleph-Eleph Fruit, Model: Mammoth",
     "type": "Zoan",
     "series": "Elephant",
@@ -1874,7 +1874,7 @@
   },
   {
     "id": "185",
-    "name": "Tori Tori no Mi, Model: Albatross; (Bird-Bird Fruit, Model: Albatross; Tweet-Tweet Fruit, Albatross Model)",
+    "name": "Tori Tori no Mi, Model: Albatross",
     "en_name": "Bird-Bird Fruit, Model: Albatross; Tweet-Tweet Fruit, Albatross Model",
     "type": "Zoan",
     "series": "Bird",
@@ -1886,7 +1886,7 @@
   },
   {
     "id": "186",
-    "name": "Inu Inu no Mi, Model: Tanuki; (Dog-Dog Fruit, Model Tanuki)",
+    "name": "Inu Inu no Mi, Model: Tanuki",
     "en_name": "Dog-Dog Fruit, Model Tanuki",
     "type": "Zoan",
     "series": "Dog",
@@ -1898,20 +1898,20 @@
   },
   {
     "id": "187",
-    "name": "Uo Uo no Mi, Model: Seiryu; (Fish-Fish Fruit, Model: Azure Dragon; Fish-Fish Fruit, Azure Dragon Model)",
+    "name": "Uo Uo no Mi, Model: Seiryu",
     "en_name": "Fish-Fish Fruit, Model: Azure Dragon; Fish-Fish Fruit, Azure Dragon Model",
     "type": "Zoan",
     "series": "Fish",
     "sub-type": "Mythical",
-    "user": "Kaidou",
-    "previous_user": null,
+    "user": "Kouzuki Momonosuke",
+    "previous_user": "Kaidou",
     "canon_status": "Canon",
     "description/transforms_into": "Azure Dragon; Grants the mythical powers of flight via \"Flame Clouds\" and to create the elements of fire, wind, and lightning; The dragon form of Momonosuke's artificial power is pink.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Uo_Uo_no_Mi%2C_Model_Seiryu_Infobox.png/revision/latest/scale-to-width-down/268?cb=20211204205430"
   },
   {
     "id": "188",
-    "name": "Inu Inu no Mi, Model: Kyubi no Kitsune; (Dog-Dog Fruit, Nine-Tailed Fox Model)",
+    "name": "Inu Inu no Mi, Model: Kyubi no Kitsune",
     "en_name": "Dog-Dog Fruit, Nine-Tailed Fox Model",
     "type": "Zoan",
     "series": "Dog",
@@ -1923,20 +1923,19 @@
   },
   {
     "id": "189",
-    "name": "Hebi Hebi no Mi, Model: Yamata no Orochi; (Snake-Snake Fruit, Model: Yamata-no-Orochi)",
+    "name": "Hebi Hebi no Mi, Model: Yamata no Orochi",
     "en_name": "Snake-Snake Fruit, Model: Yamata-no-Orochi",
     "type": "Zoan",
     "series": "Snake",
     "sub-type": "Mythical",
-    "user": "Kurozumi Orochi",
-    "previous_user": null,
+    "previous_user": "Kurozumi Orochi",
     "canon_status": "Canon",
     "description/transforms_into": "Yamata no Orochi; Grants the mythical trait of having eight heads (allowing the user to survive decapitation seven times).",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Hebi_Hebi_no_Mi%2C_Model_Yamata_no_Orochi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210307032049"
   },
   {
     "id": "190",
-    "name": "Ryu Ryu no Mi, Model: Spinosaurus; (Dragon-Dragon Fruit, Spinosaurus Model)",
+    "name": "Ryu Ryu no Mi, Model: Spinosaurus",
     "en_name": "Dragon-Dragon Fruit, Spinosaurus Model",
     "type": "Zoan",
     "series": "Dragon",
@@ -1948,7 +1947,7 @@
   },
   {
     "id": "191",
-    "name": "Ryu Ryu no Mi, Model: Pteranodon; (Dragon-Dragon Fruit, Pteranodon Model)",
+    "name": "Ryu Ryu no Mi, Model: Pteranodon",
     "en_name": "Dragon-Dragon Fruit, Pteranodon Model",
     "type": "Zoan",
     "series": "Dragon",
@@ -1960,19 +1959,19 @@
   },
   {
     "id": "192",
-    "name": "Hito Hito no Mi, Model: Onyudo; (Human-Human Fruit, Model: Onyudo)",
+    "name": "Hito Hito no Mi, Model: Onyudo",
     "en_name": "Human-Human Fruit, Model: Onyudo",
     "type": "Zoan",
     "series": "Human",
     "sub-type": "Mythical",
     "user": "Onimaru",
     "canon_status": "Canon",
-    "description/transforms_into": "\u014cny\u016bd\u014d (monk y\u014dkai); Grants human intelligence speech to an animal that eats the fruit.",
+    "description/transforms_into": "Ōnyūdō (monk yōkai); Grants human intelligence speech to an animal that eats the fruit.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Onimaru_as_Gyukimaru.png/revision/latest/scale-to-width-down/268?cb=20200712035243"
   },
   {
     "id": "193",
-    "name": "Ryu Ryu no Mi, Model: Brachiosaurus; (Dragon-Dragon Fruit, Model Brachiosaurus)",
+    "name": "Ryu Ryu no Mi, Model: Brachiosaurus",
     "en_name": "Dragon-Dragon Fruit, Model Brachiosaurus",
     "type": "Zoan",
     "series": "Dragon",
@@ -1984,7 +1983,7 @@
   },
   {
     "id": "194",
-    "name": "Ryu Ryu no Mi, Model: Pachycephalosaurus; (Dragon-Dragon Fruit, Pachycephalosaurus Model)",
+    "name": "Ryu Ryu no Mi, Model: Pachycephalosaurus",
     "en_name": "Dragon-Dragon Fruit, Pachycephalosaurus Model",
     "type": "Zoan",
     "series": "Dragon",
@@ -1996,7 +1995,7 @@
   },
   {
     "id": "195",
-    "name": "Inu Inu no Mi, Model: Okuchi no Makami; (Dog-Dog Fruit, Model Okuchi-no-Makami)",
+    "name": "Inu Inu no Mi, Model: Okuchi no Makami",
     "en_name": "Dog-Dog Fruit, Model Okuchi-no-Makami",
     "type": "Zoan",
     "series": "Dog",
@@ -2008,7 +2007,7 @@
   },
   {
     "id": "196",
-    "name": "Ryu Ryu no Mi, Model: Triceratops; (Dragon-Dragon Fruit, Triceratops Model)",
+    "name": "Ryu Ryu no Mi, Model: Triceratops",
     "en_name": "Dragon-Dragon Fruit, Triceratops Model",
     "type": "Zoan",
     "series": "Dragon",
@@ -2020,7 +2019,7 @@
   },
   {
     "id": "197",
-    "name": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli; (Spider-Spider Fruit, Rosamygale Grauvogeli Model)",
+    "name": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
     "en_name": "Spider-Spider Fruit, Rosamygale Grauvogeli Model",
     "type": "Zoan",
     "series": "Spider",
@@ -2032,7 +2031,7 @@
   },
   {
     "id": "198",
-    "name": "Neko Neko no Mi, Model: Saber Tiger; (Cat-Cat Fruit, Saber-Toothed Tiger Model)",
+    "name": "Neko Neko no Mi, Model: Saber Tiger",
     "en_name": "Cat-Cat Fruit, Saber-Toothed Tiger Model",
     "type": "Zoan",
     "series": "Cat",
@@ -2044,7 +2043,7 @@
   },
   {
     "id": "199",
-    "name": "Uma Uma no Mi, Model: Pegasus; (Horse-Horse Fruit, Model Pegasus)",
+    "name": "Uma Uma no Mi, Model: Pegasus",
     "en_name": "Horse-Horse Fruit, Model Pegasus",
     "type": "Zoan",
     "series": "Horse",
@@ -2056,7 +2055,7 @@
   },
   {
     "id": "200",
-    "name": "Batto Batto no Mi; (Bat-Bat Fruit)",
+    "name": "Batto Batto no Mi",
     "en_name": "Bat-Bat Fruit",
     "type": "Zoan",
     "series": "Bat",
@@ -2068,7 +2067,7 @@
   },
   {
     "id": "201",
-    "name": "Rako Rako no Mi; (Ott-Ott Fruit)",
+    "name": "Rako Rako no Mi",
     "en_name": "Ott-Ott Fruit",
     "type": "Zoan",
     "series": "Otter",
@@ -2080,7 +2079,7 @@
   },
   {
     "id": "202",
-    "name": "Inu Inu no Mi, Model: Hound; (Dog-Dog Fruit, Model: Hound)",
+    "name": "Inu Inu no Mi, Model: Hound",
     "en_name": "Dog-Dog Fruit, Model: Hound",
     "type": "Zoan",
     "series": "Dog",
@@ -2092,7 +2091,7 @@
   },
   {
     "id": "203",
-    "name": "Ryu Ryu no Mi, Model: Kirin; (Dragon-Dragon Fruit, Model: Kirin)",
+    "name": "Ryu Ryu no Mi, Model: Kirin",
     "en_name": "Dragon-Dragon Fruit, Model: Kirin",
     "type": "Zoan",
     "series": "Dragon",
@@ -2104,7 +2103,7 @@
   },
   {
     "id": "204",
-    "name": "Risu Risu no Mi, Model: Ratatoskr; (Squirrel-Squirrel Fruit, Model: Ice Squirrel Ratatoskr)",
+    "name": "Risu Risu no Mi, Model: Ratatoskr",
     "en_name": "Squirrel-Squirrel Fruit, Model: Ice Squirrel Ratatoskr",
     "type": "Zoan",
     "series": "Squirrel",
@@ -2116,15 +2115,15 @@
   },
   {
     "id": "205",
-    "name": "Ryu Ryu no Mi, Model: Nidh\u00f6ggr; (Dragon-Dragon Fruit, Model: Nidh\u00f6ggr)",
-    "en_name": "Dragon-Dragon Fruit, Model: Nidh\u00f6ggr",
+    "name": "Ryu Ryu no Mi, Model: Nidhöggr",
+    "en_name": "Dragon-Dragon Fruit, Model: Nidhöggr",
     "type": "Zoan",
     "series": "Dragon",
     "sub-type": "Mythical",
-    "user": "Warrior God",
-    "previous_user": null,
+    "user": "Loki",
+    "previous_user": "Warrior God",
     "canon_status": "Canon",
-    "description/transforms_into": "Nidh\u00f6ggr; Grants the user the ability to transform into the largest dragon in the world and breathe out lightning.",
+    "description/transforms_into": "Nidhöggr; Grants the user the ability to transform into the largest dragon in the world and breathe out lightning.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Ryu_Ryu_no_Mi%2C_Model_Nidh%C3%B6ggr_Infobox.png/revision/latest?cb=20260104150930"
   },
   {
@@ -2196,7 +2195,7 @@
     "name": "Unnamed; Jaygarcia Saturn's fruit; (returned to circulation upon his death)",
     "sub-type": "Mythical",
     "canon_status": "Canon",
-    "description/transforms_into": "Gy\u016bki; Grants the ability to create poison, as well as harm people with an invisible force projected from one's eyes.",
+    "description/transforms_into": "Gyūki; Grants the ability to create poison, as well as harm people with an invisible force projected from one's eyes.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Jaygarcia_Saturn_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250409120617"
   },
   {
@@ -2241,7 +2240,18 @@
   },
   {
     "id": "220",
-    "name": "Tori Tori no Mi, Model: Eagle; (Tori Tori Fruit Model Eagle)",
+    "name": "Unknown",
+    "type": "Zoan",
+    "series": "Cat",
+    "sub-type": "Normal",
+    "user": "Chiqicheetah",
+    "canon_status": "Non-Canon",
+    "description/transforms_into": "Cheetah",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/13/Chiqicheetah%27s_Transformed_State.png/revision/latest?cb=20130420220302"
+  },
+  {
+    "id": "221",
+    "name": "Tori Tori no Mi, Model: Eagle",
     "en_name": "Tori Tori Fruit Model Eagle",
     "type": "Zoan",
     "series": "Bird",
@@ -2252,7 +2262,18 @@
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/df/Tori_Tori_no_Mi%2C_Model_Eagle_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130628213413"
   },
   {
-    "id": "221",
+    "id": "222",
+    "name": "Unknown",
+    "type": "Zoan",
+    "series": "Unknown",
+    "sub-type": "Normal",
+    "user": "Alpacacino",
+    "canon_status": "Non-Canon",
+    "description/transforms_into": "Alpaca",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Shuzo_Using_Alpacacino.png/revision/latest?cb=20130625222831"
+  },
+  {
+    "id": "223",
     "name": "Inu Inu no Mi, Model: Bake-danuki",
     "type": "Zoan",
     "series": "Dog",
@@ -2263,8 +2284,8 @@
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/05/Inu_Inu_no_Mi%2C_Model_Bake-danuki_Infobox.png/revision/latest?cb=20130929013736"
   },
   {
-    "id": "222",
-    "name": "Batto Batto no Mi, Model: Vampire; (Bat-Bat Fruit, Model: Vampire)",
+    "id": "224",
+    "name": "Batto Batto no Mi, Model: Vampire",
     "en_name": "Bat-Bat Fruit, Model: Vampire",
     "type": "Zoan",
     "series": "Bat",
@@ -2275,7 +2296,18 @@
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/57/Batto_Batto_no_Mi%2C_Model_Vampire_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220329093540"
   },
   {
-    "id": "223",
+    "id": "225",
+    "name": "Unknown",
+    "type": "Zoan",
+    "series": "Unknown",
+    "sub-type": "Unknown",
+    "user": "All-Hunt Grount",
+    "canon_status": "Non-Canon",
+    "description/transforms_into": "Red-furred, clawed, gorilla-like creature; Grount's transformation is isolated to his left arm for unknown reasons",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Grount%27s_Arm.png/revision/latest?cb=20170407040812"
+  },
+  {
+    "id": "226",
     "name": "Tori Tori no Mi, Model: Nue",
     "type": "Zoan",
     "series": "Bird",
