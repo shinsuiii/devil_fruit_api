@@ -67,6 +67,8 @@ def get_df_info(url, session, id_counter):
             td = tr.css("td")
             if not td:
                 continue
+            if len(td) == 2:
+                continue
             if not td[0].css_first("small") in td[0]:
                 en_name = None
             else: # Sets and cleans the English name
@@ -99,6 +101,9 @@ def get_df_info(url, session, id_counter):
                     "canon_status": "Canon" if table == ref_table else "Non-Canon",
                     "description": clean(td[2].text()) if len(td) > 2 else "",
             }
+            if data["canon_status"] == "Non-Canon":
+                data["appears_in"] = clean(td[3].text())
+
             text_data.append(data)
     return text_data, id_counter
 
@@ -171,6 +176,8 @@ def get_zoan_info(url, session, id_counter):
                         "canon_status": "Non-Canon" if table == tables[2] else "Canon",
                         "description/transforms_into": clean(td[4].text()),
                 }
+                if data["canon_status"] == "Non-Canon":
+                    data["appears_in"] = clean(td[5].text())
             else:
                 data = {
                     "id": str(id_counter),
