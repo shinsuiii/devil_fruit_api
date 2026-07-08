@@ -156,8 +156,6 @@ def get_zoan_info(url, session, id_counter):
                 name = td[0].css_first("a").text()
             else:
                 name = td[0].text()
-                if name == "Unknown\n" or name == None:
-                    continue
             
             id_counter += 1
             if len(td) > 3:
@@ -200,22 +198,22 @@ def get_links(url, headers):
         tbody = table.css_first("tbody")
         tr_list = tbody.css("tr")
         for tr in tr_list:
-            td_list = tr.css("td")
+            td = tr.css("td")
             # Skips <th> tags
-            if not td_list:
+            if not td:
                 continue
-
-            df_link_td = td_list[0]
-            a_element = df_link_td.css_first("a")
 
             try:
-                link = "https://onepiece.fandom.com" + a_element.attributes.get("href")
-                data = {
-                    "df_link": link
-                }
-                df_links.append(data)
+                name_element = td[0].css_first("a")
+                link = "https://onepiece.fandom.com" + name_element.attributes.get("href")
             except AttributeError:
-                continue
+                user_element = td[1].css_first("a")
+                link = "https://onepiece.fandom.com" + user_element.attributes.get("href") + "UNKNOWN"
+                        
+            data = {
+                "df_link": link
+            }
+            df_links.append(data)
     return df_links
 
 
@@ -224,19 +222,34 @@ def get_img_src(df_links, session):
 
     for link in df_links:
         url = link["df_link"]
-        response = session.get(url)
-        html = response.text.replace("<br>", "; ").replace("<br/>", "; ").replace("<br />", "; ")
-        tree = LexborHTMLParser(html)
+        if "UNKNOWN" in url:
+            unknown_url = url.replace("UNKNOWN", "")
+            response = session.get(unknown_url)
+            html = response.text.replace("<br>", "; ").replace("<br/>", "; ").replace("<br />", "; ")
+            tree = LexborHTMLParser(html)
 
-        figure = tree.css(".pi-item.pi-image")
-        anchor = figure[0].css_first("a")
-        img = anchor.css_first("img")
+            figure = tree.css("[class='thumb  show-info-icon']")
+            anchor = figure[0].css_first("a")
 
-        data = {
-            "img_src": img.attributes.get("src")
-        }
-        img_srcs.append(data)
-        time.sleep(0.2)
+            data = {
+                "img_src": anchor.attributes.get("href")
+            }
+            img_srcs.append(data)
+            time.sleep(0.2)
+        else:
+            response = session.get(url)
+            html = response.text.replace("<br>", "; ").replace("<br/>", "; ").replace("<br />", "; ")
+            tree = LexborHTMLParser(html)
+
+            figure = tree.css(".pi-item.pi-image")
+            anchor = figure[0].css_first("a")
+            img = anchor.css_first("img")
+
+            data = {
+                "img_src": img.attributes.get("src")
+            }
+            img_srcs.append(data)
+            time.sleep(0.2)
     return img_srcs
 
 
