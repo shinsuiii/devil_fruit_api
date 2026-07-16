@@ -4,7 +4,7 @@ import psycopg
 
 
 def main():
-    conn = psycopg.connect(
+    connect = psycopg.connect(
         host="localhost",
         dbname="df_db",
         user="postgres",
@@ -12,6 +12,19 @@ def main():
         port=5432,
     )
 
+    with connect:
+        query, rows = devil_fruits()
+        with connect.cursor() as cursor:
+            cursor.executemany(query, rows)
+        
+        zoan_query, zoan_rows = zoan_specific()
+        with connect.cursor() as cursor:
+            cursor.executemany(zoan_query, zoan_rows)
+
+    print(f"Inserted fruits!")
+
+
+def devil_fruits():
     query = """
     INSERT INTO devil_fruits (
         id,
@@ -58,12 +71,37 @@ def main():
         }
         for fruit in fruits
     ]
+    return query, rows
 
-    with conn:
-        with conn.cursor() as cur:
-            cur.executemany(query, rows)
 
-    print(f"Inserted {len(rows)} fruits!")
+def zoan_specific():
+    query = """
+    INSERT INTO zoan_specific (
+        zoan_id,
+        series,
+        sub_type
+    )
+    VALUES (
+        %(zoan_id)s,
+        %(series)s,
+        %(sub_type)s
+    )
+    ON CONFLICT (zoan_id) DO NOTHING;
+    """
+
+    with open("../scraper/data.json", "r", encoding="utf-8") as file:
+        fruits = json.load(file)
+
+    rows = [
+        {
+            "zoan_id": int(fruit["id"]),
+            "series": None if fruit.get("series") == "Unknown" else fruit.get("series"),
+            "sub_type": None if fruit.get("sub-type") == "Unknown" else fruit.get("sub-type"),
+        }
+        for fruit in fruits
+        if fruit.get("type") == "Zoan"
+    ]
+    return query, rows
 
 
 
