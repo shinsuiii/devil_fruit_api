@@ -1,15 +1,24 @@
+import os
 import json
 import psycopg
+from dotenv import load_dotenv
 
 
 
 def main():
+    load_dotenv()
+    db_host = os.getenv("host")
+    db = os.getenv("dbname")
+    db_user = os.getenv("user")
+    db_pass = os.getenv("password")
+    db_port = os.getenv("port")
+
     connect = psycopg.connect(
-        host="localhost",
-        dbname="df_db",
-        user="postgres",
-        password="shanejoey21",
-        port=5432,
+        host=db_host,
+        dbname=db,
+        user=db_user,
+        password=db_pass,
+        port=db_port,
     )
 
     with connect:
