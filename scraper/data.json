@@ -2164,6 +2164,7 @@
   {
     "id": "204",
     "name": "Unnamed; Minotaurus' fruit",
+    "type": "Zoan",
     "sub-type": "Normal",
     "canon_status": "Canon",
     "description": "Holstein cow",
@@ -2172,6 +2173,7 @@
   {
     "id": "205",
     "name": "Unnamed; Minokoala's fruit",
+    "type": "Zoan",
     "sub-type": "Normal",
     "canon_status": "Canon",
     "description": "Koala",
@@ -2180,6 +2182,7 @@
   {
     "id": "206",
     "name": "Unnamed; Minorhinoceros' fruit",
+    "type": "Zoan",
     "sub-type": "Normal",
     "canon_status": "Canon",
     "description": "Rhinoceros",
@@ -2188,6 +2191,7 @@
   {
     "id": "207",
     "name": "Unnamed; Minozebra's fruit",
+    "type": "Zoan",
     "sub-type": "Normal",
     "canon_status": "Canon",
     "description": "Zebra",
@@ -2196,6 +2200,7 @@
   {
     "id": "208",
     "name": "Unnamed; Onigumo's fruit",
+    "type": "Zoan",
     "sub-type": "Unknown",
     "canon_status": "Canon",
     "description": "Spider",
@@ -2204,6 +2209,7 @@
   {
     "id": "209",
     "name": "Unnamed; Dalmatian's fruit",
+    "type": "Zoan",
     "sub-type": "Normal",
     "canon_status": "Canon",
     "description": "Dalmatian",
@@ -2212,6 +2218,7 @@
   {
     "id": "210",
     "name": "Unnamed; Epoida's fruit",
+    "type": "Zoan",
     "sub-type": "Unknown",
     "canon_status": "Canon",
     "description": "Caterpillar",
@@ -2220,6 +2227,7 @@
   {
     "id": "211",
     "name": "Unnamed; Minochihuahua's fruit",
+    "type": "Zoan",
     "sub-type": "Normal",
     "canon_status": "Canon",
     "description": "Chihuahua",
@@ -2228,6 +2236,7 @@
   {
     "id": "212",
     "name": "Unnamed; Jaygarcia Saturn's fruit; (returned to circulation upon his death)",
+    "type": "Zoan",
     "sub-type": "Mythical",
     "canon_status": "Canon",
     "description": "Gyūki; Grants the ability to create poison, as well as harm people with an invisible force projected from one's eyes.",
@@ -2236,6 +2245,7 @@
   {
     "id": "213",
     "name": "Unnamed; Shepherd Ju Peter's fruit",
+    "type": "Zoan",
     "sub-type": "Mythical",
     "canon_status": "Canon",
     "description": "Sandworm; Grants the ability to burrow through the earth at high speed and, by inhaling with the sandworm's giant mouth, to create a powerful vacuum suction.",
@@ -2244,6 +2254,7 @@
   {
     "id": "214",
     "name": "Unnamed; Ethanbaron V. Nusjuro's fruit",
+    "type": "Zoan",
     "sub-type": "Mythical",
     "canon_status": "Canon",
     "description": "Bakotsu; Grants the power to create ice.",
@@ -2252,6 +2263,7 @@
   {
     "id": "215",
     "name": "Unnamed; Marcus Mars' fruit",
+    "type": "Zoan",
     "sub-type": "Mythical",
     "canon_status": "Canon",
     "description": "Itsumade; Grants flight and the ability to shoot fiery beams from the mouth.",
@@ -2260,6 +2272,7 @@
   {
     "id": "216",
     "name": "Unnamed; Topman Warcury's fruit",
+    "type": "Zoan",
     "sub-type": "Mythical",
     "canon_status": "Canon",
     "description": "Fengxi; Grants the ability to shapeshift the fengxi's tusks into sword blades.",
@@ -2268,6 +2281,7 @@
   {
     "id": "217",
     "name": "Unnamed; Cerberus' fruit (Zoan animating an object)",
+    "type": "Zoan",
     "sub-type": "Mythical",
     "canon_status": "Canon",
     "description": "Cerberus; Grants the ability to detach and sent flying the cerberus form's three heads.",

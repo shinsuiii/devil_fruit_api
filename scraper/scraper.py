@@ -182,6 +182,7 @@ def get_zoan_info(url, session, id_counter):
                 data = {
                     "id": str(id_counter),
                     "name": clean(f"Unnamed; {td[0].text()}"),
+                    "type": f'{url.replace("https://onepiece.fandom.com/wiki/", "")}',
                     "sub-type": clean(td[1].text()),
                     "canon_status": "Canon",
                     "description": clean(td[2].text()),
