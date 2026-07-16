@@ -174,7 +174,7 @@ def get_zoan_info(url, session, id_counter):
                         **({"user": clean(current_user)} if (not span) or (len(user_anchor) != 1) else {}),
                         **({"previous_user": clean(prev_user)} if span else {}),
                         "canon_status": "Non-Canon" if table == tables[2] else "Canon",
-                        "description/transforms_into": clean(td[4].text()),
+                        "description": clean(td[4].text()),
                 }
                 if data["canon_status"] == "Non-Canon":
                     data["appears_in"] = clean(td[5].text())
@@ -184,7 +184,7 @@ def get_zoan_info(url, session, id_counter):
                     "name": clean(f"Unnamed; {td[0].text()}"),
                     "sub-type": clean(td[1].text()),
                     "canon_status": "Canon",
-                    "description/transforms_into": clean(td[2].text()),
+                    "description": clean(td[2].text()),
                 }
             text_data.append(data)
     return text_data, id_counter

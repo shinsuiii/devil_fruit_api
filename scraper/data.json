@@ -1638,7 +1638,7 @@
     "user": "Monkey D. Luffy",
     "previous_user": "Joy Boy",
     "canon_status": "Canon",
-    "description/transforms_into": "\"Sun God\" Nika; Grants a mythical body that has the properties of rubber; NOTE: The fruit has been renamed to \"Gomu Gomu no Mi\" and reclassified as a Paramecia by the World Government in order to hide its true nature.",
+    "description": "\"Sun God\" Nika; Grants a mythical body that has the properties of rubber; NOTE: The fruit has been renamed to \"Gomu Gomu no Mi\" and reclassified as a Paramecia by the World Government in order to hide its true nature.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/12/Gomu_Gomu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20221108072550"
   },
   {
@@ -1650,7 +1650,7 @@
     "sub-type": "Normal",
     "user": "Dalton",
     "canon_status": "Canon",
-    "description/transforms_into": "Bison",
+    "description": "Bison",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Ushi_Ushi_no_Mi%2C_Model_Bison_Infobox.png/revision/latest/scale-to-width-down/267?cb=20220408131623"
   },
   {
@@ -1662,7 +1662,7 @@
     "sub-type": "Normal",
     "user": "Tony Tony Chopper",
     "canon_status": "Canon",
-    "description/transforms_into": "Human; Grants human intelligence speech to an animal that eats the fruit.",
+    "description": "Human; Grants human intelligence speech to an animal that eats the fruit.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/38/Hito_Hito_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20191228120250"
   },
   {
@@ -1674,7 +1674,7 @@
     "sub-type": "Normal",
     "user": "Pell",
     "canon_status": "Canon",
-    "description/transforms_into": "Falcon; Grants flight.",
+    "description": "Falcon; Grants flight.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Tori_Tori_no_Mi%2C_Model_Falcon_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20230916035747"
   },
   {
@@ -1686,7 +1686,7 @@
     "sub-type": "Normal",
     "user": "Lassoo",
     "canon_status": "Canon",
-    "description/transforms_into": "Dachshund",
+    "description": "Dachshund",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Inu_Inu_no_Mi%2C_Model_Dachshund_Infobox.png/revision/latest/scale-to-width-down/268?cb=20200625092631"
   },
   {
@@ -1698,7 +1698,7 @@
     "sub-type": "Normal",
     "user": "Drophy",
     "canon_status": "Canon",
-    "description/transforms_into": "Mole; Grants the ability to dig holes at high speed.",
+    "description": "Mole; Grants the ability to dig holes at high speed.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/95/Mogu_Mogu_no_Mi_Infobox.png/revision/latest/scale-to-width-down/267?cb=20230624124000"
   },
   {
@@ -1710,7 +1710,7 @@
     "sub-type": "Normal",
     "user": "Chaka",
     "canon_status": "Canon",
-    "description/transforms_into": "Jackal",
+    "description": "Jackal",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Inu_Inu_no_Mi%2C_Model_Jackal_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230913193627"
   },
   {
@@ -1722,7 +1722,7 @@
     "sub-type": "Normal",
     "user": "Pierre",
     "canon_status": "Canon",
-    "description/transforms_into": "Horse",
+    "description": "Horse",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/39/Uma_Uma_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220713111132"
   },
   {
@@ -1734,7 +1734,7 @@
     "sub-type": "Normal",
     "user": "Rob Lucci",
     "canon_status": "Canon",
-    "description/transforms_into": "Leopard",
+    "description": "Leopard",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/98/Neko_Neko_no_Mi%2C_Model_Leopard_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230306213909"
   },
   {
@@ -1746,7 +1746,7 @@
     "sub-type": "Normal",
     "user": "Jabra",
     "canon_status": "Canon",
-    "description/transforms_into": "Wolf",
+    "description": "Wolf",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Full-Beast_Form_of_Jabra%27s_fruit.png/revision/latest/scale-to-width-down/268?cb=20240303202356"
   },
   {
@@ -1758,7 +1758,7 @@
     "sub-type": "Normal",
     "user": "Funkfreed",
     "canon_status": "Canon",
-    "description/transforms_into": "Elephant",
+    "description": "Elephant",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Funkfreed_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250301182705"
   },
   {
@@ -1771,7 +1771,7 @@
     "user": "pirate",
     "previous_user": "New World",
     "canon_status": "Canon",
-    "description/transforms_into": "Giraffe",
+    "description": "Giraffe",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Ushi_Ushi_no_Mi%2C_Model_Giraffe_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230120040539"
   },
   {
@@ -1783,7 +1783,7 @@
     "sub-type": "Ancient",
     "user": "X Drake",
     "canon_status": "Canon",
-    "description/transforms_into": "Allosaurus",
+    "description": "Allosaurus",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Ryu_Ryu_no_Mi%2C_Model_Allosaurus_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20220301122130"
   },
   {
@@ -1795,7 +1795,7 @@
     "sub-type": "Normal",
     "user": "Boa Marigold",
     "canon_status": "Canon",
-    "description/transforms_into": "King cobra; Grants the ability to spit venom.",
+    "description": "King cobra; Grants the ability to spit venom.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/33/Hebi_Hebi_no_Mi%2C_Model_King_Cobra_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220408224556"
   },
   {
@@ -1807,7 +1807,7 @@
     "sub-type": "Normal",
     "user": "Boa Sandersonia",
     "canon_status": "Canon",
-    "description/transforms_into": "Anaconda",
+    "description": "Anaconda",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Hebi_Hebi_no_Mi%2C_Model_Anaconda_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210908193532"
   },
   {
@@ -1819,7 +1819,7 @@
     "sub-type": "Mythical",
     "user": "Polo Marco",
     "canon_status": "Canon",
-    "description/transforms_into": "Phoenix; Grants flight; Grants the mythical power to heal via the \"Blue Flames of Resurrection\".",
+    "description": "Phoenix; Grants flight; Grants the mythical power to heal via the \"Blue Flames of Resurrection\".",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/51/Tori_Tori_no_Mi%2C_Model_Phoenix_Infobox.png/revision/latest/scale-to-width-down/268?cb=20251002184357"
   },
   {
@@ -1831,7 +1831,7 @@
     "sub-type": "Mythical",
     "user": "Sengoku",
     "canon_status": "Canon",
-    "description/transforms_into": "Daibutsu (golden buddha statue); Grants the mythical power to project golden shockwaves from the palms.",
+    "description": "Daibutsu (golden buddha statue); Grants the mythical power to project golden shockwaves from the palms.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/45/Hito_Hito_no_Mi%2C_Model_Daibutsu_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240813213645"
   },
   {
@@ -1843,7 +1843,7 @@
     "sub-type": "Normal",
     "user": "Tamago",
     "canon_status": "Canon",
-    "description/transforms_into": "Egg → chick → chicken → egg",
+    "description": "Egg → chick → chicken → egg",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tama_Tama_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20171203040745"
   },
   {
@@ -1855,7 +1855,7 @@
     "sub-type": "Normal",
     "user": "Pekoms",
     "canon_status": "Canon",
-    "description/transforms_into": "Turtle",
+    "description": "Turtle",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/74/Kame_Kame_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20160120235204"
   },
   {
@@ -1868,7 +1868,7 @@
     "user": "Zoan-animated substance",
     "previous_user": "Smiley",
     "canon_status": "Canon",
-    "description/transforms_into": "Axolotl",
+    "description": "Axolotl",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sara_Sara_no_Mi%2C_Model_Axolotl_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250412171742"
   },
   {
@@ -1880,7 +1880,7 @@
     "sub-type": "Normal",
     "user": "Kabu",
     "canon_status": "Canon",
-    "description/transforms_into": "Rhinoceros beetle; Grants flight.",
+    "description": "Rhinoceros beetle; Grants flight.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/c/ce/Mushi_Mushi_no_Mi%2C_Model_Kabutomushi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20141006011335"
   },
   {
@@ -1892,7 +1892,7 @@
     "sub-type": "Normal",
     "user": "Bian",
     "canon_status": "Canon",
-    "description/transforms_into": "Hornet; Grants flight.",
+    "description": "Hornet; Grants flight.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mushi_Mushi_no_Mi%2C_Model_Suzumebachi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20140609062408"
   },
   {
@@ -1904,7 +1904,7 @@
     "sub-type": "Ancient",
     "user": "Jack",
     "canon_status": "Canon",
-    "description/transforms_into": "Mammoth",
+    "description": "Mammoth",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Zou_Zou_no_Mi%2C_Model_Mammoth_Beast_Form.png/revision/latest/scale-to-width-down/267?cb=20211212162937"
   },
   {
@@ -1916,7 +1916,7 @@
     "sub-type": "Normal",
     "user": "Morgans",
     "canon_status": "Canon",
-    "description/transforms_into": "Albatross; Current user incapable of flight.",
+    "description": "Albatross; Current user incapable of flight.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260405065914"
   },
   {
@@ -1928,7 +1928,7 @@
     "sub-type": "Normal",
     "user": "Bunbuku",
     "canon_status": "Canon",
-    "description/transforms_into": "Tanuki (raccoon dog)",
+    "description": "Tanuki (raccoon dog)",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/33/Bunbuku_Manga_Infobox.png/revision/latest/scale-to-width-down/267?cb=20210405204206"
   },
   {
@@ -1941,7 +1941,7 @@
     "user": "Kouzuki Momonosuke",
     "previous_user": "Kaidou",
     "canon_status": "Canon",
-    "description/transforms_into": "Azure Dragon; Grants the mythical powers of flight via \"Flame Clouds\" and to create the elements of fire, wind, and lightning; The dragon form of Momonosuke's artificial power is pink.",
+    "description": "Azure Dragon; Grants the mythical powers of flight via \"Flame Clouds\" and to create the elements of fire, wind, and lightning; The dragon form of Momonosuke's artificial power is pink.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Uo_Uo_no_Mi%2C_Model_Seiryu_Infobox.png/revision/latest/scale-to-width-down/268?cb=20211204205430"
   },
   {
@@ -1953,7 +1953,7 @@
     "sub-type": "Mythical",
     "user": "Catarina Devon",
     "canon_status": "Canon",
-    "description/transforms_into": "Nine-Tailed Fox Kitsune; Grants the mythical power to transform into the clone of someone else.",
+    "description": "Nine-Tailed Fox Kitsune; Grants the mythical power to transform into the clone of someone else.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Inu_Inu_no_Mi%2C_Model_Kyubi_no_Kitsune_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210717170215"
   },
   {
@@ -1965,7 +1965,7 @@
     "sub-type": "Mythical",
     "previous_user": "Kurozumi Orochi",
     "canon_status": "Canon",
-    "description/transforms_into": "Yamata no Orochi; Grants the mythical trait of having eight heads (allowing the user to survive decapitation seven times).",
+    "description": "Yamata no Orochi; Grants the mythical trait of having eight heads (allowing the user to survive decapitation seven times).",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Hebi_Hebi_no_Mi%2C_Model_Yamata_no_Orochi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210307032049"
   },
   {
@@ -1977,7 +1977,7 @@
     "sub-type": "Ancient",
     "user": "Page One",
     "canon_status": "Canon",
-    "description/transforms_into": "Spinosaurus",
+    "description": "Spinosaurus",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/92/Ryu_Ryu_no_Mi%2C_Model_Spinosaurus_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20220807021957"
   },
   {
@@ -1989,7 +1989,7 @@
     "sub-type": "Ancient",
     "user": "King",
     "canon_status": "Canon",
-    "description/transforms_into": "Pteranodon; Grants flight; Grants the unique ability to stretch and shoot out one's pteranodon head like a slingshot.",
+    "description": "Pteranodon; Grants flight; Grants the unique ability to stretch and shoot out one's pteranodon head like a slingshot.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/9/96/Ryu_Ryu_no_Mi%2C_Model_Pteranodon_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20220418123709"
   },
   {
@@ -2001,7 +2001,7 @@
     "sub-type": "Mythical",
     "user": "Onimaru",
     "canon_status": "Canon",
-    "description/transforms_into": "Ōnyūdō (monk yōkai); Grants human intelligence speech to an animal that eats the fruit.",
+    "description": "Ōnyūdō (monk yōkai); Grants human intelligence speech to an animal that eats the fruit.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Onimaru_as_Gyukimaru.png/revision/latest/scale-to-width-down/268?cb=20200712035243"
   },
   {
@@ -2013,7 +2013,7 @@
     "sub-type": "Ancient",
     "user": "Queen",
     "canon_status": "Canon",
-    "description/transforms_into": "Brachiosaurus; Grants the unique ability to separate the head, neck, and tail from the rest of the brachiosaurus body.",
+    "description": "Brachiosaurus; Grants the unique ability to separate the head, neck, and tail from the rest of the brachiosaurus body.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/40/Ryu_Ryu_no_Mi%2C_Model_Brachiosaurus_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20221106024038"
   },
   {
@@ -2025,7 +2025,7 @@
     "sub-type": "Ancient",
     "user": "Ulti",
     "canon_status": "Canon",
-    "description/transforms_into": "Pachycephalosaurus",
+    "description": "Pachycephalosaurus",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Ryu_Ryu_no_Mi%2C_Model_Pachycephalosaurus_Beast_Form.png/revision/latest/scale-to-width-down/267?cb=20240831170434"
   },
   {
@@ -2037,7 +2037,7 @@
     "sub-type": "Mythical",
     "user": "Yamato",
     "canon_status": "Canon",
-    "description/transforms_into": "Okuchi no Makami (wolf deity); Grants the mythical power to summon freezing cold and ice.",
+    "description": "Okuchi no Makami (wolf deity); Grants the mythical power to summon freezing cold and ice.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/1d/Inu_Inu_no_Mi%2C_Model_Okuchi_no_Makami_Infobox.png/revision/latest/scale-to-width-down/268?cb=20221120062131"
   },
   {
@@ -2049,7 +2049,7 @@
     "sub-type": "Ancient",
     "user": "Sasaki",
     "canon_status": "Canon",
-    "description/transforms_into": "Triceratops; Grants the unique ability to fly by spinning the triceratops' neck frill.",
+    "description": "Triceratops; Grants the unique ability to fly by spinning the triceratops' neck frill.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/58/Ryu_Ryu_no_Mi%2C_Model_Triceratops_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20220529042151"
   },
   {
@@ -2061,7 +2061,7 @@
     "sub-type": "Ancient",
     "user": "Black Maria",
     "canon_status": "Canon",
-    "description/transforms_into": "Rosamygale Grauvogeli spider; Grants the ability to extrude spider silk and weave spiderwebs nets.",
+    "description": "Rosamygale Grauvogeli spider; Grants the ability to extrude spider silk and weave spiderwebs nets.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Kumo_Kumo_no_Mi_Model_Rosamygale_Grauvogeli_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230818050241"
   },
   {
@@ -2073,7 +2073,7 @@
     "sub-type": "Ancient",
     "user": "Who's-Who",
     "canon_status": "Canon",
-    "description/transforms_into": "Saber-toothed tiger",
+    "description": "Saber-toothed tiger",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/2/2a/Neko_Neko_no_Mi%2C_Model_Saber_Tiger_Beast_Form.png/revision/latest/scale-to-width-down/268?cb=20230416152814"
   },
   {
@@ -2085,7 +2085,7 @@
     "sub-type": "Mythical",
     "user": "Stronger",
     "canon_status": "Canon",
-    "description/transforms_into": "Pegasus; Grants flight.",
+    "description": "Pegasus; Grants flight.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Uma_Uma_no_Mi%2C_Model_Pegasus_Infobox.png/revision/latest/scale-to-width-down/267?cb=20240211024057"
   },
   {
@@ -2097,7 +2097,7 @@
     "sub-type": "Normal",
     "user": "Stussy",
     "canon_status": "Canon",
-    "description/transforms_into": "Bat; Grants the ability to suck blood akin to a vampire.",
+    "description": "Bat; Grants the ability to suck blood akin to a vampire.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/db/Batto_Batto_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240512045557"
   },
   {
@@ -2109,7 +2109,7 @@
     "sub-type": "Normal",
     "user": "Pomsky",
     "canon_status": "Canon",
-    "description/transforms_into": "Sea otter",
+    "description": "Sea otter",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Rako_Rako_no_Mi_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250504173948"
   },
   {
@@ -2121,7 +2121,7 @@
     "sub-type": "Normal",
     "user": "Hound",
     "canon_status": "Canon",
-    "description/transforms_into": "Hound",
+    "description": "Hound",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/268?cb=20210110135101"
   },
   {
@@ -2133,7 +2133,7 @@
     "sub-type": "Mythical",
     "user": "Rimoshifu Killingham",
     "canon_status": "Canon",
-    "description/transforms_into": "Qilin; Dream-Manifesting Human; Grants the mythical powers of flight, to put others to sleep, and to manifest their dreams into reality.",
+    "description": "Qilin; Dream-Manifesting Human; Grants the mythical powers of flight, to put others to sleep, and to manifest their dreams into reality.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Rimoshifu_Killingham_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250608150322"
   },
   {
@@ -2145,8 +2145,8 @@
     "sub-type": "Mythical",
     "user": "Ragnir",
     "canon_status": "Canon",
-    "description/transforms_into": "the Ice Squirrel Ratatoskr; Grants the mythical power to summon ice and snow.",
-    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e4/Ragnir_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260621192614"
+    "description": "\"Ice Squirrel\" Ratatoskr; Grants the mythical power to summon ice and snow, with the ice being unmeltable through ordinary means.",
+    "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e4/Ragnir_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260710204315"
   },
   {
     "id": "203",
@@ -2158,7 +2158,7 @@
     "user": "Loki",
     "previous_user": "Warrior God",
     "canon_status": "Canon",
-    "description/transforms_into": "Nidhöggr; Grants the user the ability to transform into the largest dragon in the world and breathe out lightning.",
+    "description": "Nidhöggr; Grants the user the ability to transform into the largest dragon in the world and breathe out lightning.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Ryu_Ryu_no_Mi%2C_Model_Nidh%C3%B6ggr_Infobox.png/revision/latest?cb=20260104150930"
   },
   {
@@ -2166,7 +2166,7 @@
     "name": "Unnamed; Minotaurus' fruit",
     "sub-type": "Normal",
     "canon_status": "Canon",
-    "description/transforms_into": "Holstein cow",
+    "description": "Holstein cow",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/15/Minotaurus_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240229081420"
   },
   {
@@ -2174,7 +2174,7 @@
     "name": "Unnamed; Minokoala's fruit",
     "sub-type": "Normal",
     "canon_status": "Canon",
-    "description/transforms_into": "Koala",
+    "description": "Koala",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Minokoala_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20151024072752"
   },
   {
@@ -2182,7 +2182,7 @@
     "name": "Unnamed; Minorhinoceros' fruit",
     "sub-type": "Normal",
     "canon_status": "Canon",
-    "description/transforms_into": "Rhinoceros",
+    "description": "Rhinoceros",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Minorhinoceros_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20100119225841"
   },
   {
@@ -2190,7 +2190,7 @@
     "name": "Unnamed; Minozebra's fruit",
     "sub-type": "Normal",
     "canon_status": "Canon",
-    "description/transforms_into": "Zebra",
+    "description": "Zebra",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/05/Minozebra_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20100119225840"
   },
   {
@@ -2198,7 +2198,7 @@
     "name": "Unnamed; Onigumo's fruit",
     "sub-type": "Unknown",
     "canon_status": "Canon",
-    "description/transforms_into": "Spider",
+    "description": "Spider",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Onigumo_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20221123171305"
   },
   {
@@ -2206,7 +2206,7 @@
     "name": "Unnamed; Dalmatian's fruit",
     "sub-type": "Normal",
     "canon_status": "Canon",
-    "description/transforms_into": "Dalmatian",
+    "description": "Dalmatian",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Dalmatian_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20160818201819"
   },
   {
@@ -2214,7 +2214,7 @@
     "name": "Unnamed; Epoida's fruit",
     "sub-type": "Unknown",
     "canon_status": "Canon",
-    "description/transforms_into": "Caterpillar",
+    "description": "Caterpillar",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Epoida_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250303151401"
   },
   {
@@ -2222,7 +2222,7 @@
     "name": "Unnamed; Minochihuahua's fruit",
     "sub-type": "Normal",
     "canon_status": "Canon",
-    "description/transforms_into": "Chihuahua",
+    "description": "Chihuahua",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Minochihuahua_Manga_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250509011922"
   },
   {
@@ -2230,7 +2230,7 @@
     "name": "Unnamed; Jaygarcia Saturn's fruit; (returned to circulation upon his death)",
     "sub-type": "Mythical",
     "canon_status": "Canon",
-    "description/transforms_into": "Gyūki; Grants the ability to create poison, as well as harm people with an invisible force projected from one's eyes.",
+    "description": "Gyūki; Grants the ability to create poison, as well as harm people with an invisible force projected from one's eyes.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Jaygarcia_Saturn_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250409120617"
   },
   {
@@ -2238,7 +2238,7 @@
     "name": "Unnamed; Shepherd Ju Peter's fruit",
     "sub-type": "Mythical",
     "canon_status": "Canon",
-    "description/transforms_into": "Sandworm; Grants the ability to burrow through the earth at high speed and, by inhaling with the sandworm's giant mouth, to create a powerful vacuum suction.",
+    "description": "Sandworm; Grants the ability to burrow through the earth at high speed and, by inhaling with the sandworm's giant mouth, to create a powerful vacuum suction.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Shepherd_Ju_Peter_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230308192302"
   },
   {
@@ -2246,7 +2246,7 @@
     "name": "Unnamed; Ethanbaron V. Nusjuro's fruit",
     "sub-type": "Mythical",
     "canon_status": "Canon",
-    "description/transforms_into": "Bakotsu; Grants the power to create ice.",
+    "description": "Bakotsu; Grants the power to create ice.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Ethanbaron_V._Nusjuro_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230308192359"
   },
   {
@@ -2254,7 +2254,7 @@
     "name": "Unnamed; Marcus Mars' fruit",
     "sub-type": "Mythical",
     "canon_status": "Canon",
-    "description/transforms_into": "Itsumade; Grants flight and the ability to shoot fiery beams from the mouth.",
+    "description": "Itsumade; Grants flight and the ability to shoot fiery beams from the mouth.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Marcus_Mars_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230617153420"
   },
   {
@@ -2262,7 +2262,7 @@
     "name": "Unnamed; Topman Warcury's fruit",
     "sub-type": "Mythical",
     "canon_status": "Canon",
-    "description/transforms_into": "Fengxi; Grants the ability to shapeshift the fengxi's tusks into sword blades.",
+    "description": "Fengxi; Grants the ability to shapeshift the fengxi's tusks into sword blades.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Topman_Warcury_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20250914161645"
   },
   {
@@ -2270,7 +2270,7 @@
     "name": "Unnamed; Cerberus' fruit (Zoan animating an object)",
     "sub-type": "Mythical",
     "canon_status": "Canon",
-    "description/transforms_into": "Cerberus; Grants the ability to detach and sent flying the cerberus form's three heads.",
+    "description": "Cerberus; Grants the ability to detach and sent flying the cerberus form's three heads.",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/55/Cerberus_%28Sword%29_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20260628161016"
   },
   {
@@ -2281,7 +2281,7 @@
     "sub-type": "Normal",
     "user": "Chiqicheetah",
     "canon_status": "Non-Canon",
-    "description/transforms_into": "Cheetah",
+    "description": "Cheetah",
     "appears_in": "Long Ring Long Land Arc (filler)",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/1/13/Chiqicheetah%27s_Transformed_State.png/revision/latest?cb=20130420220302"
   },
@@ -2294,7 +2294,7 @@
     "sub-type": "Normal",
     "user": "Buzz",
     "canon_status": "Non-Canon",
-    "description/transforms_into": "Eagle; Grants flight.",
+    "description": "Eagle; Grants flight.",
     "appears_in": "One Piece 3D: Straw Hat Chase",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/d/df/Tori_Tori_no_Mi%2C_Model_Eagle_Infobox.png/revision/latest/scale-to-width-down/268?cb=20130628213413"
   },
@@ -2306,7 +2306,7 @@
     "sub-type": "Normal",
     "user": "Alpacacino",
     "canon_status": "Non-Canon",
-    "description/transforms_into": "Alpaca",
+    "description": "Alpaca",
     "appears_in": "Z's Ambition Arc",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Shuzo_Using_Alpacacino.png/revision/latest?cb=20130625222831"
   },
@@ -2318,7 +2318,7 @@
     "sub-type": "Mythical",
     "user": "Pato",
     "canon_status": "Non-Canon",
-    "description/transforms_into": "Bake-danuki; Grants the mythical power to transform ordinary leaves into clones of other people.",
+    "description": "Bake-danuki; Grants the mythical power to transform ordinary leaves into clones of other people.",
     "appears_in": "One Piece: Unlimited World Red",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/0/05/Inu_Inu_no_Mi%2C_Model_Bake-danuki_Infobox.png/revision/latest?cb=20130929013736"
   },
@@ -2331,7 +2331,7 @@
     "sub-type": "Mythical",
     "user": "Patrick Redfield",
     "canon_status": "Non-Canon",
-    "description/transforms_into": "Vampire; Grants flight; Grants the mythical power to drain other people of their life-force by biting their neck",
+    "description": "Vampire; Grants flight; Grants the mythical power to drain other people of their life-force by biting their neck",
     "appears_in": "One Piece: Unlimited World Red",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/5/57/Batto_Batto_no_Mi%2C_Model_Vampire_Infobox.png/revision/latest/scale-to-width-down/268?cb=20220329093540"
   },
@@ -2343,7 +2343,7 @@
     "sub-type": "Unknown",
     "user": "All-Hunt Grount",
     "canon_status": "Non-Canon",
-    "description/transforms_into": "Red-furred, clawed, gorilla-like creature; Grount's transformation is isolated to his left arm for unknown reasons",
+    "description": "Red-furred, clawed, gorilla-like creature; Grount's transformation is isolated to his left arm for unknown reasons",
     "appears_in": "Marine Rookie Arc",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Grount%27s_Arm.png/revision/latest?cb=20170407040812"
   },
@@ -2355,7 +2355,7 @@
     "sub-type": "Mythical",
     "user": "Toratsugu",
     "canon_status": "Non-Canon",
-    "description/transforms_into": "Nue; Grants flight",
+    "description": "Nue; Grants flight",
     "appears_in": "One Piece Art NUE",
     "img_src": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Tori_Tori_no_Mi%2C_Model_Nue_Infobox.png/revision/latest/scale-to-width-down/268?cb=20171001124834"
   }
